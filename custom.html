@@ -1,0 +1,134 @@
+---
+---
+{% assign categories = nil %}
+{% for recipe in site.recipes %}
+{% if categories %}
+    {% assign categories = categories | concat: recipe.categories %}
+{% else %}
+    {% assign categories = recipe.categories %}
+{% endif %}
+{% endfor %}
+{% if categories %}
+{% assign categories = categories | uniq  | sort %}
+{% endif %}
+
+{% assign ingredients = "" | split: ',' %}
+{% for recipe in site.recipes %}
+    {% if recipe.ingredients %}
+    {% for ingredient in recipe.ingredients %}
+        {% assign ingredients = ingredients | push: ingredient[0] %}
+    {% endfor %}
+    {% endif %}
+{% endfor %}
+{% if ingredients %}
+{% assign ingredients = ingredients | uniq | sort %}
+{% endif %}
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{{ site.title }}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <base href="{{ site.baseurl }}">
+        <link rel="stylesheet" href="css/w3.css">
+    </head>
+    <body style="background-color: #ece4d8;">
+        <div class="w3-main">
+            <header class="w3-padding" style="background-color: rgb(91, 127, 152); color: white;">
+                <div class="w3-container w3-padding-32 w3-center" style="border: 1px dashed rgb(126, 176, 210);">
+                    <h1>{{ site.title }}</h1>
+                </div>
+            </header>
+            <div class="w3-margin-left w3-margin-right w3-margin-top">
+                <div class="w3-padding collapsible w3-dark-grey w3-hover-opacity" data-content="searchForm">
+                    <h2>Filters <span class="w3-right">+</span></h2>
+                </div>
+                <form id="searchForm" class="w3-padding w3-light-grey w3-bottombar" style="display: none;">
+                    <div>
+                        <h3>Keywords</h3>
+                        <div class="w3-container">
+                            <input id="title" name="title" class="w3-input" placeholder="recipe name"/>
+                        </div>
+                    </div>
+                    <div>
+                        <h3>Categories</h3>
+                        <p style="text-align: center;">
+                            In which categories would you like to search?
+                        </p>
+                        <div class="w3-row w3-margin-left">
+                        {% for category in categories %}
+                        <div class="w3-third">
+                            <input type="checkbox" class="w3-check" id="category.{{category}}" name="category.{{category}}" value="{{category}}" checked>
+                            <label for="category.{{category}}">{{ category | capitalize }}</label>
+                        </div>
+                        {% endfor %}
+                        </div>
+                    </div>
+                    <div class="w3-row">
+                        <div class="w3-half">
+                            <h3>Required Ingredients</h3>
+                            <p style="text-align: center;">
+                                Which ingredients do you want to use? Use this to limit search results to only those that contain all the selected ingredients.
+                            </p>
+                            <div class="w3-row w3-container w3-border-right">
+                            {% for ingredient in ingredients %}
+                            <div class="w3-third">
+                                <input type="checkbox" class="w3-check" id="ingredient.{{ingredient}}" name="ingredient.{{ingredient}}" value="{{ingredient}}">
+                                <label for="ingredient.{{ingredient}}">{{ ingredient | capitalize }}</label>
+                            </div>
+                            {% endfor %}
+                            </div>
+                        </div>
+                        <div class="w3-half">
+                            <h3>Owned Ingredients</h3>
+                            <p style="text-align: center;">
+                                Which ingredients do you have available for use? Use this to limit search results to those which do not require ingredients you do not currently have.
+                            </p>
+                            <div class="w3-row w3-container">
+                            {% for ingredient in ingredients %}
+                            <div class="w3-third">
+                                <input type="checkbox" class="w3-check" id="owned.{{ingredient}}" name="owned.{{ingredient}}" value="{{ingredient}}" checked>
+                                <label for="owned.{{ingredient}}">{{ ingredient | capitalize }}</label>
+                            </div>
+                            {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                    <div class="w3-center w3-margin w3-padding">
+                        <button type="button" class="w3-button w3-blue" onclick="search.form('searchForm', 'searchResults');">Search</button>
+                    </div>
+                </form>
+            </div>
+            <div class="w3-border w3-light-grey w3-padding-16 w3-margin-left w3-margin-right">
+                <div class="w3-row" id="searchResults">
+
+                </div>
+            </div>
+        </div>
+        <script>
+            var coll = document.getElementsByClassName("collapsible");
+            var i;
+            for (i = 0; i < coll.length; i++) {
+                coll[i].addEventListener("click", function() {
+                    this.classList.toggle("active");
+                    var contentId = this.dataset.content;
+                    if (contentId) {
+                        content = document.getElementById(contentId);
+                        if (content.style.display === "block") {
+                            content.style.display = "none";
+                        } else {
+                            content.style.display = "block";
+                        }
+                    }
+                });
+            }
+        </script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous"></script>
+        <script src="js/search.js"></script>
+        <script>
+            $(document).ready(() => {
+                search.form('searchForm', 'searchResults');
+            });
+        </script>
+    </body>
+</html>

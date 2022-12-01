@@ -1,0 +1,16 @@
+---
+layout: page
+---
+<h1>Ingredients</h1>
+<section>
+    <ul>
+        {% for ingredient_hash in page.ingredients %}
+            <li>{{ ingredient_hash | last }} <strong>{{ ingredient_hash | first }}</strong></li>
+        {% endfor %}
+    </ul>
+</section>
+
+<h1>Instructions</h1>
+<section>
+    {{ content }}
+</section>
