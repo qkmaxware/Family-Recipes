@@ -50,17 +50,39 @@ layout: page
     <p style="text-align: center;">
     Which ingredients do you want to use?
     </p>
-    {% for ingredient in ingredients%}
-    <input type="checkbox" id="ingredient.{{ingredient}}" name="ingredient.{{ingredient}}" value="{{ingredient}}">
-    <label for="ingredient.{{ingredient}}">{{ ingredient | capitalize }}</label>
-    {% endfor %}
+    <table style="background-color: transparent">
+        {% for ingredient in ingredients %}
+            {% assign group = forloop.index0 | modulo: 3 %}
+            {% if group == 0 %}
+            <tr>
+            {% endif %}
+                <td>
+                    <input type="checkbox" id="ingredient.{{ingredient}}" name="ingredient.{{ingredient}}" value="{{ingredient}}">
+                    <label for="ingredient.{{ingredient}}">{{ ingredient | capitalize }}</label>
+                </td>
+            {% if group == 2 or forloop.last %}
+            </tr>
+            {% endif %}
+        {% endfor %}
+    </table>
     <p style="text-align: center;">
     Which ingredients do you have available for use?
     </p>
-    {% for ingredient in ingredients%}
-    <input type="checkbox" id="owned.{{ingredient}}" name="owned.{{ingredient}}" value="{{ingredient}}" checked>
-    <label for="owned.{{ingredient}}">{{ ingredient | capitalize }}</label>
-    {% endfor %}
+    <table style="background-color: transparent">
+        {% for ingredient in ingredients %}
+            {% assign group = forloop.index0 | modulo: 3 %}
+            {% if group == 0 %}
+            <tr>
+            {% endif %}
+                <td>
+                    <input type="checkbox" id="owned.{{ingredient}}" name="owned.{{ingredient}}" value="{{ingredient}}" checked>
+                    <label for="owned.{{ingredient}}">{{ ingredient | capitalize }}</label>
+                </td>
+            {% if group == 2 or forloop.last %}
+            </tr>
+            {% endif %}
+        {% endfor %}
+    </table>
 </div>
 
 </form>
