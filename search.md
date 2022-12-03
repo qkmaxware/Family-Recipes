@@ -31,6 +31,9 @@ layout: page
 
 <h2>Name</h2>
 <div style="padding: 10px;">
+    <p style="text-align: center;">
+    Do you want to filter results to recipes with a particular name?
+    </p>
     <input id="title" name="title" style="width: 100%;" placeholder="recipe name"/>
 </div>
 
@@ -39,18 +42,29 @@ layout: page
     <p style="text-align: center;">
     In which categories would you like to search?
     </p>
-    {% for category in categories%}
-    <input type="checkbox" id="category.{{category}}" name="category.{{category}}" value="{{category}}" checked>
-    <label for="category.{{category}}">{{ category | capitalize }}</label>
+    <table style="background-color: transparent; border-bottom: none !important;">
+    {% for category in categories %}
+        {% assign group = forloop.index0 | modulo: 3 %}
+        {% if group == 0 %}
+        <tr>
+        {% endif %}
+        <td>
+            <input type="checkbox" id="category.{{category}}" name="category.{{category}}" value="{{category}}" checked>
+            <label for="category.{{category}}">{{ category | capitalize }}</label>
+        </td>
+        {% if group == 2 or forloop.last %}
+        </tr>
+        {% endif %}
     {% endfor %}
+    </table>
 </div>
 
 <h2>Ingredients</h2>
 <div style="padding: 10px;">
     <p style="text-align: center;">
-    Which ingredients do you want to use?
+    Which ingredients do you want to use? If you select any of these ingredients then the results will only contain recipes that contain those ingredients.
     </p>
-    <table style="background-color: transparent">
+    <table style="background-color: transparent; border-bottom: none !important;">
         {% for ingredient in ingredients %}
             {% assign group = forloop.index0 | modulo: 3 %}
             {% if group == 0 %}
@@ -66,9 +80,9 @@ layout: page
         {% endfor %}
     </table>
     <p style="text-align: center;">
-    Which ingredients do you have available for use?
+    Which ingredients do you have available for use? If you deselect an ingredient from the list below, recipes that use that ingredient will no longer show up in the results. 
     </p>
-    <table style="background-color: transparent">
+    <table style="background-color: transparent; border-bottom: none !important;">
         {% for ingredient in ingredients %}
             {% assign group = forloop.index0 | modulo: 3 %}
             {% if group == 0 %}
@@ -87,10 +101,11 @@ layout: page
 
 </form>
 
-<div style="text-align: center; padding: 12px;">
-    <button onclick="search();">Search</button>
+<div style="text-align: center; padding: 12px; position: fixed; left: 0; bottom: 0; width: 100%;">
+    <button style="background-color: #7c334f; color: #ece4d8; border: 1px solid #c7556c; border-radius: 16px; font-size: large; padding: 8px 12px;" onclick="search();">Search for Recipes</button>
 </div>
 
+<a  id="searchResultAnchor" href="#results"></a>
 <h1>Results</h1>
 <ul id="searchResults">
 </ul>
@@ -132,6 +147,10 @@ function search() {
         var container = document.createElement('li');
         container.appendChild(link);
         results.appendChild(container);
+    }
+    var anchor = document.getElementById('searchResultAnchor');
+    if (anchor && anchor.scrollIntoView) {
+        anchor.scrollIntoView({ behavior: 'smooth' });
     }
 }
 
