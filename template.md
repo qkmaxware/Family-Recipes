@@ -1,5 +1,5 @@
 ---
-title: Recipe Search
+title: Recipe Template
 layout: page
 ---
 {% assign categories = nil %}
