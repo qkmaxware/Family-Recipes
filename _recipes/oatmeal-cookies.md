@@ -1,7 +1,7 @@
 ---
 title: Oatmeal Cookies
 categories:
-- desert
+- dessert
 ingredients:
   flour: 1.25 cup
   baking soda: 1/2 tablespoon

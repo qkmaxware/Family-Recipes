@@ -12,3 +12,6 @@ layout: page
 <p>
     or <a href="{{site.baseurl}}/search">Search</a> for a specific recipe
 </p>
+<p>
+    To create recipes from the recipe template please use the <a href="{{site.baseurl}}/template">template wizard</a>. 
+</p>

@@ -1,6 +1,6 @@
 ---
 title: Camp Cookies
 categories:
-- desert
+- dessert
 ingredients:
 ---
