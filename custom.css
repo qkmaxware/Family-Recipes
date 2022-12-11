@@ -9,3 +9,70 @@ html {
 .bannerlink:hover {
     color: paleturquoise
 } 
+
+.and li:not(:first-child)::before  {
+    content: "and\00a0";
+    background: lightgray;
+    border-radius: 1ch;
+    padding-inline: 1ch;
+    margin-inline-end: 1ch;
+}
+.and li:first-child::before  {
+    content: "with";
+    background: lightgray;
+    border-radius: 1ch;
+    padding-inline: 1ch;
+    margin-inline-end: 1ch;
+}
+
+.or li:not(:first-child)::before  {
+    content: "\00a0\00a0\00a0\00a0\00a0or\00a0\00a0\00a0\00a0\00a0";
+    background: lightgray;
+    border-radius: 1ch;
+    padding-inline: 1ch;
+    margin-inline-end: 1ch;
+}
+.or li:first-child::before  {
+    content: "without";
+    background: lightgray;
+    border-radius: 1ch;
+    padding-inline: 1ch;
+    margin-inline-end: 1ch;
+}
+
+input {
+    width: 100%;
+    padding: 8px 16px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+input:read-only {
+    background-color: lightgray;
+}
+
+input.small {
+    padding: 2px 4px;
+}
+
+input[type="checkbox"] {
+    width: auto;
+    box-sizing: unset !important;
+}
+
+button {
+    background-color: #7c334f; 
+    color: #ece4d8; 
+    border: 1px solid #c7556c; 
+    border-radius: 16px; 
+    font-size: large; 
+    padding: 8px 12px;
+}
+
+button.small {
+    font-size:small; 
+    padding: 2px 4px;
+    margin-left: 1em;
+    margin-right: 1em;
+}

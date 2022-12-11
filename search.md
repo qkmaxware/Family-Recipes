@@ -59,44 +59,48 @@ layout: page
     </table>
 </div>
 
+<datalist id="ingredients">
+    {% for ingredient in ingredients %}
+        <option>{{ ingredient | capitalize }}</option>
+    {% endfor %}
+</datalist>
+
 <h2>Ingredients</h2>
 <div style="padding: 10px;">
     <p style="text-align: center;">
-    Which ingredients do you want to use? If you select any of these ingredients then the results will only contain recipes that contain those ingredients.
+    Which ingredients do you want to use? Recipes in the results will contain <b>all</b> the ingredients selected.
     </p>
-    <table style="background-color: transparent; border-bottom: none !important;">
-        {% for ingredient in ingredients %}
-            {% assign group = forloop.index0 | modulo: 3 %}
-            {% if group == 0 %}
+    <div>
+        <table style="background-color: transparent; border-bottom: none !important;">
             <tr>
-            {% endif %}
                 <td>
-                    <input type="checkbox" id="ingredient.{{ingredient}}" name="ingredient.{{ingredient}}" value="{{ingredient}}">
-                    <label for="ingredient.{{ingredient}}">{{ ingredient | capitalize }}</label>
+                    <input placeholder="search" list="ingredients" id="include-ingredient-selection">
                 </td>
-            {% if group == 2 or forloop.last %}
+                <td style="width: 2em">
+                    <button type="button" onclick="addIngredientToIncludes()">+</button>
+                </td>
             </tr>
-            {% endif %}
-        {% endfor %}
-    </table>
+        </table>
+    </div>
+    <ul class="and" id="include-ingredient-list">
+    </ul>
     <p style="text-align: center;">
-    Which ingredients do you have available for use? If you deselect an ingredient from the list below, recipes that use that ingredient will no longer show up in the results. 
+    What ingredients do you not own? Any recipes containing the ingredients below will be excluded from the results.
     </p>
-    <table style="background-color: transparent; border-bottom: none !important;">
-        {% for ingredient in ingredients %}
-            {% assign group = forloop.index0 | modulo: 3 %}
-            {% if group == 0 %}
+    <div>
+        <table style="background-color: transparent; border-bottom: none !important;">
             <tr>
-            {% endif %}
                 <td>
-                    <input type="checkbox" id="owned.{{ingredient}}" name="owned.{{ingredient}}" value="{{ingredient}}" checked>
-                    <label for="owned.{{ingredient}}">{{ ingredient | capitalize }}</label>
+                    <input placeholder="search" list="ingredients" id="exclude-ingredient-selection">
                 </td>
-            {% if group == 2 or forloop.last %}
+                <td style="width: 2em">
+                    <button type="button" onclick="addIngredientToExcluded()">+</button>
+                </td>
             </tr>
-            {% endif %}
-        {% endfor %}
-    </table>
+        </table>
+    </div>
+    <ul class="or" id="exclude-ingredient-list">
+    </ul>
 </div>
 
 </form>
@@ -111,6 +115,9 @@ layout: page
 </ul>
 
 <script>
+var aliases = [{% for pair in site.data.aliases %}
+    { "ingredient": {{pair.ingredient}}, "alias": {{pair.alias}} }{% unless forloop.last %},{% endunless %}
+{% endfor %}];
 var store = [
     {% for recipe in site.recipes %}{
         "title"    : {{ recipe.title | jsonify }},
@@ -119,6 +126,62 @@ var store = [
         "url"      : {{ recipe.url | prepend: site.baseurl | jsonify }}
     } {% unless forloop.last %},{% endunless %}{% endfor %}
 ];
+
+function addIngredientToIncludes () {
+    var results = document.getElementById("include-ingredient-list");
+    var input = document.getElementById("include-ingredient-selection").value;
+    if (input === null || input === "") {
+        return;
+    }
+    input = input.toLowerCase();
+
+    var li = document.createElement("li");
+
+    var data = document.createElement("input");
+    data.classList.add("small");
+    data.value = input
+    data.readOnly = true;
+    data.name = "ingredient." + input;
+    data.style.width = "calc(100% - 8em)";
+    li.appendChild(data);
+    var btn = document.createElement("button");
+    btn.type = "button";
+    btn.classList.add("small");
+    btn.innerText = "x";
+    btn.onclick = function() {
+        li.remove();
+    };
+    li.appendChild(btn);
+    results.appendChild(li);
+}
+
+function addIngredientToExcluded() {
+    var results = document.getElementById("exclude-ingredient-list");
+    var input = document.getElementById("exclude-ingredient-selection").value;
+    if (input === null || input === "") {
+        return;
+    }
+    input = input.toLowerCase();
+
+    var li = document.createElement("li");
+
+    var data = document.createElement("input");
+    data.classList.add("small");
+    data.value = input
+    data.readOnly = true;
+    data.name = "notowned." + input;
+    data.style.width = "calc(100% - 12em)";
+    li.appendChild(data);
+    var btn = document.createElement("button");
+    btn.type = "button";
+    btn.classList.add("small");
+    btn.innerText = "x";
+    btn.onclick = function() {
+        li.remove();
+    };
+    li.appendChild(btn);
+    results.appendChild(li);
+}
 
 function search() {
     var form = $("#searchForm").serializeArray();
@@ -131,7 +194,7 @@ function search() {
         categories: Object.keys(data).filter(key => key.startsWith("category")).map(key => data[key]),
         ingredients: {
             desired: Object.keys(data).filter(key => key.startsWith("ingredient")).map(key => data[key]),
-            owned: Object.keys(data).filter(key => key.startsWith("owned")).map(key => data[key])
+            notowned: Object.keys(data).filter(key => key.startsWith("notowned")).map(key => data[key])
         }
         
     };
@@ -166,6 +229,15 @@ function arrayContainsAnotherArray(source, requiredValues){
     return true;
 }
 
+function arrayDoesntContainAny(source, list_to_exclude) {
+    for (var i = 0; i < list_to_exclude.length; i++) {
+        if (source.includes(list_to_exclude[i])) {
+            return false;
+        }
+    }
+    return true;
+}
+
 function query(title, categories, ingredients) {
     var results = [];
     var lower_title = title.toLowerCase();
@@ -177,8 +249,9 @@ function query(title, categories, ingredients) {
         var in_category = item.categories.some(r => categories.includes(r));
         var recipe_ingredients = (!item.ingredients ? [] : Object.keys(item.ingredients));
         var uses_all_ingredients = arrayContainsAnotherArray(recipe_ingredients, ingredients.desired);
-        var have_all_ingredients = arrayContainsAnotherArray(ingredients.owned, recipe_ingredients);
-        if (matches_title && in_category && uses_all_ingredients && have_all_ingredients) {
+        var doesnt_have_any_excludes = arrayDoesntContainAny(recipe_ingredients, ingredients.notowned);
+        //var have_all_ingredients = arrayContainsAnotherArray(ingredients.owned, recipe_ingredients);
+        if (matches_title && in_category && uses_all_ingredients && doesnt_have_any_excludes) {
             results.push(item);
         }
     });
