@@ -1,7 +1,7 @@
 ---
 title: Spaghetti with Puttanesca sauce
 categories:
-- Main
+- main
 
 ingredients:
   Garlic cloves: 5, minced

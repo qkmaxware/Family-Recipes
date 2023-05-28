@@ -1,7 +1,7 @@
 ---
 title: Shrimp bowl with Cilantro Rice
 categories:
-- Main
+- main
 
 ingredients:
   Rice: 1 cup, Cilantro lime rice

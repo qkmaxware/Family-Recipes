@@ -1,7 +1,7 @@
 ---
 title: Teriyaki Noodles
 categories:
-- Main
+- main
 
 ingredients:
   spaghetti: 16 ounces
