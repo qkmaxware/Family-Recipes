@@ -1,7 +1,7 @@
 ---
 title: Chilli Lime Quinoa Black Bean Salad
 categories:
-- Salads
+- salad
 
 ingredients:
   Quinoa: 3/4 cup, uncooked
