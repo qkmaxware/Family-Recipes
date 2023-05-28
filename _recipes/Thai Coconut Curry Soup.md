@@ -1,7 +1,7 @@
 ---
 title: Thai Coconut Curry Soup
 categories:
-- Soups
+- soup
 
 ingredients:
   Coconut oil: 2 tbsp
