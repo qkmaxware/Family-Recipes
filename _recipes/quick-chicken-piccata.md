@@ -3,18 +3,54 @@ title: Quick Chicken Piccata
 categories:
 - main
 ingredients:
-  chicken breast: 4 skinless boneless breast halves
-  cayenne pepper: to taste
-  salt: to taste
-  pepper: to taste
-  flour: all purpose, for dredging
-  olive oil: 2 tbsp.
-  capers: 1 tbsp., drained
-  white wine: ½ cup
-  lemon juice: ¼ cup
-  water: ¼ cup
-  butter: 3 tbsp., unsalted, cut in ¼ inch slices
-  parsley: 2 tbsp., fresh Italian
+  chicken breast:
+    amount: 4 
+    notes: skinless boneless breast halves
+    group: Main Dish
+  cayenne pepper:
+    amount: to taste
+    notes: 
+    group: Main Dish
+  salt:
+    amount: to taste
+    notes: 
+    group: Main Dish
+  pepper:
+    amount: to taste
+    notes: 
+    group: Main Dish
+  flour:
+    amount: any
+    notes: all purpose for dredging
+    group: Main Dish
+  olive oil:
+    amount: 2 tbsp.
+    notes: 
+    group: Main Dish
+  capers:
+    amount: 1 tbsp.
+    notes: drained
+    group: Main Dish
+  white wine:
+    amount: 1/2 cup
+    notes: 
+    group: Main Dish
+  lemon juice:
+    amount: 1/4 cup
+    notes: 
+    group: Main Dish
+  water:
+    amount: 1/4 cup
+    notes: 
+    group: Main Dish
+  butter:
+    amount: 3 tbsp.
+    notes: unsalted, cut in 1/4 inch slices
+    group: Main Dish
+  parsley:
+    amount: 2 tbsp.
+    notes: fresh Italian
+    group: Main Dish
 ---
 ## Instructions:
 1.	Place chicken breasts between 2 layers of plastic wrap and pound to about ½ inch thick

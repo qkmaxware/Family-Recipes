@@ -4,20 +4,62 @@ categories:
 - main
 
 ingredients:
-  spaghetti: 16 ounces
-  Teriyaki sauce: 1 cup
-  snow peas: 1 cup
-  Green onions: 1 bunch, chopped
-  Carrot: 2 cups, shredded
-  Sesame seeds: 1 tbsp
-  Cilantro: 1/2 cup, chopped
-  Soya sauce (low sodium): 2 cups, Teriyaki sauce
-  Brown sugar: 3/4 cup, Teriyaki sauce
-  Ginger: 2 inches, grated, Teriyaki sauce
-  Garlic: 2 cloves, minced, Teriyaki sauce
-  Sesame seed oil: 1/4 cup, Teriyaki sauce
-  Green onion: 1, chopped, Teriyaki sauce
-  carrots: 2 , shredded
+  spaghetti:
+    amount: 16 ounces
+    notes: 
+    group: Main Dish
+  Teriyaki sauce:
+    amount: 1 cup
+    notes: 
+    group: Main Dish
+  snow peas:
+    amount: 1 cup
+    notes: 
+    group: Main Dish
+  Green onions:
+    amount: 1 bunch
+    notes: chopped
+    group: Main Dish
+  Carrot:
+    amount: 2 cups
+    notes: shredded
+    group: Main Dish
+  Sesame seeds:
+    amount: 1 tbsp
+    notes: 
+    group: Main Dish
+  Cilantro:
+    amount: 1/2 cup
+    notes: chopped
+    group: Main Dish
+  Soya sauce:
+    amount: 2 cups
+    notes: low sodium
+    group: Teriyaki sauce
+  Brown sugar:
+    amount: 3/4 cup
+    notes: 
+    group: Teriyaki sauce
+  Ginger:
+    amount: 2 inches
+    notes: grated
+    group: Teriyaki sauce
+  Garlic:
+    amount: 2 cloves
+    notes: minced
+    group: Teriyaki sauce
+  Sesame seed oil:
+    amount: 1/4 cup
+    notes: 
+    group: Teriyaki sauce
+  Green onion:
+    amount: 1
+    notes: chopped
+    group: Teriyaki sauce
+  carrots:
+    amount: 2 
+    notes: shredded
+    group: Main Dish
 
 ---
 ## Instructions

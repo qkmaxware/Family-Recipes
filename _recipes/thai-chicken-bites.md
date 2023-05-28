@@ -3,17 +3,41 @@ title: Thai Chicken Bites
 categories:
 - appetizer
 ingredients:
-  oil: 1-2 inches
-  chicken breast: 1 large
-  flour: 1/2 cup
-  garlic powder: 1/2 teaspoon
-  salt: sprinkle
-  pepper: sprinkle
-  egg: 1
-  milk: 2 tablespoons
-  sweet chili sauce: 1/3 cup
-  carrots: 1 julienned
-  cilantro: enough to garnish
+  oil: 
+    amount: 1-2 inches
+    group: Main Dish
+  chicken breast: 
+    amount: 1 large
+    group: Main Dish
+  flour: 
+    amount: 1/2 cup
+    group: Main Dish
+  garlic powder: 
+    amount: 1/2 teaspoon
+    group: Main Dish
+  salt: 
+    amount: sprinkle
+    group: Main Dish
+  pepper: 
+    amount: sprinkle
+    group: Main Dish
+  egg: 
+    amount: 1
+    group: Main Dish
+  milk: 
+    amount: 2 tablespoons
+    group: Main Dish
+  sweet chili sauce: 
+    amount: 1/3 cup
+    group: Main Dish
+  carrots: 
+    amount: 1 
+    notes: julienned
+    group: Main Dish
+  cilantro: 
+    amount: any
+    notes: enough to garnish
+    group: Main Dish
 ---
 1.	Pour 1-2 inches of oil into a deep skillet. Preheat over medium heat.
 2.	Cut chicken into bite size pieces and set aside. In a shallow dish, stir together flour, garlic powder, salt and pepper.

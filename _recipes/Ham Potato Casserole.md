@@ -4,20 +4,62 @@ categories:
 - main
 
 ingredients:
-  ham: 2 cups, cubed and fully cooked
-  potatoes: 2 cups, peeled and cubed
-  celery: 2 stalks, chopped
-  water: 3 cups
-  margarine: 1/4 cup and 3 tablespoons, used in different steps
-  onion: 2 teaspoons, chopped
-  green pepper: 1, diced
-  flour: 3 tablespoons
-  milk: 1 cup
-  salt: 1/8 teaspoon
-  black pepper: 1/8 teaspoon
-  cheddar cheese: 1 cup, shredded
-  bread crumbs: 1/2 cup, dry
-  carrot: 1 large, sliced
+  ham:
+    amount: 2 cups
+    notes: cubed and fully cooked
+    group: Main Dish
+  potatoes:
+    amount: 2 cups
+    notes: peeled and cubed
+    group: Main Dish
+  celery:
+    amount: 2 stalks
+    notes: chopped
+    group: Main Dish
+  water:
+    amount: 3 cups
+    notes: 
+    group: Main Dish
+  margarine:
+    amount: 1/4 cup and 3 tablespoons
+    notes: used in different steps
+    group: Main Dish
+  onion:
+    amount: 2 teaspoons
+    notes: chopped
+    group: Main Dish
+  green pepper:
+    amount: 1
+    notes: diced
+    group: Main Dish
+  flour:
+    amount: 3 tablespoons
+    notes: 
+    group: Main Dish
+  milk:
+    amount: 1 cup
+    notes: 
+    group: Main Dish
+  salt:
+    amount: 1/8 teaspoon
+    notes: 
+    group: Main Dish
+  black pepper:
+    amount: 1/8 teaspoon
+    notes: 
+    group: Main Dish
+  cheddar cheese:
+    amount: 1 cup
+    notes: shredded
+    group: Main Dish
+  bread crumbs:
+    amount: 1/2 cup
+    notes: dry
+    group: Main Dish
+  carrot:
+    amount: 1 large
+    notes: sliced
+    group: Main Dish
 
 ---
 ## Instructions

@@ -4,24 +4,77 @@ categories:
 - soup
 
 ingredients:
-  Coconut oil: 2 tbsp
-  Green Bell pepper: 1 large, thinly sliced
-  Yellow Bell pepper: 1 large, thinly sliced
-  red onion: 1 medium, thinly sliced
-  Red curry paste: 3 tbsp
-  Ginger: 1 tbsp, grated
-  Garlic: 3 cloves, minced
-  Chicken stock: 2 cups
-  Tomato sauce: 1 can (8 ounces)
-  Fish sauce: 1 1/2 tbsp
-  Brown sugar: 2 tsp
-  Coconut milk: 1 can (13.5 ounces)
-  Shrimp: 1 1/2 cups
-  Thai basil leaves: 1/4 cup, fresh
-  Cilantro: 1/4 cup, chopped
-  Lime juice: 2 tbsp
-  Salt: to taste
-  Pepper: to taste
+  Coconut oil: 
+    amount: 2 tbsp
+    group: Main Dish
+  Green Bell pepper:
+    amount: 1 large
+    notes: thinly sliced
+    group: Main Dish
+  Yellow Bell pepper:
+    amount: 1 large
+    notes: thinly sliced
+    group: Main Dish
+  red onion:
+    amount: 1 medium
+    notes: thinly sliced
+    group: Main Dish
+  Red curry paste:
+    amount: 3 tbsp
+    notes: 
+    group: Main Dish
+  Ginger:
+    amount: 1 tbsp
+    notes: grated
+    group: Main Dish
+  Garlic:
+    amount: 3 cloves
+    notes: minced
+    group: Main Dish
+  Chicken stock:
+    amount: 2 cups
+    notes: 
+    group: Main Dish
+  Tomato sauce:
+    amount: 1 can 
+    notes: 8 ounces
+    group: Main Dish
+  Fish sauce:
+    amount: 1 1/2 tbsp
+    notes: 
+    group: Main Dish
+  Brown sugar:
+    amount: 2 tsp
+    notes: 
+    group: Main Dish
+  Coconut milk:
+    amount: 1 can 
+    notes: 13.5 ounces
+    group: Main Dish
+  Shrimp:
+    amount: 1 1/2 cups
+    notes: 
+    group: Main Dish
+  Thai basil leaves:
+    amount: 1/4 cup
+    notes: fresh
+    group: Main Dish
+  Cilantro:
+    amount: 1/4 cup
+    notes: chopped
+    group: Main Dish
+  Lime juice:
+    amount: 2 tbsp
+    notes: 
+    group: Main Dish
+  Salt:
+    amount: to taste
+    notes: 
+    group: Main Dish
+  Pepper:
+    amount: to taste
+    notes: 
+    group: Main Dish
 
 ---
 ## Instructions

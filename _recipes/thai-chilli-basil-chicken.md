@@ -3,18 +3,47 @@ title: Thai Chilli Basil Chicken
 categories:
 - main
 ingredients:
-  chicken: 7 ounces, boneless, cut into bit size pieces
-  shallot: 1, cut into 4 cm., 2” lengths
-  thai basil leaves: 1 cup, loosely packed
-  garlic: 2 large cloves, finely chopped
-  thai chilli: 1, deseeded and finely chopped
-  oil: 1 ½ tbsp. (peanut, vegetable or canola)
-  oyster sauce: 2 tsp.
-  soy sauce: 1 tsp., light
-  soy sauce: 1 tsp., dark
-  sugar: 1 tsp.
-  water: 2 tbsp.
-  rice: prepared
+  chicken: 
+    amount: 7 ounces
+    notes: boneless, cut into bit size pieces
+    group: Main Dish
+  shallot: 
+    amount: 1
+    notes: cut into 4 cm., 2” lengths
+    group: Main Dish
+  thai basil leaves: 
+    amount: 1 cup
+    notes: loosely packed
+    group: Main Dish
+  garlic: 
+    amount: 2 large cloves
+    notes: finely chopped
+    group: Main Dish
+  thai chilli: 
+    amount: 1
+    notes: deseeded and finely chopped
+    group: Main Dish
+  oil: 
+    amount: 1 ½ tbsp. 
+    nots: peanut, vegetable or canola
+    group: Main Dish
+  oyster sauce: 
+    amount: 2 tsp.
+    group: Main Dish
+  soy sauce: 
+    amount: 2 tsp.
+    notes: 1 tsp light, 1 tsp dark
+    group: Main Dish
+  sugar: 
+    amount: 1 tsp.
+    group: Main Dish
+  water: 
+    amount: 2 tbsp.
+    group: Main Dish
+  rice: 
+    amount: any
+    notes: cooked
+    group: Main Dish
 ---
 ## Instructions:
 1.	Mix together oyster sauce, soy sauces, sugar and water in a small bowl

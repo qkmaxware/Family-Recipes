@@ -3,21 +3,66 @@ title: Coconut Key Lime Thumbprints
 categories:
 - cookies
 ingredients:
-  cornstarch: 2 tbsp.
-  lime juice: 2/3 cup
-  sugar: ¾ cup
-  egg yolks: 2 large
-  butter: 1 cup softened
-  icing sugar: ½ cup
-  salt: 1/8 tsp.
-  vanilla extract: 1 tsp.
-  coconut extract: ½ tsp. 
-  flour: 2 cups, all purpose
-  egg whites: 2 large
-  water: 2 tsp.
-  coconut: 1 ½ cups sweetened, shredded
-  white baking chocolate: 4 ounces, chopped
-  shortening: 1 tbsp.
+  cornstarch:
+    amount: 2 tbsp.
+    notes: 
+    group: Main Dish
+  lime juice:
+    amount: 2/3 cup
+    notes: 
+    group: Main Dish
+  sugar:
+    amount: 3/4 cup
+    notes: 
+    group: Main Dish
+  egg yolks:
+    amount: 2 large
+    notes: 
+    group: Main Dish
+  butter:
+    amount: 1 cup softened
+    notes: 
+    group: Main Dish
+  icing sugar:
+    amount: 1/2 cup
+    notes: 
+    group: Main Dish
+  salt:
+    amount: 1/8 tsp.
+    notes: 
+    group: Main Dish
+  vanilla extract:
+    amount: 1 tsp.
+    notes: 
+    group: Main Dish
+  coconut extract:
+    amount: 1/2 tsp. 
+    notes: 
+    group: Main Dish
+  flour:
+    amount: 2 cups
+    notes: all purpose
+    group: Main Dish
+  egg whites:
+    amount: 2 large
+    notes: 
+    group: Main Dish
+  water:
+    amount: 2 tsp.
+    notes: 
+    group: Main Dish
+  coconut:
+    amount: 1 1/2 cups sweetened
+    notes: shredded
+    group: Main Dish
+  white baking chocolate:
+    amount: 4 ounces
+    notes: chopped
+    group: Main Dish
+  shortening:
+    amount: 1 tbsp.
+    notes: 
+    group: Main Dish
 ---
 ## Instructions:
 1.	In a small saucepan, whisk cornstarch and lime juice until smooth. Whisk in sugar and egg yolks; cook and stir over medium heat until boiling. Transfer to a bowl; cool slightly. Press plastic wrap onto surface of curd; refrigerate until cold.

@@ -3,28 +3,94 @@ title: Jambalaya
 categories:
 - main
 ingredients:
-  vegetable oil: 1 tbsp
-  bacon: 6 ounces, preferably smoked, chopped
-  andouille: 7 ounces, sliced ( or smoked sausage)
-  chicken: 10 oz., skinless, boneless, cut into 1” pieces
-  prawns: 12, raw (peeled with or without tails)
-  garlic: 4 cloves, minced
-  butter: 1 tbsp
-  onion: 1 large, chopped
-  celery: 2 ribs, sliced
-  green Bell pepper: two, cut into 1.5 cm. pieces
-  long grain rice: 1.25 cups
-  chicken broth: 2.5 cups
-  canned crushed tomato: 6.5 ounces
-  tomato paste: 2 tbsp.
-  green onions: 1 cup, sliced 
-  thyme: 2 tsp. chopped fresh or 1 tsp dried
-  paprika: 4 tsp. sweet
-  garlic powder: 1 tsp.
-  onion powder: 1 tsp.
-  cayenne Powder: ½ tsp.
-  black pepper: ½ tsp
-  salt: ½ tsp.
+  vegetable oil:
+    amount: 1 tbsp
+    notes: 
+    group: Main Dish
+  bacon:
+    amount: 6 ounces
+    notes: preferably smoked, chopped
+    group: Main Dish
+  andouille:
+    amount: 7 ounces
+    notes: sliced ( or smoked sausage)
+    group: Main Dish
+  chicken:
+    amount: 10 oz.
+    notes: skinless, boneless, cut into 1
+    group: Main Dish” pieces
+  prawns:
+    amount: 12
+    notes: raw (peeled with or without tails)
+    group: Main Dish
+  garlic:
+    amount: 4 cloves
+    notes: minced
+    group: Main Dish
+  butter:
+    amount: 1 tbsp
+    notes: 
+    group: Main Dish
+  onion:
+    amount: 1 large
+    notes: chopped
+    group: Main Dish
+  celery:
+    amount: 2 ribs
+    notes: sliced
+    group: Main Dish
+  green Bell pepper:
+    amount: two
+    notes: cut into 1.5 cm. pieces
+    group: Main Dish
+  long grain rice:
+    amount: 1.25 cups
+    notes: 
+    group: Main Dish
+  chicken broth:
+    amount: 2.5 cups
+    notes: 
+    group: Main Dish
+  canned crushed tomato:
+    amount: 6.5 ounces
+    notes: 
+    group: Main Dish
+  tomato paste:
+    amount: 2 tbsp.
+    notes: 
+    group: Main Dish
+  green onions:
+    amount: 1 cup
+    notes: sliced 
+    group: Main Dish
+  thyme:
+    amount: 2 tsp. chopped fresh or 1 tsp dried
+    notes: 
+    group: Main Dish
+  paprika:
+    amount: 4 tsp. sweet
+    notes: 
+    group: Main Dish
+  garlic powder:
+    amount: 1 tsp.
+    notes: 
+    group: Main Dish
+  onion powder:
+    amount: 1 tsp.
+    notes: 
+    group: Main Dish
+  cayenne Powder:
+    amount: 1/2 tsp.
+    notes: 
+    group: Main Dish
+  black pepper:
+    amount: 1/2 tsp
+    notes: 
+    group: Main Dish
+  salt:
+    amount: 1/2 tsp.
+    notes: 
+    group: Main Dish
 ---
 ## Instructions
 1.	Preheat over to 180C/350F

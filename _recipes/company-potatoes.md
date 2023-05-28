@@ -3,12 +3,30 @@ title: Company Potatoes
 categories:
 - side
 ingredients:
-  potatoes: 8 cups, thinly sliced
-  bread crumbs: 2 tbsp.
-  butter: 1/2 cup (or margarine)
-  salt: 1 tbsp.
-  pepper: 1/2 tsp
-  onions: 1/2 cup, thinly sliced
+  potatoes:
+    amount: 8 cups
+    notes: thinly sliced
+    group: Main Dish
+  bread crumbs:
+    amount: 2 tbsp.
+    notes: 
+    group: Main Dish
+  butter:
+    amount: 1/2 cup
+    notes: or margarine
+    group: Main Dish
+  salt:
+    amount: 1 tbsp.
+    notes: 
+    group: Main Dish
+  pepper:
+    amount: 1/2 tsp
+    notes: 
+    group: Main Dish
+  onions:
+    amount: 1/2 cup
+    notes: thinly sliced
+    group: Main Dish
 ---
 ## Instructions
 1. Preheat oven to 375 degrees

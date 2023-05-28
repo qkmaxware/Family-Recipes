@@ -4,21 +4,66 @@ categories:
 - salad
 
 ingredients:
-  Quinoa: 3/4 cup, uncooked
-  Water: 1 1/2 cup
-  Bell pepper: 1 medium
-  Onion: 1/2 medium, diced
-  Grape tomatoes: 1 cup, sliced or halved
-  Black beans: 1 15 oz. can, drained and rinsed
-  Cilantro: 1 cup, loosely packed and chopped
-  Avocado: 1 medium, cubed
-  Feta cheese: 1/2 cup, crumbled
-  Olive oil: 1/3 cup, Vinagrette
-  Limes: 2 (1/4 cup), Vinaigrette
-  Cumin: 1/2 tsp., Vinaigrette
-  Garlic powder: 1/2 tsp., Vinaigrette
-  Chilli powder: 1/4 tsp., Vinagrette
-  Cayenne: a pinch, Vinaigrette
+  Quinoa:
+    amount: 3/4 cup
+    notes: uncooked
+    group: Main Dish
+  Water:
+    amount: 1 1/2 cup
+    notes: 
+    group: Main Dish
+  Bell pepper:
+    amount: 1 medium
+    notes: 
+    group: Main Dish
+  Onion:
+    amount: 1/2 medium
+    notes: diced
+    group: Main Dish
+  Grape tomatoes:
+    amount: 1 cup
+    notes: sliced or halved
+    group: Main Dish
+  Black beans:
+    amount: 1 15 oz. can
+    notes: drained and rinsed
+    group: Main Dish
+  Cilantro:
+    amount: 1 cup
+    notes: loosely packed and chopped
+    group: Main Dish
+  Avocado:
+    amount: 1 medium
+    notes: cubed
+    group: Main Dish
+  Feta cheese:
+    amount: 1/2 cup
+    notes: crumbled
+    group: Main Dish
+  Olive oil:
+    amount: 1/3 cup
+    notes: 
+    group: Vinaigrette
+  Limes:
+    amount: 2 (1/4 cup)
+    notes: 
+    group: Vinaigrette
+  Cumin:
+    amount: 1/2 tsp.
+    notes: 
+    group: Vinaigrette
+  Garlic powder:
+    amount: 1/2 tsp.
+    notes: 
+    group: Vinaigrette
+  Chilli powder:
+    amount: 1/4 tsp.
+    notes: 
+    group: Vinaigrette
+  Cayenne:
+    amount: a pinch
+    notes: 
+    group: Vinaigrette
 
 ---
 ## Instructions

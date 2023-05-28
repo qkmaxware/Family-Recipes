@@ -4,14 +4,38 @@ categories:
 - main
 
 ingredients:
-  Garlic cloves: 5, minced
-  Olive oil: 1/3 cup
-  Capers: 1/4 cup
-  Olives: 2/3 cup, pitted
-  Tomatoes: 14 oz. can, chopped
-  Anchovy fillets: 1 tbsp. (3 or 4), crushed
-  Pepper: to taste
-  Spaghetti: 1 box
+  Garlic cloves:
+    amount: 5
+    notes: minced
+    group: Main Dish
+  Olive oil:
+    amount: 1/3 cup
+    notes: 
+    group: Main Dish
+  Capers:
+    amount: 1/4 cup
+    notes: 
+    group: Main Dish
+  Olives:
+    amount: 2/3 cup
+    notes: pitted
+    group: Main Dish
+  Tomatoes:
+    amount: 14 oz. can
+    notes: chopped
+    group: Main Dish
+  Anchovy fillets:
+    amount: 1 tbsp. 
+    notes: crushed
+    group: Main Dish
+  Pepper:
+    amount: to taste
+    notes: 
+    group: Main Dish
+  Spaghetti:
+    amount: 1 box
+    notes: 
+    group: Main Dish
 
 ---
 ## Instructions

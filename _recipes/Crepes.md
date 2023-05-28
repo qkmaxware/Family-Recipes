@@ -4,20 +4,62 @@ categories:
 - main
 
 ingredients:
-  Eggs: 2
-  Salt: 1/4 tsp
-  Flour: 3/4 cup
-  Milk: 1 cup
-  Butter: 2 tbsp., melted, I also just use pam
-  Ham: 100 grams, thinly sliced
-  Broccoli: head, small pieces, can be substituted with asparagus
-  Margarine: 1/4 cup, For sauce
-  Flour: 1/4 cup, For sauce
-  Salt: 1/2 tsp., For sauce
-  Pepper: 1/4 tsp., For sauce
-  Milk: 2 cups, For sauce
-  Lemon juice: 1 tsp., For sauce
-  Green onion: 1, For sauce
+  Eggs:
+    amount: 2
+    notes: 
+    group: Main Dish
+  Salt:
+    amount: 1/4 tsp
+    notes: 
+    group: Main Dish
+  Flour:
+    amount: 3/4 cup
+    notes: 
+    group: Main Dish
+  Milk:
+    amount: 1 cup
+    notes: 
+    group: Main Dish
+  Butter:
+    amount: 2 tbsp.
+    notes: melted, I also just use pam
+    group: Main Dish
+  Ham:
+    amount: 100 grams
+    notes: thinly sliced
+    group: Main Dish
+  Broccoli:
+    amount: head
+    notes: small pieces, can be substituted with asparagus
+    group: Main Dish
+  Margarine:
+    amount: 1/4 cup
+    notes: For sauce
+    group: Main Dish
+  Flour:
+    amount: 1/4 cup
+    notes: For sauce
+    group: Main Dish
+  Salt:
+    amount: 1/2 tsp.
+    notes: For sauce
+    group: Main Dish
+  Pepper:
+    amount: 1/4 tsp.
+    notes: For sauce
+    group: Main Dish
+  Milk:
+    amount: 2 cups
+    notes: For sauce
+    group: Main Dish
+  Lemon juice:
+    amount: 1 tsp.
+    notes: For sauce
+    group: Main Dish
+  Green onion:
+    amount: 1
+    notes: For sauce
+    group: Main Dish
 
 ---
 ## Instructions

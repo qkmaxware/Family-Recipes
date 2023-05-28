@@ -3,16 +3,46 @@ title: Honey garlic cauliflower
 categories:
 - appetizer
 ingredients:
-  flour: 1 cup (all purpose)
-  panko breadcrumbs: 2 cups
-  eggs: 3 large, beaten
-  cauliflower: 1 head, chopped into bite size florets
-  honey: 1/3 cup
-  lime juice: 5 tbsp.
-  sriracha: 1 tbsp.
-  water: ¼ cup
-  corn starch: 2 tsp.
-  scallions: ¼ cup sliced
+  flour:
+    amount: 1 cup
+    notes: all purpose
+    group: Main Dish
+  panko breadcrumbs:
+    amount: 2 cups
+    notes: 
+    group: Main Dish
+  eggs:
+    amount: 3 large
+    notes: beaten
+    group: Main Dish
+  cauliflower:
+    amount: 1 head
+    notes: chopped into bite size florets
+    group: Main Dish
+  honey:
+    amount: 1/3 cup
+    notes: 
+    group: Main Dish
+  lime juice:
+    amount: 5 tbsp.
+    notes: 
+    group: Main Dish
+  sriracha:
+    amount: 1 tbsp.
+    notes: 
+    group: Main Dish
+  water:
+    amount: 1/4 cup
+    notes: 
+    group: Main Dish
+  corn starch:
+    amount: 2 tsp.
+    notes: 
+    group: Main Dish
+  scallions:
+    amount: 1/4 cup
+    notes: sliced
+    group: Main Dish
 ---
 ## Instructions
 1.	Preheat oven to 400 degrees Fahrenheit

@@ -3,19 +3,58 @@ title: Mongolian Beef
 categories:
 - main
 ingredients:
-  flank steak: 1 1/4 lbs, thinly sliced
-  cornstarch: 1/4 cup + 2 tsp. divided use
-  vegetable oil: 3 tbsp.
-  garlic: 1 ½ tsp. minced
-  ginger: 1 tsp. minced
-  sesame oil: 1 tsp. toasted
-  soy sauce: 1/2 low sodium
-  water: 1/3 cup
-  brown sugar: 1/2 cup, dark brown
-  green onions: 1/2 cup cut into 1 inch pieces
-  salt: to taste
-  pepper: to taste
-  white rice: cooked
+  flank steak:
+    amount: 1 1/4 lbs
+    notes: thinly sliced
+    group: Main Dish
+  cornstarch:
+    amount: 1/4 cup + 2 tsp. divided use
+    notes: 
+    group: Main Dish
+  vegetable oil:
+    amount: 3 tbsp.
+    notes: 
+    group: Main Dish
+  garlic:
+    amount: 1 1/2 tsp. minced
+    notes: 
+    group: Main Dish
+  ginger:
+    amount: 1 tsp. minced
+    notes: 
+    group: Main Dish
+  sesame oil:
+    amount: 1 tsp. toasted
+    notes: 
+    group: Main Dish
+  soy sauce:
+    amount: 1/2 low sodium
+    notes: 
+    group: Main Dish
+  water:
+    amount: 1/3 cup
+    notes: 
+    group: Main Dish
+  brown sugar:
+    amount: 1/2 cup
+    notes: dark brown
+    group: Main Dish
+  green onions:
+    amount: 1/2 cup cut into 1 inch pieces
+    notes: 
+    group: Main Dish
+  salt:
+    amount: to taste
+    notes: 
+    group: Main Dish
+  pepper:
+    amount: to taste
+    notes: 
+    group: Main Dish
+  white rice:
+    amount: cooked
+    notes: 
+    group: Main Dish
 ---
 ## Instructions:
 1.	Place the flank steak and ¼ cup cornstarch in a resealable bag, shake to coat evenly.

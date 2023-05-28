@@ -3,20 +3,55 @@ title: Beef and Broccoli Stir Fry
 categories:
 - main
 ingredients:
-  flank steak: 1 ¼ lbs, thinly sliced
-  vegetable oil: 1 tbsp. + 1 tsp.
-  broccoli: 2 cups chopped, florets
-  ginger: 2 tsp. minced
-  garlic: 1 tsp. minced
-  oyster sauce: ¼ cup
-  beef broth: ¼ cup
-  sugar: 1 tsp.
-  sesame oil: 2 tsp. toasted
-  soy sauce: 1 tsp. light sodium
-  cornstarch: 1 tsp.
-  salt: to taste
-  pepper: to taste
-  white rice: cooked
+  flank steak: 
+    amount: 1 ¼ lbs
+    notes: thinly sliced
+    group: Main Dish
+  vegetable oil: 
+    amount: 1 tbsp. + 1 tsp.
+    group: Main Dish
+  broccoli: 
+    amount: 2 cups chopped
+    notes: florets
+    group: Main Dish
+  ginger: 
+    amount: 2 tsp. 
+    notes: minced
+    group: Main Dish
+  garlic: 
+    amount: 1 tsp. 
+    notes: minced
+    group: Main Dish
+  oyster sauce: 
+    amount: ¼ cup
+    group: Main Dish
+  beef broth: 
+    amount: ¼ cup
+    group: Main Dish
+  sugar: 
+    amount: 1 tsp.
+    group: Main Dish
+  sesame oil: 
+    amount: 2 tsp. 
+    notes: toasted
+    group: Main Dish
+  soy sauce: 
+    amount: 1 tsp. 
+    notes: light sodium
+    group: Main Dish
+  cornstarch: 
+    amount: 1 tsp.
+    group: Main Dish
+  salt: 
+    amount: to taste
+    group: Main Dish
+  pepper: 
+    amount: to taste
+    group: Main Dish
+  white rice: 
+    amount: any
+    notes: cooked
+    group: Main Dish
 ---
 ## Instructions:
 1.	Heat 1 tsp. of oil in a large frying pan over medium heat. Add the broccoli and cook for approximately 4 minutes or until tender.

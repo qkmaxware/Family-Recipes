@@ -4,14 +4,32 @@ categories:
 - loafs
 - breads
 ingredients:
-  butter: 2 tbsp
-  sugar: 1 cup
-  eggs: 2
-  nuts: 1/2 cup, optional
-  baking soda: 1 tsp
-  water: 1 tbsp
-  flour: 1 1/2 cup
-  bananas: 2-3 ripe, mashed
+  butter: 
+    amount: 2 tbsp
+    group: Main Dish
+  sugar: 
+    amount: 1 cup
+    group: Main Dish
+  eggs: 
+    amount: 2
+    group: Main Dish
+  nuts: 
+    amount: 1/2 cup
+    notes: optional
+    group: Main Dish
+  baking soda: 
+    amount: 1 tsp
+    group: Main Dish
+  water: 
+    amount: 1 tbsp
+    group: Main Dish
+  flour: 
+    amount: 1 1/2 cup
+    group: Main Dish
+  bananas: 
+    amount: 2-3 ripe
+    notes: mashed
+    group: Main Dish
 ---
 ## Instructions:
 1.	Cream butter, sugar and eggs together

@@ -3,16 +3,41 @@ title: Antipasto Platter
 categories:
 - appetizer
 ingredients:
-  red bell peppers: 3 large, quartered, seeds and membranes removed
-  zucchini: 3 medium, cut lengthwise into ¼ “ slices
-  sweet potatoes: 1 – ½ lbs., peeled if desired, cut lengthwise into 1/8” thick slices
-  eggplant: 1 medium, cut lengthwise into ¼” thick slices
-  olive oil: ½ cup
-  balsamic vinegar: ¼ cup
-  sweet chili sauce: 3 tbsp.
-  garlic: 4 cloves, minced
-  salt: to taste
-  pepper: to taste
+  red bell peppers: 
+    amount: 3 
+    notes: large, quartered, seeds and membranes removed
+    group: Main Dish
+  zucchini: 
+    amount: 3 
+    notes: medium, cut lengthwise into ¼ “ slices
+    group: Main Dish
+  sweet potatoes: 
+    amount: 1 – ½ lbs.
+    notes: peeled if desired, cut lengthwise into 1/8” thick slices
+    group: Main Dish
+  eggplant: 
+    amount: 1 medium
+    notes: cut lengthwise into ¼” thick slices
+    group: Main Dish
+  olive oil: 
+    amount: ½ cup
+    group: Main Dish
+  balsamic vinegar: 
+    amount: ¼ cup
+    group: Main Dish
+  sweet chili sauce: 
+    amount: 3 tbsp.
+    group: Main Dish
+  garlic:
+    amount: 4 cloves
+    notes: minced
+    group: Main Dish
+  salt:
+    amount: to taste
+    group: Main Dish
+  pepper: 
+    amount: to taste
+    group: Main Dish
 ---
 ## Instructions:
 1.	Preheat the barbecue to medium high. Spray the cut vegetables with olive oil spray/

@@ -1,14 +1,33 @@
 ---
 layout: page
 ---
+{% assign ingredient_groups = page.ingredients | group_by_exp: "item", "item[1].group" %}
 <h1>Ingredients</h1>
+{% for group in ingredient_groups %}
 <section>
+    <h2>{{ group.name }}</h2>
     <ul>
-        {% for ingredient_hash in page.ingredients %}
-            <li>{{ ingredient_hash | last }} <strong>{{ ingredient_hash | first }}</strong></li>
+        {% for ingredient_hash in group.items %}
+            {% assign ingredient = ingredient_hash | last %}
+            <li>{{ ingredient.amount }} {% if ingredient.notes %}, {{ ingredient.notes }} {% endif %}<strong>{{ ingredient_hash | first }}</strong></li>
         {% endfor %}
     </ul>
 </section>
+{% endfor %}
+
+{% assign link_count = page.links | size %}
+{% if link_count > 0 %}
+<div style="text-align: center; font-size: large;">
+<strong>Related Recipes</strong>
+</div>
+<section>
+    <ul>
+        {% for link in page.links %}
+            <li><a href="{{ link | last }}">{{ link | first }}</a></li>
+        {% endfor %}
+    </ul>
+</section>
+{% endif %}
 
 <h1>Instructions</h1>
 <section>

@@ -3,19 +3,58 @@ title: Peanut Lime Shrimp Curry
 categories:
 - main
 ingredients:
-  shrimp: 1 pound
-  red curry paste: 2 tbsp.
-  coconut milk: 1 can
-  garlic: 2 cloves, minced
-  shallot: 1 small, chopped finely
-  lime: ½ lime, juiced (or 4 tsp.)
-  basil leaves: fresh, 3, chopped
-  peanut butter: 1 tbsp.
-  brown sugar: 1-2 tbsp.
-  spinach: ½ cup fresh, chopped
-  peanuts: ¼ cup chopped
-  cilantro: chopped
-  white rice: cooked
+  shrimp:
+    amount: 1 pound
+    notes: 
+    group: Main Dish
+  red curry paste:
+    amount: 2 tbsp.
+    notes: 
+    group: Main Dish
+  coconut milk:
+    amount: 1 can
+    notes: 
+    group: Main Dish
+  garlic:
+    amount: 2 cloves
+    notes: minced
+    group: Main Dish
+  shallot:
+    amount: 1 small
+    notes: chopped finely
+    group: Main Dish
+  lime:
+    amount: 1/2 lime
+    notes: juiced (or 4 tsp.)
+    group: Main Dish
+  basil leaves:
+    amount: fresh
+    notes: 3, chopped
+    group: Main Dish
+  peanut butter:
+    amount: 1 tbsp.
+    notes: 
+    group: Main Dish
+  brown sugar:
+    amount: 1-2 tbsp.
+    notes: 
+    group: Main Dish
+  spinach:
+    amount: 1/2 cup fresh
+    notes: chopped
+    group: Main Dish
+  peanuts:
+    amount: 1/4 cup chopped
+    notes: 
+    group: Main Dish
+  cilantro:
+    amount: chopped
+    notes: 
+    group: Main Dish
+  white rice:
+    amount: cooked
+    notes: 
+    group: Main Dish
 ---
 ## Instructions:
 1.	In a skillet, add a little oil over medium high heat. When hot, add shrimp and cook. Add some salt and pepper, remove from the pan.

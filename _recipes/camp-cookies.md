@@ -3,15 +3,35 @@ title: Camp Cookies
 categories:
 - dessert
 ingredients:
-  margarine: 1 1/2 cups
-  brown sugar: 2 cups
-  white sugar: 2 cups
-  eggs: 4, separated
-  vanilla extract: 1 teaspoon
-  baking soda: 1 teaspoon
-  nuts: 1/4 cup 
-  flour: 7 cups
-  coconut: 1 cup, optional
+  margarine: 
+    amount: 1 1/2 cups
+    group: Main Dish
+  brown sugar: 
+    amount: 2 cups
+    group: Main Dish
+  white sugar: 
+    amount: 2 cups
+    group: Main Dish
+  eggs: 
+    amount: 4
+    notes: separated
+    group: Main Dish
+  vanilla extract: 
+    amount: 1 teaspoon
+    group: Main Dish
+  baking soda: 
+    amount: 1 teaspoon
+    group: Main Dish
+  nuts: 
+    amount: 1/4 cup 
+    group: Main Dish
+  flour: 
+    amount: 7 cups
+    group: Main Dish
+  coconut: 
+    amount: 1 cup
+    notes: optional
+    group: Main Dish
 ---
 ## Instructions
 1. Mix margarine with sugar, creaming thoroughly.

@@ -4,15 +4,42 @@ categories:
 - salad
 
 ingredients:
-  Pecans: 1/2 cup, toasted
-  Apples: 2 small, sliced
-  Red onion: 1/4, thinly sliced
-  Cranberries: 2 tbsp, dried
-  Lemon juice: 1 large or 3 tbsp., juiced
-  Maple syrup: 1 tbsp, Dressing
-  Sea salt: pinch, Dressing
-  Pepper: pinch, Dressing
-  Olive oil: 3 tbsp, Dressing
+  Pecans: 
+    amount: 1/2 cup
+    notes: toasted
+    group: Main Dish
+  Apples: 
+    amount: 2 small
+    notes: sliced
+    group: Main Dish
+  Red onion: 
+    amount: 1/4
+    notes: thinly sliced
+    group: Main Dish
+  Cranberries: 
+    amount: 2 tbsp
+    notes: dried
+    group: Main Dish
+  Lemon juice: 
+    amount: 1 large or 3 tbsp.
+    notes: juiced
+    group: Dressing
+  Maple syrup: 
+    amount: 1 tbsp
+    notes: 
+    group: Dressing
+  Sea salt: 
+    amount: pinch
+    notes: 
+    group: Dressing
+  Pepper: 
+    amount: pinch
+    notes: 
+    group: Dressing
+  Olive oil: 
+    amount: 3 tbsp
+    notes: 
+    group: Dressing
 
 ---
 ## Instructions

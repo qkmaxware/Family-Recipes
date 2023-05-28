@@ -3,18 +3,49 @@ title: Baked Mushroom Rice
 categories:
 - side
 ingredients:
-  mushrooms: 1.3 lb., quartered
-  butter: 3.5 tbsp., melted (hot, not cooled)
-  garlic: 2-3 cloves, minced
-  salt: to taste
-  pepper: to taste
-  olive oil: 1.5 tbsp.
-  long grain rice: 1 ½ cups uncooked
-  chicken or vegetable broth: 1 ½ cups, low sodium
-  water: 1 ¼ cups
-  thyme: 1 tsp. dried
-  garlic powder: 1 tsp.
-  shallots: 3, finely sliced (or green onions)
+  mushrooms: 
+    amount: 1.3 lb.
+    notes: quartered
+    group: Main Dish
+  butter: 
+    amount: 3.5 tbsp.
+    notes: melted (hot, not cooled)
+    group: Main Dish
+  garlic: 
+    amount: 2-3 cloves
+    notes: minced
+    group: Main Dish
+  salt: 
+    amount: to taste
+    group: Main Dish
+  pepper: 
+    amount: to taste
+    group: Main Dish
+  olive oil: 
+    amount: 1.5 tbsp.
+    group: Main Dish
+  long grain rice: 
+    amount: 1 ½ cups
+    notes: uncooked
+    group: Main Dish
+  chicken or vegetable broth: 
+    amount: 1 ½ cups
+    notes: low sodium
+    group: Main Dish
+  water: 
+    amount: 1 ¼ cups
+    group: Main Dish
+  thyme: 
+    amount: 1 tsp.
+    notes: dried
+    group: Main Dish
+  garlic powder: 
+    amount: 1 tsp.
+    group: Main Dish
+  shallots: 
+    amount: 3
+    notes: finely sliced (or green onions)
+    group: Main Dish
 ---
 ## Instructions
 1.	Preheat over to 180C/350F

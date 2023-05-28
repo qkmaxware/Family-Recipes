@@ -4,28 +4,94 @@ categories:
 - loafs
 - breads
 ingredients:
-  flour: 2 ¼ cups, all purpose
-  baking powder: 2 tsp.
-  baking soda: ¼ tsp.
-  salt: ½ tsp.
-  cinnamon: 1 tsp. ground
-  nutmeg: ½ tsp. ground
-  cloves: 1/8 tsp., ground
-  brown sugar: ¼ cup packed light brown
-  sugar: 3 tbsp.
-  butter: ½ cup unsalted – cold and diced into ½ inch pieces
-  pumpkin: ½ cup + 1 tbsp., canned puree, chilled (don’t chill in can)
-  buttermilk: 3 ½ tbsp.
-  egg: 1 large
-  vanilla extract: 1 tsp.
-  honey: 1 tbsp.
-  half and half cream: 4 tbsp.
-  icing sugar: 1 cup
-  icing sugar: ¾ cup 
-  pumpkin: 1 tbsp. puree
-  cinnamon: ¼ tsp.
-  nutmeg: 1/8 tsp.
-  ginger: 1/8 tsp., ground
+  flour:
+    amount: 2 1/4 cups
+    notes: all purpose
+    group: Main Dish
+  baking powder:
+    amount: 2 tsp.
+    notes: 
+    group: Main Dish
+  baking soda:
+    amount: 1/4 tsp.
+    notes: 
+    group: Main Dish
+  salt:
+    amount: 1/2 tsp.
+    notes: 
+    group: Main Dish
+  cinnamon:
+    amount: 1 tsp. ground
+    notes: 
+    group: Main Dish
+  nutmeg:
+    amount: 1/2 tsp. ground
+    notes: 
+    group: Main Dish
+  cloves:
+    amount: 1/8 tsp.
+    notes: ground
+    group: Main Dish
+  brown sugar:
+    amount: 1/4 cup packed light brown
+    notes: 
+    group: Main Dish
+  sugar:
+    amount: 3 tbsp.
+    notes: 
+    group: Main Dish
+  butter:
+    amount: 1/2 cup unsalted – cold and diced into 1/2 inch pieces
+    notes: 
+    group: Main Dish
+  pumpkin:
+    amount: 1/2 cup + 1 tbsp.
+    notes: canned puree, chilled (don’t chill in can)
+    group: Main Dish
+  buttermilk:
+    amount: 3 1/2 tbsp.
+    notes: 
+    group: Main Dish
+  egg:
+    amount: 1 large
+    notes: 
+    group: Main Dish
+  vanilla extract:
+    amount: 1 tsp.
+    notes: 
+    group: Main Dish
+  honey:
+    amount: 1 tbsp.
+    notes: 
+    group: Main Dish
+  half and half cream:
+    amount: 4 tbsp.
+    notes: 
+    group: Main Dish
+  icing sugar:
+    amount: 1 cup
+    notes: 
+    group: Main Dish
+  icing sugar:
+    amount: 3/4 cup 
+    notes: 
+    group: Main Dish
+  pumpkin:
+    amount: 1 tbsp. puree
+    notes: 
+    group: Main Dish
+  cinnamon:
+    amount: 1/4 tsp.
+    notes: 
+    group: Main Dish
+  nutmeg:
+    amount: 1/8 tsp.
+    notes: 
+    group: Main Dish
+  ginger:
+    amount: 1/8 tsp.
+    notes: ground
+    group: Main Dish
 ---
 ## Instructions:
 1.	For the scones, preheat oven to 425 degrees. In a food processor, pulse together baking powder, flour, baking soda, ½ tsp. salt, 1 tsp. cinnamon, ¼ tsp. ginger, 1/8 tsp. ground cloves, ¼ packed light-brown sugar, and 3 tbsp. granular sugar until well blended. Add butter and pulse mixture several times to cut butter into the mixture. Pour mixture into a large mixing blow and create a well in the centre.

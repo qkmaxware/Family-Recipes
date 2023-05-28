@@ -3,19 +3,58 @@ title: Chicken with Creamy Sun Dried Tomato Sauce
 categories:
 - main
 ingredients:
-  chicken breast: 1.5 lbs.
-  salt: ½ tsp
-  black pepper: to taste
-  sun dried tomatoes: ½ cup, strips, drained of oil and saved
-  oil: 2 tbsp. sun dried tomato oil
-  garlic: 2 cloves, minced
-  white wine: ½ cup (substitute chicken broth)
-  chicken broth: ¾ cup, low sodium
-  heavy cream: ¾ cup thickened
-  parmesan cheese: 1/3 cup, very finely shredded
-  dijon mustard: 2 tsp. 
-  basil leaves: 1/2 cup, packed (optional)
-  pasta: cooked (or mashed potatoes)
+  chicken breast:
+    amount: 1.5 lbs.
+    notes: 
+    group: Main Dish
+  salt:
+    amount: 1/2 tsp
+    notes: 
+    group: Main Dish
+  black pepper:
+    amount: to taste
+    notes: 
+    group: Main Dish
+  sun dried tomatoes:
+    amount: 1/2 cup
+    notes: strips, drained of oil and saved
+    group: Main Dish
+  oil:
+    amount: 2 tbsp. sun dried tomato oil
+    notes: 
+    group: Main Dish
+  garlic:
+    amount: 2 cloves
+    notes: minced
+    group: Main Dish
+  white wine:
+    amount: 1/2 cup
+    notes: substitute chicken broth
+    group: Main Dish
+  chicken broth:
+    amount: 3/4 cup
+    notes: low sodium
+    group: Main Dish
+  heavy cream:
+    amount: 3/4 cup thickened
+    notes: 
+    group: Main Dish
+  parmesan cheese:
+    amount: 1/3 cup
+    notes: very finely shredded
+    group: Main Dish
+  dijon mustard:
+    amount: 2 tsp. 
+    notes: 
+    group: Main Dish
+  basil leaves:
+    amount: 1/2 cup
+    notes: packed and optional
+    group: Main Dish
+  pasta:
+    amount: cooked 
+    notes: or mashed potatoes
+    group: Main Dish
 ---
 ## Instructions
 1.	cut chicken breast in half to form 2 thin steaks

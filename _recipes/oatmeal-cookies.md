@@ -3,13 +3,34 @@ title: Oatmeal Cookies
 categories:
 - dessert
 ingredients:
-  flour: 1.25 cup
-  baking soda: 1/2 tablespoon
-  butter: 3/4 cup
-  rolled oats: 1/4 cup
-  brown sugar: 2/3 cup
-  chocolate chips: optional
-  raisins: optional
+  flour:
+    amount: 1.25 cup
+    notes: 
+    group: Main Dish
+  baking soda:
+    amount: 1/2 tablespoon
+    notes: 
+    group: Main Dish
+  butter:
+    amount: 3/4 cup
+    notes: 
+    group: Main Dish
+  rolled oats:
+    amount: 1/4 cup
+    notes: 
+    group: Main Dish
+  brown sugar:
+    amount: 2/3 cup
+    notes: 
+    group: Main Dish
+  chocolate chips:
+    amount: optional
+    notes: 
+    group: Main Dish
+  raisins:
+    amount: optional
+    notes: 
+    group: Main Dish
 ---
 ## Dry Ingredients
 1. Blend flour and baking soda together

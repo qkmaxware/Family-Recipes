@@ -3,25 +3,82 @@ title: Mediterranean Shrimp with Bell Peppers
 categories:
 - main
 ingredients:
-  shrimp: 1 ¼ lb large, peeled and deveined
-  flour: 1 tbsp. all purpose
-  paprika: 1 to 2 tsp., smoked Spanish
-  salt: ½ tsp.
-  pepper: ½ tsp.
-  coriander: ½ tsp., ground
-  cayenne: ¼ tsp.
-  sugar: ¼ tsp.
-  butter: 1 tbsp.
-  olive oil: 3 tbsp. extra virgin
-  red onion: ½, thinly sliced
-  garlic: 4 cloves, chopped
-  green Bell Pepper: ½, cored and sliced
-  yellow Bell Pepper: ½, cored and sliced
-  diced tomato: 1 cup canned
-  chicken broth: 1/3 cup (or vegetable broth)
-  white wine: 2 tbsp.
-  lemon juice: 2 tbsp. fresh
-  parsley: 1/3 cup fresh, chopped
+  shrimp:
+    amount: 1 1/4 lb large
+    notes: peeled and deveined
+    group: Main Dish
+  flour:
+    amount: 1 tbsp. all purpose
+    notes: 
+    group: Main Dish
+  paprika:
+    amount: 1 to 2 tsp.
+    notes: smoked Spanish
+    group: Main Dish
+  salt:
+    amount: 1/2 tsp.
+    notes: 
+    group: Main Dish
+  pepper:
+    amount: 1/2 tsp.
+    notes: 
+    group: Main Dish
+  coriander:
+    amount: 1/2 tsp.
+    notes: ground
+    group: Main Dish
+  cayenne:
+    amount: 1/4 tsp.
+    notes: 
+    group: Main Dish
+  sugar:
+    amount: 1/4 tsp.
+    notes: 
+    group: Main Dish
+  butter:
+    amount: 1 tbsp.
+    notes: 
+    group: Main Dish
+  olive oil:
+    amount: 3 tbsp. extra virgin
+    notes: 
+    group: Main Dish
+  red onion:
+    amount: 1/2
+    notes: thinly sliced
+    group: Main Dish
+  garlic:
+    amount: 4 cloves
+    notes: chopped
+    group: Main Dish
+  green Bell Pepper:
+    amount: 1/2
+    notes: cored and sliced
+    group: Main Dish
+  yellow Bell Pepper:
+    amount: 1/2
+    notes: cored and sliced
+    group: Main Dish
+  diced tomato:
+    amount: 1 cup canned
+    notes: 
+    group: Main Dish
+  chicken broth:
+    amount: 1/3 cup
+    notes: or vegetable broth
+    group: Main Dish
+  white wine:
+    amount: 2 tbsp.
+    notes: 
+    group: Main Dish
+  lemon juice:
+    amount: 2 tbsp. fresh
+    notes: 
+    group: Main Dish
+  parsley:
+    amount: 1/3 cup
+    notes: fresh and chopped
+    group: Main Dish
 ---
 ## Instructions:
 1.	Pat the shrimp dry and place in a large bow (if frozen, allow to thaw first). Add the flour, smoked paprika, salt and pepper, coriander, cayenne, and sugar. Toss until shrimp is well coated.

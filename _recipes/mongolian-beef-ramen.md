@@ -3,21 +3,66 @@ title: Mongolian Beef Ramen
 categories:
 - main
 ingredients:
-  instant ramen: 3 packages
-  vegetable oil:  2 tbsp.
-  sirloin steak: 1 lb. sliced against the grain
-  cornstarch: 2 tbsp.
-  sesame oil: 1 tbsp.
-  garlic: 3 cloves, minced
-  ginger: 1 tsp., minced
-  soy sauce: ½ cup
-  brown sugar: ¼ cup lightly packed
-  beef broth: 1 cup (or chicken broth)
-  red pepper flakes: a pinch
-  broccoli: 1 large head, cut into florets
-  carrot: 1 peeled and cut into matchsticks
-  green onions: 3, thinly sliced
-  sesame seeds: toasted, for garnish
+  instant ramen:
+    amount: 3 packages
+    notes: 
+    group: Main Dish
+  vegetable oil:
+    amount: 2 tbsp.
+    notes: 
+    group: Main Dish
+  sirloin steak:
+    amount: 1 lb.
+    notes: sliced against the grain
+    group: Main Dish
+  cornstarch:
+    amount: 2 tbsp.
+    notes: 
+    group: Main Dish
+  sesame oil:
+    amount: 1 tbsp.
+    notes: 
+    group: Main Dish
+  garlic:
+    amount: 3 cloves
+    notes: minced
+    group: Main Dish
+  ginger:
+    amount: 1 tsp.
+    notes: minced
+    group: Main Dish
+  soy sauce:
+    amount: 1/2 cup
+    notes: 
+    group: Main Dish
+  brown sugar:
+    amount: 1/4 cup lightly packed
+    notes: 
+    group: Main Dish
+  beef broth:
+    amount: 1 cup (or chicken broth)
+    notes: 
+    group: Main Dish
+  red pepper flakes:
+    amount: a pinch
+    notes: 
+    group: Main Dish
+  broccoli:
+    amount: 1 large head
+    notes: cut into florets
+    group: Main Dish
+  carrot:
+    amount: 1 peeled and cut into matchsticks
+    notes: 
+    group: Main Dish
+  green onions:
+    amount: 3
+    notes: thinly sliced
+    group: Main Dish
+  sesame seeds:
+    amount: toasted
+    notes: for garnish
+    group: Main Dish
 ---
 ## Instructions:
 1.	Cook ramen noodles according to package instructions. Drain and set aside. 

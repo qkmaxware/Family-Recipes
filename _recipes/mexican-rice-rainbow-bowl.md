@@ -4,27 +4,90 @@ categories:
 - main
 - bowl
 ingredients:
-  canned tomatoes: 1 3/4 cup crushed or diced
-  yellow onion: 1 small, peeled and diced
-  jalapeno: 1, seeded and roughly chopped
-  garlic: 4 cloves, peeled and diced
-  vegetable broth: 2 cups
-  salt: 1/2 tsp.
-  cumin: 1/2 tsp.
-  cooking oil: 1/3 cup neutral (ie. Sunflower, canola)
-  white rice: 2 cups long grain
-  limes: 2 juiced
-  cilantro: ¼ cup chopped
-  black beans: 15 oz., heated with a few pinches of taco seasoning (or pinto beans)
-  avocado: optional, sliced
-  canned corn: optional, warmed up
-  bell peppers: optional, sliced or squared, grilled
-  salsa: optional
-  romaine lettuce: optional, sliced
-  lime: optional
-  cilantro: optional, chopped
-  hot sauce: optional
-  mango: optional
+  canned tomatoes:
+    amount: 1 3/4 cup crushed or diced
+    notes: 
+    group: Main Dish
+  yellow onion:
+    amount: 1 small
+    notes: peeled and diced
+    group: Main Dish
+  jalapeno:
+    amount: 1
+    notes: seeded and roughly chopped
+    group: Main Dish
+  garlic:
+    amount: 4 cloves
+    notes: peeled and diced
+    group: Main Dish
+  vegetable broth:
+    amount: 2 cups
+    notes: 
+    group: Main Dish
+  salt:
+    amount: 1/2 tsp.
+    notes: 
+    group: Main Dish
+  cumin:
+    amount: 1/2 tsp.
+    notes: 
+    group: Main Dish
+  cooking oil:
+    amount: 1/3 cup neutral (ie. Sunflower
+    notes: canola)
+    group: Main Dish
+  white rice:
+    amount: 2 cups long grain
+    notes: 
+    group: Main Dish
+  limes:
+    amount: 2 juiced
+    notes: 
+    group: Main Dish
+  cilantro:
+    amount: 1/4 cup chopped
+    notes: 
+    group: Main Dish
+  black beans:
+    amount: 15 oz.
+    notes: heated with a few pinches of taco seasoning (or pinto beans)
+    group: Main Dish
+  avocado:
+    amount: optional
+    notes: sliced
+    group: Main Dish
+  canned corn:
+    amount: optional
+    notes: warmed up
+    group: Main Dish
+  bell peppers:
+    amount: optional
+    notes: sliced or squared, grilled
+    group: Main Dish
+  salsa:
+    amount: optional
+    notes: 
+    group: Main Dish
+  romaine lettuce:
+    amount: optional
+    notes: sliced
+    group: Main Dish
+  lime:
+    amount: optional
+    notes: 
+    group: Main Dish
+  cilantro:
+    amount: optional
+    notes: chopped
+    group: Main Dish
+  hot sauce:
+    amount: optional
+    notes: 
+    group: Main Dish
+  mango:
+    amount: optional
+    notes: 
+    group: Main Dish
 ---
 ## Instructions
 1.	Place the tomatoes, onions, jalapeno, and garlic into a blender and puree until smooth. 

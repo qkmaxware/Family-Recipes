@@ -4,34 +4,118 @@ categories:
 - main
 
 ingredients:
-  Rice: 1 cup, Cilantro lime rice
-  Salt: 1/2 tsp, Cilantro lime rice
-  Garlic Powder: 1/2 tsp., Cilantro lime rice
-  Cilantro: 1/4 cup chopped, Cilantro lime rice
-  Coconut oil: 1 tbsp, Cilantro lime rice
-  Lime juice: 2 tbsp, Cilantro lime rice
-  Lime zest: 1 tsp, Cilantro lime rice
-  Black beans: 1 can, Bean/corn salad
-  Corn: 1 can, 15 oz., Bean/corn salad
-  Pico de Gallo: 1 cup, Bean/corn salad
-  Avocado: 1, sliced, Bean/corn salad
-  Cherry tomatoes: 1 cup, Bean/corn salad
-  Olive oil: 3 tbsp, Shrimp
-  Salt: 3/4 tsp, Shrimp
-  Paprika: 3/4 tsp, Shrimp
-  Garlic Powder: 3/4 tsp, Shrimp
-  Onion powder: 3/4 tsp, Shrimp
-  Cumin: 3/4 tsp, Shrimp
-  Plain Yogurt: 1/2 cup, Chipotle Ranch Dressing
-  Mayonnaise: 1/2 cup, Chipotle Ranch Dressing
-  Apple Cider Vinegar: 1 tsp, Chipotle Ranch Dressing
-  Dill: 1 tsp, dried, Chipotle Ranch Dressing
-  Garlic powder: 1/2 tsp, Chipotle Ranch Dressing
-  Onion powder : 1/2 tsp, Chipotle Ranch Dressing
-  Salt: 1/4 tsp, Chipotle Ranch Dressing
-  Black Pepper: 1/4 tsp, Chipotle Ranch Dressing
-  Adobo Sauce: 2-2 1/2 tsp, Chipotle Ranch Dressing
-  Shrimp: as much as you want, Shrimp
+  Rice:
+    amount: 1 cup
+    notes: Cilantro lime rice
+    group: Main Dish
+  Salt:
+    amount: 1/2 tsp
+    notes: Cilantro lime rice
+    group: Main Dish
+  Garlic Powder:
+    amount: 1/2 tsp.
+    notes: Cilantro lime rice
+    group: Main Dish
+  Cilantro:
+    amount: 1/4 cup chopped
+    notes: Cilantro lime rice
+    group: Main Dish
+  Coconut oil:
+    amount: 1 tbsp
+    notes: Cilantro lime rice
+    group: Main Dish
+  Lime juice:
+    amount: 2 tbsp
+    notes: Cilantro lime rice
+    group: Main Dish
+  Lime zest:
+    amount: 1 tsp
+    notes: Cilantro lime rice
+    group: Main Dish
+  Black beans:
+    amount: 1 can
+    notes: Bean/corn salad
+    group: Main Dish
+  Corn:
+    amount: 1 can
+    notes: 15 oz., Bean/corn salad
+    group: Main Dish
+  Pico de Gallo:
+    amount: 1 cup
+    notes: Bean/corn salad
+    group: Main Dish
+  Avocado:
+    amount: 1
+    notes: sliced, Bean/corn salad
+    group: Main Dish
+  Cherry tomatoes:
+    amount: 1 cup
+    notes: Bean/corn salad
+    group: Main Dish
+  Olive oil:
+    amount: 3 tbsp
+    notes: Shrimp
+    group: Main Dish
+  Salt:
+    amount: 3/4 tsp
+    notes: Shrimp
+    group: Main Dish
+  Paprika:
+    amount: 3/4 tsp
+    notes: Shrimp
+    group: Main Dish
+  Garlic Powder:
+    amount: 3/4 tsp
+    notes: Shrimp
+    group: Main Dish
+  Onion powder:
+    amount: 3/4 tsp
+    notes: Shrimp
+    group: Main Dish
+  Cumin:
+    amount: 3/4 tsp
+    notes: Shrimp
+    group: Main Dish
+  Plain Yogurt:
+    amount: 1/2 cup
+    notes: Chipotle Ranch Dressing
+    group: Main Dish
+  Mayonnaise:
+    amount: 1/2 cup
+    notes: Chipotle Ranch Dressing
+    group: Main Dish
+  Apple Cider Vinegar:
+    amount: 1 tsp
+    notes: Chipotle Ranch Dressing
+    group: Main Dish
+  Dill:
+    amount: 1 tsp
+    notes: dried, Chipotle Ranch Dressing
+    group: Main Dish
+  Garlic powder:
+    amount: 1/2 tsp
+    notes: Chipotle Ranch Dressing
+    group: Main Dish
+  Onion powder :
+    amount: 1/2 tsp
+    notes: Chipotle Ranch Dressing
+    group: Main Dish
+  Salt:
+    amount: 1/4 tsp
+    notes: Chipotle Ranch Dressing
+    group: Main Dish
+  Black Pepper:
+    amount: 1/4 tsp
+    notes: Chipotle Ranch Dressing
+    group: Main Dish
+  Adobo Sauce:
+    amount: 2-2 1/2 tsp
+    notes: Chipotle Ranch Dressing
+    group: Main Dish
+  Shrimp:
+    amount: as much as you want
+    notes: Shrimp
+    group: Main Dish
 
 ---
 ## Instructions
