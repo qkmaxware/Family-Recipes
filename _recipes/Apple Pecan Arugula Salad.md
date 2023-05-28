@@ -1,7 +1,7 @@
 ---
 title: Apple Pecan Arugula Salad
 categories:
-- salads
+- salad
 
 ingredients:
   Pecans: 1/2 cup, toasted
