@@ -63,6 +63,11 @@ layout: page
         <button onclick="wizard.ingredients.add()">+</button>
         <button onclick="wizard.ingredients.remove()">-</button>
     </div>
+    <datalist id="ingredients">
+    {% for i in ingredients %}
+        <option value="{{i}}"></option>
+    {% endfor %}
+    </datalist>
     <details style="margin-left: 1em; margin-right: 1em; margin-bottom: 2em;">
         <summary>Add Existing?</summary>
         <div>
@@ -247,7 +252,7 @@ ${this.instructions.get()}`;
                 var div1 = document.createElement("div");
                 div1.style.width = "24%";
                 div1.style.display = "inline-block";
-                div1.innerHTML = "<input style=\"width:100%;\">";
+                div1.innerHTML = "<input list=\"ingredients\" style=\"width:100%;\">";
                 li.appendChild(div1);
                 var div2 = document.createElement("div");
                 div2.style.width = "24%";
