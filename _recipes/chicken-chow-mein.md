@@ -1,5 +1,5 @@
 ---
-title: Chicken Chow Mein
+title: Chicken Chow Mein (Honey Sauce)
 categories:
 - main
 ingredients:
