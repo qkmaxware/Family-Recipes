@@ -3,32 +3,32 @@ title: Camp Cookies
 categories:
 - dessert
 ingredients:
-  margarine: 
+  - name: margarine
     amount: 1 1/2 cups
     group: Main Dish
-  brown sugar: 
+  - name: brown sugar
     amount: 2 cups
     group: Main Dish
-  white sugar: 
+  - name: white sugar
     amount: 2 cups
     group: Main Dish
-  eggs: 
+  - name: eggs 
     amount: 4
     notes: separated
     group: Main Dish
-  vanilla extract: 
+  - name: vanilla extract
     amount: 1 teaspoon
     group: Main Dish
-  baking soda: 
+  - name: baking soda
     amount: 1 teaspoon
     group: Main Dish
-  nuts: 
+  - name: nuts
     amount: 1/4 cup 
     group: Main Dish
-  flour: 
+  - name: flour
     amount: 7 cups
     group: Main Dish
-  coconut: 
+  - name: coconut
     amount: 1 cup
     notes: optional
     group: Main Dish
@@ -40,4 +40,4 @@ ingredients:
 4. Add well-beaten egg whites, nuts, and coconut.
 5. Kneed until flour is all worked into dough.
 6. Wrap and chill in the refrigerator overnight.
-7. Slice and bake in over at 375 degrees Fahrenheit until golden brown.
+7. Slice and bake in over at 375 degrees Fahrenheit until golden brown; about 15 minutes.

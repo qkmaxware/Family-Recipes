@@ -3,39 +3,39 @@ title: Chinese Salad
 categories:
 - salad
 ingredients:
-  sui choy cabbage:
+  - name: sui choy cabbage
     amount: 1 large
     notes: 
     group: Main Dish
-  green onions:
+  - name: green onions
     amount: 1 bunch
     notes: 
     group: Main Dish
-  soy sauce:
+  - name: soy sauce
     amount: 1 tsp.
     notes: 
     group: Main Dish
-  sugar:
+  - name: sugar
     amount: 3/4 cups
     notes: 
     group: Main Dish
-  white vinegar:
+  - name: white vinegar
     amount: 1/2 cup
     notes: 
     group: Main Dish
-  ramen noodles:
+  - name: ramen noodles
     amount: 2 pkgs
     notes: 
     group: Main Dish
-  sesame seeds:
+  - name: sesame seeds
     amount: 1/2 cup
     notes: 
     group: Main Dish
-  slivered almonds:
+  - name: slivered almonds
     amount: 1/2 cup
     notes: 
     group: Main Dish
-  margarine:
+  - name: margarine
     amount: 1/4 - 1/2 cup
     notes: 
     group: Main Dish

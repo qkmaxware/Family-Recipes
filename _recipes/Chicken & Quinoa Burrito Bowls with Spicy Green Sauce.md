@@ -6,111 +6,111 @@ categories:
 links:
 
 ingredients:
-  chicken breast: 
+  - name: chicken breast
     amount: 2 lbs
     notes: 1/2 inch in thickness
     group: Main Dish
-  Olive oil: 
+  - name: olive oil
     amount: 5 tbsps
     notes: extra virgin
     group: Main Dish
-  lime zest: 
+  - name: lime zest
     amount: 1 tbsp
     notes: I used 1 tbsp of lime juice instead
     group: Main Dish
-  Garlic cloves: 
+  - name: garlic cloves
     amount: 4
     notes: minced
     group: Main Dish
-  Chilli powder: 
+  - name: chilli powder
     amount: 1 1/4 tsp
     notes: 
     group: Main Dish
-  coriander: 
+  - name: coriander
     amount: 1/2 tsp
     notes: ground
     group: Main Dish
-  oregano: 
+  - name: oregano
     amount: 1/4 tsp
     notes: 
     group: Main Dish
-  salt: 
+  - name: salt
     amount: 1 1/4 tsp
     notes: or to taste
     group: Main Dish
-  Pepper: 
+  - name: pepper
     amount: 1/2 tsp
     notes: 
     group: Main Dish
-  honey: 
+  - name: honey
     amount: 2 tsp
     notes: 
     group: Main Dish
-  Quinoa: 
+  - name: quinoa 
     amount: 1 1/2 cups
     notes: rinsed before cooking
     group: Main Dish
-  Salt: 
+  - name: salt
     amount: 3/4 tsp
     notes: or to taste
     group: Main Dish
-  Corn: 
+  - name: corn
     amount: topping
     notes: fresh preferred but canned works too
     group: Main Dish
-  tomatoes: 
+  - name: tomatoes
     amount: topping
     notes: cubed
     group: Main Dish
-  Avocado: 
+  - name: avocado
     amount: topping
     notes: diced
     group: Main Dish
-  cucumber: 
+  - name: cucumber
     amount: topping
     notes: sliced or diced
     group: Main Dish
-  Black beans: 
+  - name: black beans 
     amount: topping
     notes: rinsed
     group: Main Dish
-  Cilantro: 
+  - name: cilantro
     amount: topping
     notes: chopped
     group: Main Dish
-  jalapeno: 
+  - name: jalapeno
     amount: 1
     notes: seeded and roughly chopped (seeds can be reserved)
     group: Sauce
-  Cilantro: 
+  - name: cilantro
     amount: 1 cup
     notes: fresh
     group: Sauce
-  Garlic cloves: 
+  - name: garlic cloves
     amount: 1
     notes: roughly chopped
     group: Sauce
-  Mayonnaise: 
+  - name: mayonnaise
     amount: 1/2 cup
     notes: best quality like Hellman's
     group: Sauce
-  sour cream: 
+  - name: sour cream
     amount: 1/4 cup
     notes: 
     group: Sauce
-  Lime juice: 
+  - name: lime juice
     amount: 1 tbsp
     notes: fresh preferred
     group: Sauce
-  Olive oil: 
+  - name: olive oil 
     amount: 2 tbsp
     notes: extra virgin
     group: Sauce
-  Salt: 
+  - name: salt
     amount: 1/2 tsp
     notes: or to taste
     group: Sauce
-  pepper: 
+  - name: pepper 
     amount: 1/8 tsp
     notes: 
     group: Sauce

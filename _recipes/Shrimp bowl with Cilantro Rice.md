@@ -4,115 +4,115 @@ categories:
 - main
 
 ingredients:
-  Rice:
+  - name: rice
     amount: 1 cup
     notes: Cilantro lime rice
     group: Main Dish
-  Salt:
+  - name: salt
     amount: 1/2 tsp
     notes: Cilantro lime rice
     group: Main Dish
-  Garlic Powder:
+  - name: garlic powder
     amount: 1/2 tsp.
     notes: Cilantro lime rice
     group: Main Dish
-  Cilantro:
+  - name: cilantro
     amount: 1/4 cup chopped
     notes: Cilantro lime rice
     group: Main Dish
-  Coconut oil:
+  - name: coconut oil
     amount: 1 tbsp
     notes: Cilantro lime rice
     group: Main Dish
-  Lime juice:
+  - name: lime juice
     amount: 2 tbsp
     notes: Cilantro lime rice
     group: Main Dish
-  Lime zest:
+  - name: lime zest
     amount: 1 tsp
     notes: Cilantro lime rice
     group: Main Dish
-  Black beans:
+  - name: black beans
     amount: 1 can
     notes: Bean/corn salad
     group: Main Dish
-  Corn:
+  - name: corn
     amount: 1 can
     notes: 15 oz., Bean/corn salad
     group: Main Dish
-  Pico de Gallo:
+  - name: pico de gallo
     amount: 1 cup
     notes: Bean/corn salad
     group: Main Dish
-  Avocado:
+  - name: avocado
     amount: 1
     notes: sliced, Bean/corn salad
     group: Main Dish
-  Cherry tomatoes:
+  - name: cherry tomatoes
     amount: 1 cup
     notes: Bean/corn salad
     group: Main Dish
-  Olive oil:
+  - name: olive oil
     amount: 3 tbsp
     notes: Shrimp
     group: Main Dish
-  Salt:
+  - name: salt
     amount: 3/4 tsp
     notes: Shrimp
     group: Main Dish
-  Paprika:
+  - name: paprika
     amount: 3/4 tsp
     notes: Shrimp
     group: Main Dish
-  Garlic Powder:
+  - name: garlic powder
     amount: 3/4 tsp
     notes: Shrimp
     group: Main Dish
-  Onion powder:
+  - name: onion powder
     amount: 3/4 tsp
     notes: Shrimp
     group: Main Dish
-  Cumin:
+  - name: cumin
     amount: 3/4 tsp
     notes: Shrimp
     group: Main Dish
-  Plain Yogurt:
+  - name: plain yogurt
     amount: 1/2 cup
     notes: Chipotle Ranch Dressing
     group: Main Dish
-  Mayonnaise:
+  - name: mayonnaise
     amount: 1/2 cup
     notes: Chipotle Ranch Dressing
     group: Main Dish
-  Apple Cider Vinegar:
+  - name: apple cider vinegar
     amount: 1 tsp
     notes: Chipotle Ranch Dressing
     group: Main Dish
-  Dill:
+  - name: dill
     amount: 1 tsp
     notes: dried, Chipotle Ranch Dressing
     group: Main Dish
-  Garlic powder:
+  - name: garlic powder
     amount: 1/2 tsp
     notes: Chipotle Ranch Dressing
     group: Main Dish
-  Onion powder :
+  - name: onion powder 
     amount: 1/2 tsp
     notes: Chipotle Ranch Dressing
     group: Main Dish
-  Salt:
+  - name: salt
     amount: 1/4 tsp
     notes: Chipotle Ranch Dressing
     group: Main Dish
-  Black Pepper:
+  - name: black pepper
     amount: 1/4 tsp
     notes: Chipotle Ranch Dressing
     group: Main Dish
-  Adobo Sauce:
+  - name: adobo sauce
     amount: 2-2 1/2 tsp
     notes: Chipotle Ranch Dressing
     group: Main Dish
-  Shrimp:
+  - name: shrimp
     amount: as much as you want
     notes: Shrimp
     group: Main Dish

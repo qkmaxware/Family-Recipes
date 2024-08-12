@@ -18,7 +18,7 @@ layout: page
 {% for recipe in site.recipes %}
     {% if recipe.ingredients %}
     {% for ingredient in recipe.ingredients %}
-        {% assign ingredients = ingredients | push: ingredient[0] %}
+        {% assign ingredients = ingredients | push: ingredient.name %}
     {% endfor %}
     {% endif %}
 {% endfor %}

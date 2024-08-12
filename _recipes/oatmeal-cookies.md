@@ -3,31 +3,31 @@ title: Oatmeal Cookies
 categories:
 - dessert
 ingredients:
-  flour:
+  - name: flour
     amount: 1.25 cup
     notes: 
     group: Main Dish
-  baking soda:
+  - name: baking soda
     amount: 1/2 tablespoon
     notes: 
     group: Main Dish
-  butter:
+  - name: butter
     amount: 3/4 cup
     notes: 
     group: Main Dish
-  rolled oats:
+  - name: rolled oats
     amount: 1/4 cup
     notes: 
     group: Main Dish
-  brown sugar:
+  - name: brown sugar
     amount: 2/3 cup
     notes: 
     group: Main Dish
-  chocolate chips:
+  - name: chocolate chips
     amount: optional
     notes: 
     group: Main Dish
-  raisins:
+  - name: raisins
     amount: optional
     notes: 
     group: Main Dish

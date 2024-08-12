@@ -6,47 +6,47 @@ categories:
 links:
 
 ingredients:
-  Plum tomatoes: 
+  - name: plum tomatoes 
     amount: 2 - 28 ounce cans
     notes: San Marzano
     group: Main Dish
-  Olive oil: 
+  - name: olive oil 
     amount: 3 tbsp
     notes: 
     group: Main Dish
-  onion: 
+  - name: onion 
     amount: 1
     notes: finely chopped
     group: Main Dish
-  shallot: 
+  - name: shallot 
     amount: 1 
     notes: small, finely chopped
     group: Main Dish
-  garlic: 
+  - name: garlic 
     amount: 3 cloves
     notes: finely chopped
     group: Main Dish
-  basil leaves: 
+  - name: basil leaves 
     amount: 10-12
     notes: fresh, torn
     group: Main Dish
-  chick stock: 
+  - name: chick stock 
     amount: 16 ounces
     notes: warm
     group: Main Dish
-  salt: 
+  - name: salt 
     amount: 
     notes: to taste
     group: Main Dish
-  pepper: 
+  - name: pepper 
     amount: 
     notes: to taste
     group: Main Dish
-  Italian bread: 
+  - name: italian bread 
     amount: 4 cups
     notes: dried
     group: Main Dish
-  olive oil: 
+  - name: olive oil 
     amount: 1 tbsp + 1 tsp
     notes: for croutons
     group: Main Dish

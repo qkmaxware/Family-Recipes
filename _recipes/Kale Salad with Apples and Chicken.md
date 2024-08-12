@@ -6,55 +6,55 @@ categories:
 links:
 
 ingredients:
-  kale: 
+  - name: kale 
     amount: 5 cups
     notes: chopped
     group: Main Dish
-  cabbage: 
+  - name: cabbage 
     amount: 1 cup
     notes: chopped
     group: Main Dish
-  chicken: 
+  - name: chicken
     amount: 1.5 cups
     notes: cooked; cubed
     group: Main Dish
-  apple: 
+  - name: apple 
     amount: 1 
     notes: cored and diced
     group: Main Dish
-  craisins: 
+  - name: craisins 
     amount: 1/4 cup
     notes: 
     group: Main Dish
-  radishes: 
+  - name: radishes 
     amount: 1/4 cup
     notes: sliced
     group: Main Dish
-  pecans: 
+  - name: pecans 
     amount: 1/2 cup
     notes: chopped
     group: Main Dish
-  goat cheese: 
+  - name: goat cheese 
     amount: 2 ounces
     notes: soft
     group: Main Dish
-  olive oil: 
+  - name: olive oil
     amount: 3 tbsp
     notes: 
     group: Dressing
-  apple cider vinegar: 
+  - name: apple cider vinegar 
     amount: 1 1/2 tbsp
     notes: 
     group: Dressing
-  honey: 
+  - name: honey
     amount: 1 1/2 tsp
     notes: or maple syrup
     group: Dressing
-  salt: 
+  - name: salt
     amount: 
     notes: to taste
     group: Dressing
-  Pepper: 
+  - name: pepper
     amount: 
     notes: to tast
     group: Dressing

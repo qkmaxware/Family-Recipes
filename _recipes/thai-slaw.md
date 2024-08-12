@@ -3,34 +3,34 @@ title: Thai Slaw
 categories:
 - salad
 ingredients:
-  napa cabbage: 
+  - name: napa cabbage 
     amount: 5 cups 
     notes: shredded
     group: Main Dish
-  red pepper: 
+  - name: red pepper 
     amount: 1
     notes: cut into thin strips
     group: Main Dish
-  cashews: 
+  - name: cashews 
     amount: ½ cup
     notes: roasted, coarsely chopped
     group: Main Dish
-  red onions: 
+  - name: red onions 
     amount: ½ cup 
     notes: thinly sliced
     group: Main Dish
-  cilantro: 
+  - name: cilantro 
     amount: 3 tbsp. 
     notes: fresh, chopped
     group: Main Dish
-  miracle whip: 
+  - name: miracle whip 
     amount: 1/3 cup
     group: Main Dish
-  carrot: 
+  - name: carrot 
     amount: 1
     notes: shredded
     group: Main Dish
-  lime juice: 
+  - name: lime juice 
     amount: 1 tbsp.
     group: Main Dish
 ---

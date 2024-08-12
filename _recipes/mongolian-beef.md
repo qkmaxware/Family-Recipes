@@ -3,55 +3,55 @@ title: Mongolian Beef
 categories:
 - main
 ingredients:
-  flank steak:
+  - name: flank steak
     amount: 1 1/4 lbs
     notes: thinly sliced
     group: Main Dish
-  cornstarch:
+  - name: cornstarch
     amount: 1/4 cup + 2 tsp. divided use
     notes: 
     group: Main Dish
-  vegetable oil:
+  - name: vegetable oil
     amount: 3 tbsp.
     notes: 
     group: Main Dish
-  garlic:
+  - name: garlic
     amount: 1 1/2 tsp. minced
     notes: 
     group: Main Dish
-  ginger:
+  - name: ginger
     amount: 1 tsp. minced
     notes: 
     group: Main Dish
-  sesame oil:
+  - name: sesame oil
     amount: 1 tsp. toasted
     notes: 
     group: Main Dish
-  soy sauce:
+  - name: soy sauce
     amount: 1/2 cup
     notes: low sodium
     group: Main Dish
-  water:
+  - name: water
     amount: 1/3 cup
     notes: 
     group: Main Dish
-  brown sugar:
+  - name: brown sugar
     amount: 1/2 cup
     notes: dark brown
     group: Main Dish
-  green onions:
+  - name: green onions
     amount: 1/2 cup cut into 1 inch pieces
     notes: 
     group: Main Dish
-  salt:
+  - name: salt
     amount: to taste
     notes: 
     group: Main Dish
-  pepper:
+  - name: pepper
     amount: to taste
     notes: 
     group: Main Dish
-  white rice:
+  - name: white rice
     amount: cooked
     notes: 
     group: Main Dish

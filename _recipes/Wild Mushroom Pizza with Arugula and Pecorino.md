@@ -6,39 +6,39 @@ categories:
 links:
 
 ingredients:
-  olive oil: 
+  - name: olive oil 
     amount: 3 tbsp
     notes: divided
     group: Main Dish
-  mushrooms: 
+  - name: mushrooms 
     amount: 4 cups
     notes: mistake or chanterelles, sliced
     group: Main Dish
-  pizza dough: 
+  - name: pizza dough 
     amount: 1 pound
     notes: flat breads also good
     group: Main Dish
-  garlic: 
+  - name: garlic 
     amount: 2 cloves
     notes: sliced thin
     group: Main Dish
-  mozzarella: 
+  - name: mozzarella 
     amount: 4 ounces
     notes: thinly sliced
     group: Main Dish
-  arugula: 
+  - name: arugula 
     amount: 3 cups
     notes: 
     group: Main Dish
-  agrumato lemon oil: 
+  - name: agrumato lemon oil 
     amount: 1 tbsp
     notes: (or olive oil & 1 tbsp lemon zest)
     group: Main Dish
-  salt: 
+  - name: salt 
     amount: 1/4 tsp
     notes: 
     group: Main Dish
-  pecorino : 
+  - name: pecorino  
     amount: 3 tbsp 
     notes: shaved (or toscana cheese)
     group: Main Dish

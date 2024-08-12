@@ -6,47 +6,47 @@ categories:
 links:
 
 ingredients:
-  Tomatoes: 
+  - name: tomatoes 
     amount: 400ml
     notes: canned, diced
     group: Main Dish
-  tomato paste: 
+  - name: tomato paste 
     amount: 2 Tbsp
     notes: 
     group: Main Dish
-  heavy cream: 
+  - name: heavy cream 
     amount: 1/4 cup
     notes: 
     group: Main Dish
-  chicken broth: 
+  - name: chicken broth 
     amount: 1.25 cup
     notes: or water
     group: Main Dish
-  Garlic cloves: 
+  - name: garlic cloves 
     amount: 1
     notes: minced
     group: Main Dish
-  sage: 
+  - name: sage 
     amount: 
     notes: to taste
     group: Optionals
-  basil: 
+  - name: basil 
     amount: 
     notes: to taste
     group: Optionals
-  oregano: 
+  - name: oregano 
     amount: 
     notes: to taste
     group: Optionals
-  mozzarella: 
+  - name: mozzarella 
     amount: 
     notes: shredded
     group: Optionals
-  Pepperoni: 
+  - name: pepperoni 
     amount: 
     notes: 
     group: Optionals
-  red pepper: 
+  - name: red pepper 
     amount: 
     notes: chopped
     group: Optionals

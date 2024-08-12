@@ -3,51 +3,51 @@ title: Creamy Herb Chicken
 categories:
 - main
 ingredients:
-  chicken breasts:
+  - name: chicken breasts
     amount: 4
     notes: pounded 1/2 inch thin 
     group: Main Dish
-  onion powder:
+  - name: onion powder
     amount: 2 tsp. 
     notes: 
     group: Main Dish
-  garlic powder:
+  - name: garlic powder
     amount: 2 tsp. 
     notes: 
     group: Main Dish
-  parsley:
+  - name: parsley
     amount: 2 tsp.
     notes: fresh
     group: Main Dish
-  thyme:
+  - name: thyme
     amount: dried
     notes: 1 tsp.
     group: Main Dish
-  rosemary:
+  - name: rosemary
     amount: 1 tsp. dried
     notes: 
     group: Main Dish
-  salt:
+  - name: salt
     amount: to taste
     notes: 
     group: Main Dish
-  pepper:
+  - name: pepper
     amount: to taste
     notes: 
     group: Main Dish
-  garlic:
+  - name: garlic
     amount: 4 cloves
     notes: minced or 1 tbsp. 
     group: Main Dish
-  olive oil:
+  - name: olive oil
     amount: 1 tbsp. plus 2 tsp.
     notes: 
     group: Main Dish
-  milk:
+  - name: milk
     amount: 1 cup
     notes: 
     group: Main Dish
-  cornstarch:
+  - name: cornstarch
     amount: 1 tsp.
     notes: mixed with 1 tbsp. of water until smooth
     group: Main Dish

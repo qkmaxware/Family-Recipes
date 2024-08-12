@@ -6,71 +6,71 @@ categories:
 links:
 
 ingredients:
-  flour: 
+  - name: flour
     amount: t tbsp
     notes: 
     group: Fritters
-  baking powder: 
+  - name: baking powder 
     amount: 1/4 tsp
     notes: 
     group: Fritters
-  curry powder: 
+  - name: curry powder
     amount: 1/2 tsp
     notes: 
     group: Fritters
-  salt: 
+  - name: salt
     amount: 1/4 tsp
     notes: 
     group: Fritters
-  egg: 
+  - name: egg
     amount: 1
     notes: small
     group: Fritters
-  cauliflower: 
+  - name: cauliflower
     amount: 5 oz
     notes: roasted, finely chopped
     group: Fritters
-  green chillies: 
+  - name: green chillies 
     amount: 1/4 tsp
     notes: seeded and finely chopped
     group: Fritters
-  onion: 
+  - name: onion
     amount: 2 tsp
     notes: finely chopped
     group: Fritters
-  peas: 
+  - name: peas 
     amount: 1 tbsp
     notes: frozen, thawed
     group: Fritters
-  canola oil: 
+  - name: canola oil 
     amount: 1/2 cup
     notes: for frying
     group: Fritters
-  sour cream: 
+  - name: sour cream
     amount: 1/4 cup
     notes: 
     group: Dipping sauce
-  cilantro: 
+  - name: cilantro
     amount: 1/4 cup
     notes: chopped and loosely packed
     group: Dipping sauce
-  mint leaves: 
+  - name: mint leaves
     amount: 2 tsp
     notes: chopped and loosely packed
     group: Dipping sauce
-  lime juice: 
+  - name: lime juice
     amount: 1 tsp
     notes: 
     group: Dipping sauce
-  garlic: 
+  - name: garlic
     amount: 1/8 tsp
     notes: minced
     group: Dipping sauce
-  sugar: 
+  - name: sugar
     amount: 1/8 tsp
     notes: 
     group: Dipping sauce
-  salt: 
+  - name: salt
     amount: pinch
     notes: 
     group: Dipping sauce

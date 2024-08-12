@@ -3,46 +3,46 @@ title: Baked Mushroom Rice
 categories:
 - side
 ingredients:
-  mushrooms: 
+  - name: mushrooms
     amount: 1.3 lb.
     notes: quartered
     group: Main Dish
-  butter: 
+  - name: butter
     amount: 3.5 tbsp.
     notes: melted (hot, not cooled)
     group: Main Dish
-  garlic: 
+  - name: garlic
     amount: 2-3 cloves
     notes: minced
     group: Main Dish
-  salt: 
+  - name: salt
     amount: to taste
     group: Main Dish
-  pepper: 
+  - name: pepper
     amount: to taste
     group: Main Dish
-  olive oil: 
+  - name: olive oil
     amount: 1.5 tbsp.
     group: Main Dish
-  long grain rice: 
+  - name: long grain rice
     amount: 1 ½ cups
     notes: uncooked
     group: Main Dish
-  chicken or vegetable broth: 
+  - name: chicken or vegetable broth 
     amount: 1 ½ cups
     notes: low sodium
     group: Main Dish
-  water: 
+  - name: water
     amount: 1 ¼ cups
     group: Main Dish
-  thyme: 
+  - name: thyme
     amount: 1 tsp.
     notes: dried
     group: Main Dish
-  garlic powder: 
+  - name: garlic powder
     amount: 1 tsp.
     group: Main Dish
-  shallots: 
+  - name: shallots
     amount: 3
     notes: finely sliced (or green onions)
     group: Main Dish

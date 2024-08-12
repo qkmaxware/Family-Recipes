@@ -4,59 +4,59 @@ categories:
 - main
 
 ingredients:
-  spaghetti:
+  - name: spaghetti
     amount: 16 ounces
     notes: 
     group: Main Dish
-  Teriyaki sauce:
+  - name: teriyaki sauce
     amount: 1 cup
     notes: 
     group: Main Dish
-  snow peas:
+  - name: snow peas
     amount: 1 cup
     notes: 
     group: Main Dish
-  Green onions:
+  - name: green onions
     amount: 1 bunch
     notes: chopped
     group: Main Dish
-  Carrot:
+  - name: carrot
     amount: 2 cups
     notes: shredded
     group: Main Dish
-  Sesame seeds:
+  - name: sesame seeds
     amount: 1 tbsp
     notes: 
     group: Main Dish
-  Cilantro:
+  - name: cilantro
     amount: 1/2 cup
     notes: chopped
     group: Main Dish
-  Soya sauce:
+  - name: soya sauce
     amount: 2 cups
     notes: low sodium
     group: Teriyaki sauce
-  Brown sugar:
+  - name: brown sugar
     amount: 3/4 cup
     notes: 
     group: Teriyaki sauce
-  Ginger:
+  - name: ginger
     amount: 2 inches
     notes: grated
     group: Teriyaki sauce
-  Garlic:
+  - name: garlic
     amount: 2 cloves
     notes: minced
     group: Teriyaki sauce
-  Sesame seed oil:
+  - name: sesame seed oil
     amount: 1/4 cup
     notes: 
     group: Teriyaki sauce
-  Green onion:
+  - name: green onion
     amount: 1
     notes: chopped
     group: Teriyaki sauce
-  carrots:
+  - name: carrots
     amount: 2 
     notes: shredded
     group: Main Dish

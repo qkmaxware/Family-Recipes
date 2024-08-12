@@ -3,51 +3,51 @@ title: Quick Chicken Piccata
 categories:
 - main
 ingredients:
-  chicken breast:
+  - name: chicken breast
     amount: 4 
     notes: skinless boneless breast halves
     group: Main Dish
-  cayenne pepper:
+  - name: cayenne pepper
     amount: to taste
     notes: 
     group: Main Dish
-  salt:
+  - name: salt
     amount: to taste
     notes: 
     group: Main Dish
-  pepper:
+  - name: pepper
     amount: to taste
     notes: 
     group: Main Dish
-  flour:
+  - name: flour
     amount: any
     notes: all purpose for dredging
     group: Main Dish
-  olive oil:
+  - name: olive oil
     amount: 2 tbsp.
     notes: 
     group: Main Dish
-  capers:
+  - name: capers
     amount: 1 tbsp.
     notes: drained
     group: Main Dish
-  white wine:
+  - name: white wine
     amount: 1/2 cup
     notes: 
     group: Main Dish
-  lemon juice:
+  - name: lemon juice
     amount: 1/4 cup
     notes: 
     group: Main Dish
-  water:
+  - name: water
     amount: 1/4 cup
     notes: 
     group: Main Dish
-  butter:
+  - name: butter
     amount: 3 tbsp.
     notes: unsalted, cut in 1/4 inch slices
     group: Main Dish
-  parsley:
+  - name: parsley
     amount: 2 tbsp.
     notes: fresh Italian
     group: Main Dish

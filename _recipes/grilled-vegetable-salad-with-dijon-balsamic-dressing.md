@@ -3,51 +3,51 @@ title: Grilled Vegetable Salad with Dijon Balsamic Dressing
 categories:
 - salad
 ingredients:
-  red onion:
+  - name: red onion
     amount: 1 large
     notes: chopped
     group: Main Dish
-  red bell pepper:
+  - name: red bell pepper
     amount: seeded
     notes: 
     group: Main Dish
-  yellow bell pepper:
+  - name: yellow bell pepper
     amount: seeded
     notes: 
     group: Main Dish
-  green bell pepper:
+  - name: green bell pepper
     amount: seeded
     notes: 
     group: Main Dish
-  zucchini:
+  - name: zucchini
     amount: 1 medium
     notes: 
     group: Main Dish
-  asparagus:
+  - name: asparagus
     amount: 1 bunch
     notes: 
     group: Main Dish
-  garlic:
+  - name: garlic
     amount: 4 cloves
     notes: minced
     group: Main Dish
-  olive oil balsamic dressing:
+  - name: olive oil balsamic dressing
     amount: 1/4 cup times 2
     notes: 
     group: Main Dish
-  salt:
+  - name: salt
     amount: to taste
     notes: 
     group: Main Dish
-  pepper:
+  - name: pepper
     amount: to taste
     notes: 
     group: Main Dish
-  dijon mustard:
+  - name: dijon mustard
     amount: 2 tbsp.
     notes: 
     group: Main Dish
-  olives:
+  - name: olives
     amount: optional
     notes: 
     group: Main Dish

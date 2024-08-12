@@ -6,73 +6,73 @@ categories:
 links:
 
 ingredients:
-  chow mein noodles: 
+  - name: chow mein noodles
     amount: 16 ounces
     notes: Can also use 14 oz. of yakisoba refrigerated noodles
     group: Main Dish
-  chicken breasts: 
+  - name: chicken breasts
     amount: 1 lb
     notes: boneless, skinless
     group: Main Dish
-  Pepper: 
+  - name: pepper 
     amount: pinch
     notes: to taste
     group: Main Dish
-  vegetable oil: 
+  - name: vegetable oil
     amount: 3 tbsp.
     notes: or canola, divided
     group: Main Dish
-  Carrot: 
+  - name: carrot
     amount: 1 large
     notes: shredded or julienne
     group: Main Dish
-  celery: 
+  - name: celery
     amount: 2 ribs
     notes: chopped
     group: Main Dish
-  Green onions: 
+  - name: green onions
     amount: 2-4
     notes: chopped
     group: Main Dish
-  garlic: 
+  - name: garlic
     amount: 3 cloves
     notes: minced
     group: Main Dish
-  ginger: 
+  - name: ginger
     amount: 2 tsp.
     notes: freshly grated or minced
     group: Main Dish
-  bean sprouts: 
+  - name: bean sprouts
     amount: 1 cup
     notes: optional
     group: Main Dish
-  oyster sauce: 
+  - name: oyster sauce
     amount: 1/4 cup
     notes: 
     group: Sauce
-  soy sauce: 
+  - name: soy sauce
     amount: 1/3 cup
     notes: low sodium
     group: Sauce
-  sesame oil: 
+  - name: sesame oil
     amount: 2 tbsp
     notes: 
     group: Sauce
-  rice vinegar: 
+  - name: rice vinegar
     amount: 1 tbsp
     notes: 
     group: Sauce
-  cornstarch: 
+  - name: cornstarch
     amount: 1 tsp
     notes: 
     group: Sauce
-  Brown sugar: 
+  - name: brown sugar
     amount: 1 tbsp
     notes: light
     group: Sauce
-  Asian garlic chilli sauce: 
+  - name: asian garlic chilli sauce
     amount: 1-2 tsp
-    notes: optional; I used 1 tsp. of saracha
+    notes: optional; I used 1 tsp. of sriracha
     group: Sauce
 
 ---

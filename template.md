@@ -18,7 +18,7 @@ layout: page
 {% for recipe in site.recipes %}
     {% if recipe.ingredients %}
     {% for ingredient in recipe.ingredients %}
-        {% assign ingredients = ingredients | push: ingredient[0] %}
+        {% assign ingredients = ingredients | push: ingredient.name %}
     {% endfor %}
     {% endif %}
 {% endfor %}
@@ -146,7 +146,7 @@ layout: page
                 console.log(items);
                 for (var j = 0; j < items.length; j++) {
                     var item = items[j];
-                    istring += "  " + item.name + ": \n";
+                    istring += "  - name: " + item.name + "\n";
                     istring += "    amount: " + item.amount + "\n";
                     istring += "    notes: " + item.notes + "\n";
                     istring += "    group: " + item.group + "\n";
@@ -231,7 +231,7 @@ ${this.instructions.get()}`;
                         if (c == null || c == "") {
                             continue;
                         } 
-                        finalList.push(c);
+                        finalList.push(c.toLowerCase().trim());
                     }
                 }
                 return finalList;
@@ -319,7 +319,7 @@ ${this.instructions.get()}`;
                         }
                         
                         finalList.push({
-                            name: name,
+                            name: name.toLowerCase().trim(),
                             amount: amt,
                             notes: inst,
                             group: group

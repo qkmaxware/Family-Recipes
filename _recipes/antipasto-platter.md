@@ -3,39 +3,39 @@ title: Antipasto Platter
 categories:
 - appetizer
 ingredients:
-  red bell peppers: 
+  - name: red bell peppers
     amount: 3 
     notes: large, quartered, seeds and membranes removed
     group: Main Dish
-  zucchini: 
+  - name: zucchini
     amount: 3 
     notes: medium, cut lengthwise into ¼ “ slices
     group: Main Dish
-  sweet potatoes: 
+  - name: sweet potatoes
     amount: 1 – ½ lbs.
     notes: peeled if desired, cut lengthwise into 1/8” thick slices
     group: Main Dish
-  eggplant: 
+  - name: eggplant
     amount: 1 medium
     notes: cut lengthwise into ¼” thick slices
     group: Main Dish
-  olive oil: 
+  - name: olive oil
     amount: ½ cup
     group: Main Dish
-  balsamic vinegar: 
+  - name: balsamic vinegar
     amount: ¼ cup
     group: Main Dish
-  sweet chili sauce: 
+  - name: sweet chili sauce
     amount: 3 tbsp.
     group: Main Dish
-  garlic:
+  - name: garlic
     amount: 4 cloves
     notes: minced
     group: Main Dish
-  salt:
+  - name: salt
     amount: to taste
     group: Main Dish
-  pepper: 
+  - name: pepper
     amount: to taste
     group: Main Dish
 ---

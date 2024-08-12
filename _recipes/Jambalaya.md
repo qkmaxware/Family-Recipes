@@ -3,91 +3,91 @@ title: Jambalaya
 categories:
 - main
 ingredients:
-  vegetable oil:
+  - name: vegetable oil
     amount: 1 tbsp
     notes: 
     group: Main Dish
-  bacon:
+  - name: bacon
     amount: 6 ounces
     notes: preferably smoked, chopped
     group: Main Dish
-  andouille:
+  - name: andouille
     amount: 7 ounces
     notes: sliced ( or smoked sausage)
     group: Main Dish
-  chicken:
+  - name: chicken
     amount: 10 oz.
     notes: skinless, boneless, cut into 1
     group: Main Dish” pieces
-  prawns:
+  - name: prawns
     amount: 12
     notes: raw (peeled with or without tails)
     group: Main Dish
-  garlic:
+  - name: garlic
     amount: 4 cloves
     notes: minced
     group: Main Dish
-  butter:
+  - name: butter
     amount: 1 tbsp
     notes: 
     group: Main Dish
-  onion:
+  - name: onion
     amount: 1 large
     notes: chopped
     group: Main Dish
-  celery:
+  - name: celery
     amount: 2 ribs
     notes: sliced
     group: Main Dish
-  green Bell pepper:
+  - name: green Bell pepper
     amount: two
     notes: cut into 1.5 cm. pieces
     group: Main Dish
-  long grain rice:
+  - name: long grain rice
     amount: 1.25 cups
     notes: 
     group: Main Dish
-  chicken broth:
+  - name: chicken broth
     amount: 2.5 cups
     notes: 
     group: Main Dish
-  canned crushed tomato:
+  - name: canned crushed tomato
     amount: 6.5 ounces
     notes: 
     group: Main Dish
-  tomato paste:
+  - name: tomato paste
     amount: 2 tbsp.
     notes: 
     group: Main Dish
-  green onions:
+  - name: green onions
     amount: 1 cup
     notes: sliced 
     group: Main Dish
-  thyme:
+  - name: thyme
     amount: 2 tsp. chopped fresh or 1 tsp dried
     notes: 
     group: Main Dish
-  paprika:
+  - name: paprika
     amount: 4 tsp. sweet
     notes: 
     group: Main Dish
-  garlic powder:
+  - name: garlic powder
     amount: 1 tsp.
     notes: 
     group: Main Dish
-  onion powder:
+  - name: onion powder
     amount: 1 tsp.
     notes: 
     group: Main Dish
-  cayenne Powder:
+  - name: cayenne Powder
     amount: 1/2 tsp.
     notes: 
     group: Main Dish
-  black pepper:
+  - name: black pepper
     amount: 1/2 tsp
     notes: 
     group: Main Dish
-  salt:
+  - name: salt
     amount: 1/2 tsp.
     notes: 
     group: Main Dish

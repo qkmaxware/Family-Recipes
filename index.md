@@ -7,7 +7,7 @@ layout: page
 {{ site.description }}
 
 <p>
-    <a href="{{site.baseurl}}/browse">Browse</a> all recipes
+    <a href="{{site.baseurl}}/browse-category">Browse</a> all recipes
 </p>
 <p>
     <a href="{{site.baseurl}}/search">Search</a> for a specific recipe

@@ -3,55 +3,55 @@ title: Chicken Chow Mein (Honey Sauce)
 categories:
 - main
 ingredients:
-  vegetable oil: 
+  - name: vegetable oil
     amount: 1 tbsp
     group: Main Dish
-  skinless chicken breasts: 
+  - name: skinless chicken breasts
     amount: 3/4 lb. 
     notes: cut into 1 inch pieces
     group: Main Dish
-  chow mein noodles: 
+  - name: chow mein noodles
     amount: 6 ounces
     notes: dry
     group: Main Dish
-  yellow onion: 
+  - name: yellow onion
     amount: 1/2 cup
     notes: thinly sliced
     group: Main Dish
-  carrots: 
+  - name: carrots
     amount: 1/2 cup 
     notes: shredded or julienned
     group: Main Dish
-  celery: 
+  - name: celery
     amount: 1/4 cup
     notes: thinly sliced
     group: Main Dish
-  garlic: 
+  - name: garlic
     amount: 1 tsp. 
     notes: minced
     group: Main Dish
-  cabbage: 
+  - name: cabbage
     amount: 1 cup 
     notes: shredded
     group: Main Dish
-  soy sauce: 
+  - name: soy sauce
     amount: 1/4 cup 
     notes: light
     group: Main Dish
-  honey: 
+  - name: honey
     amount: 2 tsps
     group: Main Dish
-  sesame oil: 
+  - name: sesame oil 
     amount: 1 tbsp.
     group: Main Dish
-  green onion: 
+  - name: green onion
     amount: 1/4 cup 
     notes: onion tops (only the dark green part)
     group: Main Dish
-  salt: 
+  - name: salt
     amount: to taste
     group: Main Dish
-  pepper: 
+  - name: pepper
     amount: to taste
     group: Main Dish
 ---

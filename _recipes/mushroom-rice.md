@@ -3,35 +3,35 @@ title: Mushroom Rice Recipe
 categories:
 - side
 ingredients:
-  olive oil:
+  - name: olive oil
     amount: 2-3 tbsps. 
     notes: 
     group: Main Dish
-  butter:
+  - name: butter
     amount: 2 tbsp. 
     notes: 
     group: Main Dish
-  mushrooms:
+  - name: mushrooms
     amount: 1.5 lb.
     notes: sliced 
     group: Main Dish
-  garlic:
+  - name: garlic
     amount: 2 cloves
     notes: minced
     group: Main Dish
-  onion:
+  - name: onion
     amount: small
     notes: finely diced
     group: Main Dish
-  long grained rice:
+  - name: long grained rice
     amount: 1 1/2 cups
     notes: uncooked
     group: Main Dish
-  vegetable broth:
+  - name: vegetable broth
     amount: 2 1/4 cups (can substitute chicken broth)
     notes: 
     group: Main Dish
-  green onion:
+  - name: green onion
     amount: 1 1/2 cups to 2 cups sliced (can substitute scallions or reduce the amount)
     notes: 
     group: Main Dish

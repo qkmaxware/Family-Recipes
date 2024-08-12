@@ -4,87 +4,87 @@ categories:
 - main
 - bowl
 ingredients:
-  canned tomatoes:
+  - name: canned tomatoes
     amount: 1 3/4 cup crushed or diced
     notes: 
     group: Main Dish
-  yellow onion:
+  - name: yellow onion
     amount: 1 small
     notes: peeled and diced
     group: Main Dish
-  jalapeno:
+  - name: jalapeno
     amount: 1
     notes: seeded and roughly chopped
     group: Main Dish
-  garlic:
+  - name: garlic
     amount: 4 cloves
     notes: peeled and diced
     group: Main Dish
-  vegetable broth:
+  - name: vegetable broth
     amount: 2 cups
     notes: 
     group: Main Dish
-  salt:
+  - name: salt
     amount: 1/2 tsp.
     notes: 
     group: Main Dish
-  cumin:
+  - name: cumin
     amount: 1/2 tsp.
     notes: 
     group: Main Dish
-  cooking oil:
+  - name: cooking oil
     amount: 1/3 cup neutral (ie. Sunflower
     notes: canola)
     group: Main Dish
-  white rice:
+  - name: white rice
     amount: 2 cups long grain
     notes: 
     group: Main Dish
-  limes:
+  - name: limes
     amount: 2 juiced
     notes: 
     group: Main Dish
-  cilantro:
+  - name: cilantro
     amount: 1/4 cup chopped
     notes: 
     group: Main Dish
-  black beans:
+  - name: black beans
     amount: 15 oz.
     notes: heated with a few pinches of taco seasoning (or pinto beans)
     group: Main Dish
-  avocado:
+  - name: avocado
     amount: optional
     notes: sliced
     group: Main Dish
-  canned corn:
+  - name: canned corn
     amount: optional
     notes: warmed up
     group: Main Dish
-  bell peppers:
+  - name: bell peppers
     amount: optional
     notes: sliced or squared, grilled
     group: Main Dish
-  salsa:
+  - name: salsa
     amount: optional
     notes: 
     group: Main Dish
-  romaine lettuce:
+  - name: romaine lettuce
     amount: optional
     notes: sliced
     group: Main Dish
-  lime:
+  - name: lime
     amount: optional
     notes: 
     group: Main Dish
-  cilantro:
+  - name: cilantro
     amount: optional
     notes: chopped
     group: Main Dish
-  hot sauce:
+  - name: hot sauce
     amount: optional
     notes: 
     group: Main Dish
-  mango:
+  - name: mango
     amount: optional
     notes: 
     group: Main Dish

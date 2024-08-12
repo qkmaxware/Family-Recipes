@@ -3,79 +3,79 @@ title: Mediterranean Shrimp with Bell Peppers
 categories:
 - main
 ingredients:
-  shrimp:
+  - name: shrimp
     amount: 1 1/4 lb large
     notes: peeled and deveined
     group: Main Dish
-  flour:
+  - name: flour
     amount: 1 tbsp. all purpose
     notes: 
     group: Main Dish
-  paprika:
+  - name: paprika
     amount: 1 to 2 tsp.
     notes: smoked Spanish
     group: Main Dish
-  salt:
+  - name: salt
     amount: 1/2 tsp.
     notes: 
     group: Main Dish
-  pepper:
+  - name: pepper
     amount: 1/2 tsp.
     notes: 
     group: Main Dish
-  coriander:
+  - name: coriander
     amount: 1/2 tsp.
     notes: ground
     group: Main Dish
-  cayenne:
+  - name: cayenne
     amount: 1/4 tsp.
     notes: 
     group: Main Dish
-  sugar:
+  - name: sugar
     amount: 1/4 tsp.
     notes: 
     group: Main Dish
-  butter:
+  - name: butter
     amount: 1 tbsp.
     notes: 
     group: Main Dish
-  olive oil:
+  - name: olive oil
     amount: 3 tbsp. extra virgin
     notes: 
     group: Main Dish
-  red onion:
+  - name: red onion
     amount: 1/2
     notes: thinly sliced
     group: Main Dish
-  garlic:
+  - name: garlic
     amount: 4 cloves
     notes: chopped
     group: Main Dish
-  green Bell Pepper:
+  - name: green Bell Pepper
     amount: 1/2
     notes: cored and sliced
     group: Main Dish
-  yellow Bell Pepper:
+  - name: yellow Bell Pepper
     amount: 1/2
     notes: cored and sliced
     group: Main Dish
-  diced tomato:
+  - name: diced tomato
     amount: 1 cup canned
     notes: 
     group: Main Dish
-  chicken broth:
+  - name: chicken broth
     amount: 1/3 cup
     notes: or vegetable broth
     group: Main Dish
-  white wine:
+  - name: white wine
     amount: 2 tbsp.
     notes: 
     group: Main Dish
-  lemon juice:
+  - name: lemon juice
     amount: 2 tbsp. fresh
     notes: 
     group: Main Dish
-  parsley:
+  - name: parsley
     amount: 1/3 cup
     notes: fresh and chopped
     group: Main Dish

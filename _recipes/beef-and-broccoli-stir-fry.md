@@ -3,52 +3,52 @@ title: Beef and Broccoli Stir Fry
 categories:
 - main
 ingredients:
-  flank steak: 
+  - name: flank steak
     amount: 1 ¼ lbs
     notes: thinly sliced
     group: Main Dish
-  vegetable oil: 
+  - name: vegetable oil
     amount: 1 tbsp. + 1 tsp.
     group: Main Dish
-  broccoli: 
+  - name: broccoli
     amount: 2 cups chopped
     notes: florets
     group: Main Dish
-  ginger: 
+  - name: ginger
     amount: 2 tsp. 
     notes: minced
     group: Main Dish
-  garlic: 
+  - name: garlic
     amount: 1 tsp. 
     notes: minced
     group: Main Dish
-  oyster sauce: 
+  - name: oyster sauce
     amount: ¼ cup
     group: Main Dish
-  beef broth: 
+  - name: beef broth
     amount: ¼ cup
     group: Main Dish
-  sugar: 
+  - name: sugar
     amount: 1 tsp.
     group: Main Dish
-  sesame oil: 
+  - name: sesame oil
     amount: 2 tsp. 
     notes: toasted
     group: Main Dish
-  soy sauce: 
+  - name: soy sauce
     amount: 1 tsp. 
     notes: light sodium
     group: Main Dish
-  cornstarch: 
+  - name: cornstarch
     amount: 1 tsp.
     group: Main Dish
-  salt: 
+  - name: salt
     amount: to taste
     group: Main Dish
-  pepper: 
+  - name: pepper
     amount: to taste
     group: Main Dish
-  white rice: 
+  - name: white rice
     amount: any
     notes: cooked
     group: Main Dish

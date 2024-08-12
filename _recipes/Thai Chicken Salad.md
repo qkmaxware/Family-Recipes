@@ -6,71 +6,71 @@ categories:
 links:
 
 ingredients:
-  lime juice: 
+  - name: lime juice 
     amount: 3 tbsp
     notes: 
     group: Dressing
-  olive oil: 
+  - name: olive oil 
     amount: 2 tbsp
     notes: 
     group: Dressing
-  soy sauce: 
+  - name: soy sauce 
     amount: 2 tbsp
     notes: 
     group: Dressing
-  honey: 
+  - name: honey 
     amount: 1 tbsp
     notes: 
     group: Dressing
-  peanut butter: 
+  - name: peanut butter 
     amount: 2 tbsp
     notes: 
     group: Dressing
-  fish sauce: 
+  - name: fish sauce 
     amount: 1 tsp
     notes: 
     group: Dressing
-  red pepper flakes: 
+  - name: red pepper flakes 
     amount: 1/4 tsp
     notes: 
     group: Dressing
-  garlic chili sauce: 
+  - name: garlic chili sauce 
     amount: 1/2 tsp
     notes: 
     group: Dressing
-  carrots: 
+  - name: carrots 
     amount: 1 cup
     notes: shredded
     group: Salad
-  papaya: 
+  - name: papaya 
     amount: 1 cup
     notes: green, shredded
     group: Salad
-  cucumber: 
+  - name: cucumber 
     amount: 1 cup
     notes: sliced
     group: Salad
-  bok choy: 
+  - name: bok choy 
     amount: 2 cups
     notes: sliced
     group: Salad
-  red chili pepper: 
+  - name: red chili pepper 
     amount: 1
     notes: sliced
     group: Salad
-  chicken breast: 
+  - name: chicken breast 
     amount: 2
     notes: cooked and cut into small pieces
     group: Salad
-  mint: 
+  - name: mint 
     amount: 1/4 cup
     notes: chopped
     group: Salad
-  almonds: 
+  - name: almonds 
     amount: 1/2 cup
     notes: slivered (can also use peanuts)
     group: Salad
-  green cabbage: 
+  - name: green cabbage 
     amount: 3 cups
     notes: shredded
     group: Salad

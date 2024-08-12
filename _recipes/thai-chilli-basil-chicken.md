@@ -3,44 +3,44 @@ title: Thai Chilli Basil Chicken
 categories:
 - main
 ingredients:
-  chicken: 
+  - name: chicken 
     amount: 7 ounces
     notes: boneless, cut into bit size pieces
     group: Main Dish
-  shallot: 
+  - name: shallot 
     amount: 1
     notes: cut into 4 cm., 2” lengths
     group: Main Dish
-  thai basil leaves: 
+  - name: thai basil leaves 
     amount: 1 cup
     notes: loosely packed
     group: Main Dish
-  garlic: 
+  - name: garlic 
     amount: 2 large cloves
     notes: finely chopped
     group: Main Dish
-  thai chilli: 
+  - name: thai chilli 
     amount: 1
     notes: deseeded and finely chopped
     group: Main Dish
-  oil: 
+  - name: oil 
     amount: 1 ½ tbsp. 
     nots: peanut, vegetable or canola
     group: Main Dish
-  oyster sauce: 
+  - name: oyster sauce 
     amount: 2 tsp.
     group: Main Dish
-  soy sauce: 
+  - name: soy sauce 
     amount: 2 tsp.
     notes: 1 tsp light, 1 tsp dark
     group: Main Dish
-  sugar: 
+  - name: sugar 
     amount: 1 tsp.
     group: Main Dish
-  water: 
+  - name: water 
     amount: 2 tbsp.
     group: Main Dish
-  rice: 
+  - name: rice 
     amount: any
     notes: cooked
     group: Main Dish

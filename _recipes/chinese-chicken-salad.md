@@ -3,99 +3,99 @@ title: Chinese Chicken Salad
 categories:
 - salad
 ingredients:
-  chicken:
+  - name: chicken
     amount: 3 cups
     notes: cooked and shredded
     group: Main Dish
-  napa cabbage:
+  - name: napa cabbage
     amount: small head
     notes: thinly shredded (about 6 cups)
     group: Main Dish
-  red cabbage:
+  - name: red cabbage
     amount: 1/2 small
     notes: shredded (approx.. 3 cups)
     group: Main Dish
-  carrots:
+  - name: carrots
     amount: 1 cup matchstick
     notes: thinly julienned
     group: Main Dish
-  snow peas:
+  - name: snow peas
     amount: 3 ounces
     notes: ends trimmed and julienned (approx. 1 cup)
     group: Main Dish
-  red bell pepper:
+  - name: red bell pepper
     amount: 1
     notes: julienned then halved
     group: Main Dish
-  mandarin oranges:
+  - name: mandarin oranges
     amount: 1-2 11 oz. can(s)
     notes: in water, drained
     group: Main Dish
-  cilantro:
+  - name: cilantro
     amount: 1/3 cup
     notes: loosely packed, chopped
     group: Main Dish
-  green onions:
+  - name: green onions
     amount: 1/3 cup
     notes: chopped
     group: Main Dish
-  craisins:
+  - name: craisins
     amount: 1/2 cup 
     notes: optional but recommended
     group: Main Dish
-  almonds:
+  - name: almonds
     amount: 2/3 cup
     notes: sliced
     group: Main Dish
-  chow mein noodles:
+  - name: chow mein noodles
     amount: 1 1/2 cups
     notes: 
     group: Main Dish
-  sesame seeds:
+  - name: sesame seeds
     amount: 2 tbsp.
     notes: 
     group: Main Dish
-  rice vinegar:
+  - name: rice vinegar
     amount: 1/3 cup
     notes: 
     group: Main Dish
-  soy sauce:
+  - name: soy sauce
     amount: 1/4 cup
     notes: low sodium
     group: Main Dish
-  sweet chili sauce:
+  - name: sweet chili sauce
     amount: 2 tbsp. 
     notes: 
     group: Main Dish
-  sesame oil:
+  - name: sesame oil
     amount: 1 1/2 tbsp.
     notes: 
     group: Main Dish
-  sugar:
+  - name: sugar
     amount: 2 tbsp.
     notes: 
     group: Main Dish
-  sriracha:
+  - name: sriracha
     amount: 1/2 - 1 tsp.
     notes: optional
     group: Main Dish
-  garlic:
+  - name: garlic
     amount: 1 1/2 tsp.
     notes: minced
     group: Main Dish
-  ginger:
+  - name: ginger
     amount: 1 1/2 tsp.
     notes: fresh, grated
     group: Main Dish
-  salt:
+  - name: salt
     amount: 1/2 tsp.
     notes: 
     group: Main Dish
-  pepper:
+  - name: pepper
     amount: 1/2 tsp.
     notes: 
     group: Main Dish
-  canola oil:
+  - name: canola oil
     amount: 3 tbsp.
     notes: 
     group: Main Dish

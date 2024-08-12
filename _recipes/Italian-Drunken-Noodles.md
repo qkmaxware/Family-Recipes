@@ -6,63 +6,63 @@ categories:
 links:
 
 ingredients:
-  pappardelle noodles: 
+  - name: pappardelle noodles
     amount:  8 ounces
     notes: uncooked
     group: Main Dish
-  Olive oil: 
+  - name: olive oil
     amount:  
     notes:  
     group: Main Dish
-  Italian sausage: 
+  - name: italian sausage
     amount: 4
     notes: spicy, casings removed
     group: Main Dish
-  onion: 
+  - name: onion
     amount: 1
     notes: large, sliced thinly
     group: Main Dish
-  salt: 
+  - name: salt
     amount: 1 1/2 tsp
     notes: I cut this out.
     group: Main Dish
-  Italian seasoning: 
+  - name: italian seasoning 
     amount: 1 tsp
     notes:  
     group: Main Dish
-  Black Pepper: 
+  - name: black pepper
     amount: 1/2
     notes:  
     group: Main Dish
-  red bell pepper: 
+  - name: red bell pepper 
     amount: 1
     notes: thinly sliced
     group: Main Dish
-  yellow bell pepper: 
+  - name: yellow bell pepper 
     amount: 1
     notes: thinly sliced
     group: Main Dish
-  orange bell pepper: 
+  - name: orange bell pepper
     amount: 1
     notes: thinly sliced
     group: Main Dish
-  garlic: 
+  - name: garlic
     amount: 4 cloves
     notes: pressed through garlic press
     group: Main Dish
-  white wine: 
+  - name: white wine
     amount: 1/2
     notes: Chardonnay is good
     group: Main Dish
-  tomatoes: 
+  - name: tomatoes
     amount:  1 can (28 ounce)
     notes: diced, with juice
     group: Main Dish
-  parsley: 
+  - name: parsley 
     amount: 2 tbsp
     notes: chopped
     group: Main Dish
-  basil leaves: 
+  - name: basil leaves
     amount: 1/2 cup
     notes: fresh, chopped and divided for use
     group: Main Dish

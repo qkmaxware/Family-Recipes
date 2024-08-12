@@ -6,43 +6,43 @@ categories:
 links:
 
 ingredients:
-  Shrimp: 
+  - name: shrimp
     amount: 1 - 16 ounce
     notes: peeled and deveined
     group: Main Dish
-  Olive oil: 
+  - name: olive oil
     amount: 3 tbsp
     notes: virgin
     group: Main Dish
-  salt: 
+  - name: salt
     amount: 
     notes: to taste
     group: Main Dish
-  pepper: 
+  - name: pepper
     amount: 
     notes: to taste
     group: Main Dish
-  garlic: 
+  - name: garlic
     amount: 3 cloves
     notes: 
     group: Main Dish
-  lemon: 
+  - name: lemon
     amount: 1
     notes: juiced
     group: Main Dish
-  jalapeno: 
+  - name: jalapeno
     amount: 1
     notes: seeded and chopped
     group: Main Dish
-  water: 
+  - name: water
     amount: 1/3 cup
     notes: 
     group: Main Dish
-  white wine vinegar: 
+  - name: white wine vinegar
     amount: 1 tbsp
     notes: 
     group: Main Dish
-  tahini: 
+  - name: tahini
     amount: 1/4 cup
     notes: 
     group: Main Dish

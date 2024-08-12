@@ -4,35 +4,35 @@ categories:
 - main
 
 ingredients:
-  Garlic cloves:
+  - name: garlic cloves
     amount: 5
     notes: minced
     group: Main Dish
-  Olive oil:
+  - name: olive oil
     amount: 1/3 cup
     notes: 
     group: Main Dish
-  Capers:
+  - name: capers
     amount: 1/4 cup
     notes: 
     group: Main Dish
-  Olives:
+  - name: olives
     amount: 2/3 cup
     notes: pitted
     group: Main Dish
-  Tomatoes:
+  - name: tomatoes
     amount: 14 oz. can
     notes: chopped
     group: Main Dish
-  Anchovy fillets:
+  - name: anchovy fillets
     amount: 1 tbsp. 
     notes: crushed
     group: Main Dish
-  Pepper:
+  - name: pepper
     amount: to taste
     notes: 
     group: Main Dish
-  Spaghetti:
+  - name: spaghetti
     amount: 1 box
     notes: 
     group: Main Dish

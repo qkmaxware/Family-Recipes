@@ -3,52 +3,52 @@ title: Thai Buddha Bowl with Peanut Sauce
 categories:
 - main
 ingredients:
-  red rice: 
+  - name: red rice 
     amount: 1 cup 
     notes: cooked
     group: Main Dish
-  bean sprouts: 
+  - name: bean sprouts 
     amount: ½ cup
     group: Main Dish
-  carrots: 
+  - name: carrots 
     amount: ½ cup 
     notes: shredded
     group: Main Dish
-  purple cabbage:   
+  - name: purple cabbage   
     amount: ½ cup 
     notes: shredded
     group: Main Dish
-  garlic chives: 
+  - name: garlic chives 
     amount: any
     notes: for topping
     group: Main Dish
-  peanuts: 
+  - name: peanuts 
     amount: any
     notes: crushed for topping
     group: Main Dish
-  coconut milk: 
+  - name: coconut milk 
     amount: 1-14 ounce can
     group: Main Dish
-  peanut butter: 
+  - name: peanut butter 
     amount: 2/3 cup
     group: Main Dish
-  coconut sugar: 
+  - name: coconut sugar 
     amount: ¼ cup
     group: Main Dish
-  water: 
+  - name: water 
     amount: ¼ cup 
     group: Main Dish
-  apple cider vinegar: 
+  - name: apple cider vinegar 
     amount: 2 tbsp
     notes: or white vinegar
     group: Main Dish
-  sesame oil: 
+  - name: sesame oil 
     amount: 2 tsp.
     group: Main Dish
-  red curry paste: 
+  - name: red curry paste 
     amount: 2 tsp.
     group: Main Dish
-  soy sauce: 
+  - name: soy sauce 
     amount: 2 tbsp.
     group: Main Dish
 ---

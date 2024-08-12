@@ -6,23 +6,23 @@ categories:
 links:
 
 ingredients:
-  powdered sugar: 
+  - name: powdered sugar 
     amount: 75g
     notes: 
     group: Main Dish
-  matcha powder: 
+  - name: matcha powder 
     amount: 0.75 Tbsp
     notes: 
     group: Main Dish
-  Butter: 
+  - name: butter 
     amount: 60g
     notes: 
     group: Main Dish
-  egg yolks: 
+  - name: egg yolks 
     amount: 2
     notes: 
     group: Main Dish
-  Flour: 
+  - name: flour 
     amount: 110g
     notes: 
     group: Main Dish

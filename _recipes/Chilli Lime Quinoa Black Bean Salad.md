@@ -4,63 +4,63 @@ categories:
 - salad
 
 ingredients:
-  Quinoa:
+  - name: quinoa
     amount: 3/4 cup
     notes: uncooked
     group: Main Dish
-  Water:
+  - name: water
     amount: 1 1/2 cup
     notes: 
     group: Main Dish
-  Bell pepper:
+  - name: bell pepper
     amount: 1 medium
     notes: 
     group: Main Dish
-  Onion:
+  - name: onion
     amount: 1/2 medium
     notes: diced
     group: Main Dish
-  Grape tomatoes:
+  - name: grape tomatoes
     amount: 1 cup
     notes: sliced or halved
     group: Main Dish
-  Black beans:
+  - name: black beans
     amount: 1 15 oz. can
     notes: drained and rinsed
     group: Main Dish
-  Cilantro:
+  - name: cilantro
     amount: 1 cup
     notes: loosely packed and chopped
     group: Main Dish
-  Avocado:
+  - name: avocado
     amount: 1 medium
     notes: cubed
     group: Main Dish
-  Feta cheese:
+  - name: feta cheese
     amount: 1/2 cup
     notes: crumbled
     group: Main Dish
-  Olive oil:
+  - name: olive oil
     amount: 1/3 cup
     notes: 
     group: Vinaigrette
-  Limes:
+  - name: limes
     amount: 2 (1/4 cup)
     notes: 
     group: Vinaigrette
-  Cumin:
+  - name: cumin
     amount: 1/2 tsp.
     notes: 
     group: Vinaigrette
-  Garlic powder:
+  - name: garlic powder
     amount: 1/2 tsp.
     notes: 
     group: Vinaigrette
-  Chilli powder:
+  - name: chilli powder
     amount: 1/4 tsp.
     notes: 
     group: Vinaigrette
-  Cayenne:
+  - name: cayenne
     amount: a pinch
     notes: 
     group: Vinaigrette

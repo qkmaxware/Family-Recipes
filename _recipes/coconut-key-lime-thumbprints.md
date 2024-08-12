@@ -3,63 +3,63 @@ title: Coconut Key Lime Thumbprints
 categories:
 - cookies
 ingredients:
-  cornstarch:
+  - name: cornstarch
     amount: 2 tbsp.
     notes: 
     group: Main Dish
-  lime juice:
+  - name: lime juice
     amount: 2/3 cup
     notes: 
     group: Main Dish
-  sugar:
+  - name: sugar
     amount: 3/4 cup
     notes: 
     group: Main Dish
-  egg yolks:
+  - name: egg yolks
     amount: 2 large
     notes: 
     group: Main Dish
-  butter:
+  - name: butter
     amount: 1 cup softened
     notes: 
     group: Main Dish
-  icing sugar:
+  - name: icing sugar
     amount: 1/2 cup
     notes: 
     group: Main Dish
-  salt:
+  - name: salt
     amount: 1/8 tsp.
     notes: 
     group: Main Dish
-  vanilla extract:
+  - name: vanilla extract
     amount: 1 tsp.
     notes: 
     group: Main Dish
-  coconut extract:
+  - name: coconut extract
     amount: 1/2 tsp. 
     notes: 
     group: Main Dish
-  flour:
+  - name: flour
     amount: 2 cups
     notes: all purpose
     group: Main Dish
-  egg whites:
+  - name: egg whites
     amount: 2 large
     notes: 
     group: Main Dish
-  water:
+  - name: water
     amount: 2 tsp.
     notes: 
     group: Main Dish
-  coconut:
+  - name: coconut
     amount: 1 1/2 cups sweetened
     notes: shredded
     group: Main Dish
-  white baking chocolate:
+  - name: white baking chocolate
     amount: 4 ounces
     notes: chopped
     group: Main Dish
-  shortening:
+  - name: shortening
     amount: 1 tbsp.
     notes: 
     group: Main Dish

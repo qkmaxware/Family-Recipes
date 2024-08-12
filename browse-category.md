@@ -1,5 +1,5 @@
 ---
-title: 'Browse All Recipes'
+title: 'Browse By Category'
 layout: page
 ---
 {% assign categories = nil %}
@@ -13,6 +13,10 @@ layout: page
 {% if categories %}
 {% assign categories = categories | uniq %}
 {% endif %}
+
+<aside>
+To browse alphabetically click <a href="{{site.baseurl}}/browse-alphabetical">here</a>.
+</aside>
 
 {% if categories %}
 {% for category in categories %}

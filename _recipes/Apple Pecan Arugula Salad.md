@@ -4,39 +4,39 @@ categories:
 - salad
 
 ingredients:
-  Pecans: 
+  - name: pecans
     amount: 1/2 cup
     notes: toasted
     group: Main Dish
-  Apples: 
+  - name: apples 
     amount: 2 small
     notes: sliced
     group: Main Dish
-  Red onion: 
+  - name: red onion 
     amount: 1/4
     notes: thinly sliced
     group: Main Dish
-  Cranberries: 
+  - name: cranberries
     amount: 2 tbsp
     notes: dried
     group: Main Dish
-  Lemon juice: 
+  - name: lemon juice
     amount: 1 large or 3 tbsp.
     notes: juiced
     group: Dressing
-  Maple syrup: 
+  - name: maple syrup
     amount: 1 tbsp
     notes: 
     group: Dressing
-  Sea salt: 
+  - name: sea salt
     amount: pinch
     notes: 
     group: Dressing
-  Pepper: 
+  - name: pepper
     amount: pinch
     notes: 
     group: Dressing
-  Olive oil: 
+  - name: olive oil
     amount: 3 tbsp
     notes: 
     group: Dressing

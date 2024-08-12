@@ -3,27 +3,27 @@ title: Company Potatoes
 categories:
 - side
 ingredients:
-  potatoes:
+  - name: potatoes
     amount: 8 cups
     notes: thinly sliced
     group: Main Dish
-  bread crumbs:
+  - name: bread crumbs
     amount: 2 tbsp.
     notes: 
     group: Main Dish
-  butter:
+  - name: butter
     amount: 1/2 cup
     notes: or margarine
     group: Main Dish
-  salt:
+  - name: salt
     amount: 1 tbsp.
     notes: 
     group: Main Dish
-  pepper:
+  - name: pepper
     amount: 1/2 tsp
     notes: 
     group: Main Dish
-  onions:
+  - name: onions
     amount: 1/2 cup
     notes: thinly sliced
     group: Main Dish

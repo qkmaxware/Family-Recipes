@@ -3,43 +3,43 @@ title: Honey garlic cauliflower
 categories:
 - appetizer
 ingredients:
-  flour:
+  - name: flour
     amount: 1 cup
     notes: all purpose
     group: Main Dish
-  panko breadcrumbs:
+  - name: panko breadcrumbs
     amount: 2 cups
     notes: 
     group: Main Dish
-  eggs:
+  - name: eggs
     amount: 3 large
     notes: beaten
     group: Main Dish
-  cauliflower:
+  - name: cauliflower
     amount: 1 head
     notes: chopped into bite size florets
     group: Main Dish
-  honey:
+  - name: honey
     amount: 1/3 cup
     notes: 
     group: Main Dish
-  lime juice:
+  - name: lime juice
     amount: 5 tbsp.
     notes: 
     group: Main Dish
-  sriracha:
+  - name: sriracha
     amount: 1 tbsp.
     notes: 
     group: Main Dish
-  water:
+  - name: water
     amount: 1/4 cup
     notes: 
     group: Main Dish
-  corn starch:
+  - name: corn starch
     amount: 2 tsp.
     notes: 
     group: Main Dish
-  scallions:
+  - name: scallions
     amount: 1/4 cup
     notes: sliced
     group: Main Dish

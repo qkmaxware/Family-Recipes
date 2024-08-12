@@ -3,38 +3,38 @@ title: Thai Chicken Bites
 categories:
 - appetizer
 ingredients:
-  oil: 
+  - name: oil 
     amount: 1-2 inches
     group: Main Dish
-  chicken breast: 
+  - name: chicken breast 
     amount: 1 large
     group: Main Dish
-  flour: 
+  - name: flour 
     amount: 1/2 cup
     group: Main Dish
-  garlic powder: 
+  - name: garlic powder 
     amount: 1/2 teaspoon
     group: Main Dish
-  salt: 
+  - name: salt 
     amount: sprinkle
     group: Main Dish
-  pepper: 
+  - name: pepper 
     amount: sprinkle
     group: Main Dish
-  egg: 
+  - name: egg 
     amount: 1
     group: Main Dish
-  milk: 
+  - name: milk 
     amount: 2 tablespoons
     group: Main Dish
-  sweet chili sauce: 
+  - name: sweet chili sauce 
     amount: 1/3 cup
     group: Main Dish
-  carrots: 
+  - name: carrots 
     amount: 1 
     notes: julienned
     group: Main Dish
-  cilantro: 
+  - name: cilantro 
     amount: any
     notes: enough to garnish
     group: Main Dish

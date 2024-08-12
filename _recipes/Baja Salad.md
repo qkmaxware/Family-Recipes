@@ -6,55 +6,55 @@ categories:
 links:
 
 ingredients:
-  Avocado: 
+  - name: avocado 
     amount: 1
     notes: diced
     group: Main Dish
-  Black beans: 
+  - name: black beans
     amount: 1/4 cup
     notes: cooked
     group: Main Dish
-  corn: 
+  - name: corn
     amount: 1/4 cup
     notes: white kernels
     group: Main Dish
-  cucumber: 
+  - name: cucumber
     amount: 1
     notes:  pickling
     group: Main Dish
-  Red onion: 
+  - name: red onion 
     amount: 1/4 cup
     notes: thinly sliced
     group: Main Dish
-  romaine lettuce: 
+  - name: romaine lettuce
     amount: 1 
     notes: head
     group: Main Dish
-  lemon juice: 
+  - name: lemon juice
     amount: 2 tbsp
     notes: 
     group: Main Dish
-  salt: 
+  - name: salt
     amount: pinch
     notes: 
     group: Main Dish
-  pepper: 
+  - name: pepper 
     amount: pinch
     notes: 
     group: Main Dish
-  Cumin: 
+  - name: cumin 
     amount: 1/4 tsp
     notes: ground
     group: Main Dish
-  tortilla chips: 
+  - name: tortilla chips
     amount: 1/4 cup
     notes: 
     group: Main Dish
-  Tomatoes: 
+  - name: tomatoes 
     amount: 1
     notes: large
     group: Main Dish
-  olive oil:
+  - name: olive oil
     amount: 2 tbsp
     notes:
     group: Main Dish

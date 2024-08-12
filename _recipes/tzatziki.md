@@ -3,22 +3,22 @@ title: Tzatziki
 categories:
 - dip
 ingredients:
-  yogurt: 
+  - name: yogurt 
     amount: 1 ½ cups
     notes: plain, no-fat
     group: Main Dish
-  cucumber: 
+  - name: cucumber 
     amount: 1/2 cup
     notes: chopped
     group: Main Dish
-  salt: 
+  - name: salt 
     amount: ½ tsp.
     group: Main Dish
-  garlic: 
+  - name: garlic 
     amount: 1 clove
     notes: minced
     group: Main Dish
-  lemon juice: 
+  - name: lemon juice 
     amount: 1 tsp.
     group: Main Dish
 ---

@@ -6,79 +6,79 @@ categories:
 links:
 
 ingredients:
-  peanut butter: 
+  - name: peanut butter 
     amount: 1/4 cup
     notes: creamy
     group: Dressing
-  rice vinegar: 
+  - name: rice vinegar 
     amount: 2 tbsp
     notes: unseasoned
     group: Dressing
-  lime juice: 
+  - name: lime juice 
     amount: 2 tbsp
     notes: 
     group: Dressing
-  vegetable oil: 
+  - name: vegetable oil 
     amount: 3 tbsp
     notes: 
     group: Dressing
-  soy sauce: 
+  - name: soy sauce 
     amount: 1 tbsp
     notes: 
     group: Dressing
-  honey: 
+  - name: honey 
     amount: 2 tbsp
     notes: 
     group: Dressing
-  garlic: 
+  - name: garlic 
     amount: 2 cloves
     notes: chopped
     group: Dressing
-  ginger: 
+  - name: ginger 
     amount: 1 inch
     notes: peeled and chopped
     group: Dressing
-  salt: 
+  - name: salt 
     amount: 1 tsp
     notes: 
     group: Dressing
-  red papper flakes: 
+  - name: red pepper flakes 
     amount: 1/4 tsp
     notes: 
     group: Dressing
-  white sugar: 
+  - name: white sugar 
     amount: 2.5 tbsp
     notes: 
     group: Dressing
-  cilantro: 
+  - name: cilantro 
     amount: 2 tbsp
     notes: chopped
     group: Dressing
-  napa cabbage: 
+  - name: napa cabbage 
     amount: 4 cups
     notes: shredded
     group: Main Dish
-  carrots: 
+  - name: carrots 
     amount: 1 cup
     notes: shredded
     group: Main Dish
-  red bell pepper: 
+  - name: red bell pepper 
     amount: 1
     notes: thinly sliced into bite size pieces
     group: Main Dish
-  English cucumber: 
+  - name: english cucumber 
     amount: 1
     notes: cubed
     group: Main Dish
-  edamame: 
+  - name: edamame 
     amount: 1 cup
     notes: cooked and shelled
     group: Main Dish
-  scallions: 
+  - name: scallions 
     amount: 2 medium
     notes: thinly sliced
     group: Main Dish
-  cilantro: 
+  - name: cilantro 
     amount: 1/2 cup
     notes: loosely packed and chopped
     group: Main Dish

@@ -6,51 +6,51 @@ categories:
 links:
 
 ingredients:
-  olive oil: 
+  - name: olive oil 
     amount: 1 tbsp
     notes: 
     group: Main Dish
-  turkey: 
+  - name: turkey 
     amount: 1 lb
     notes: ground
     group: Main Dish
-  garlic: 
+  - name: garlic 
     amount: 4 cloves
     notes: finely chopped
     group: Main Dish
-  red curry paste: 
+  - name: red curry paste 
     amount: 2 tbsp
     notes: 
     group: Main Dish
-  red bell pepper: 
+  - name: red bell pepper 
     amount: 1
     notes: diced
     group: Main Dish
-  cabbage: 
+  - name: cabbage 
     amount: 1 cup
     notes: chopped
     group: Main Dish
-  ginger: 
+  - name: ginger 
     amount: 1 tbsp
     notes: fresh
     group: Main Dish
-  basil: 
+  - name: basil 
     amount: 2 tsp
     notes: dried
     group: Main Dish
-  green onion: 
+  - name: green onion 
     amount: 4
     notes: chopped
     group: Main Dish
-  lettuce (romaine): 
+  - name: lettuce (romaine) 
     amount: head
     notes: 
     group: Main Dish
-  hoisin sauce: 
+  - name: hoisin sauce 
     amount: optional
     notes: 
     group: Main Dish
-  soy sauce: 
+  - name: soy sauce 
     amount: optional
     notes: 
     group: Main Dish

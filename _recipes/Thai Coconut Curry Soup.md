@@ -4,74 +4,74 @@ categories:
 - soup
 
 ingredients:
-  Coconut oil: 
+  - name: coconut oil 
     amount: 2 tbsp
     group: Main Dish
-  Green Bell pepper:
+  - name: green bell pepper
     amount: 1 large
     notes: thinly sliced
     group: Main Dish
-  Yellow Bell pepper:
+  - name: yellow bell pepper
     amount: 1 large
     notes: thinly sliced
     group: Main Dish
-  red onion:
+  - name: red onion
     amount: 1 medium
     notes: thinly sliced
     group: Main Dish
-  Red curry paste:
+  - name: red curry paste
     amount: 3 tbsp
     notes: 
     group: Main Dish
-  Ginger:
+  - name: ginger
     amount: 1 tbsp
     notes: grated
     group: Main Dish
-  Garlic:
+  - name: garlic
     amount: 3 cloves
     notes: minced
     group: Main Dish
-  Chicken stock:
+  - name: chicken stock
     amount: 2 cups
     notes: 
     group: Main Dish
-  Tomato sauce:
+  - name: tomato sauce
     amount: 1 can 
     notes: 8 ounces
     group: Main Dish
-  Fish sauce:
+  - name: fish sauce
     amount: 1 1/2 tbsp
     notes: 
     group: Main Dish
-  Brown sugar:
+  - name: brown sugar
     amount: 2 tsp
     notes: 
     group: Main Dish
-  Coconut milk:
+  - name: coconut milk
     amount: 1 can 
     notes: 13.5 ounces
     group: Main Dish
-  Shrimp:
+  - name: shrimp
     amount: 1 1/2 cups
     notes: 
     group: Main Dish
-  Thai basil leaves:
+  - name: thai basil leaves
     amount: 1/4 cup
     notes: fresh
     group: Main Dish
-  Cilantro:
+  - name: cilantro
     amount: 1/4 cup
     notes: chopped
     group: Main Dish
-  Lime juice:
+  - name: lime juice
     amount: 2 tbsp
     notes: 
     group: Main Dish
-  Salt:
+  - name: salt
     amount: to taste
     notes: 
     group: Main Dish
-  Pepper:
+  - name: pepper
     amount: to taste
     notes: 
     group: Main Dish

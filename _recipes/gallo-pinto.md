@@ -3,35 +3,35 @@ title: Gallo Pinto
 categories:
 - main
 ingredients:
-  vegetable oil:
+  - name: vegetable oil
     amount: 2 tbsp.
     notes: 
     group: Main Dish
-  red bell pepper:
+  - name: red bell pepper
     amount: 1 chopped
     notes: 
     group: Main Dish
-  yellow onion:
+  - name: yellow onion
     amount: 1 small
     notes: chopped
     group: Main Dish
-  garlic:
+  - name: garlic
     amount: 2 cloves
     notes: minced
     group: Main Dish
-  black beans:
+  - name: black beans
     amount: cooked
     notes: in 3/4 cup, reserved cooking liquid
     group: Main Dish
-  salsa lizano:
+  - name: salsa lizano
     amount: 1/4 cup
     notes: 
     group: Main Dish
-  rice:
+  - name: rice
     amount: 3 cups cooked
     notes: preferably day old and refrigerated
     group: Main Dish
-  cilantro:
+  - name: cilantro
     amount: 1/4 cup
     notes: chopped fresh
     group: Main Dish

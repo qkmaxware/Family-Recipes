@@ -6,47 +6,47 @@ categories:
 links:
 
 ingredients:
-  garlic: 
+  - name: garlic 
     amount: 6 cloves
     notes: minced
     group: Main Dish
-  soy sauce: 
+  - name: soy sauce
     amount: 1/4 cup
     notes: low sodium
     group: Main Dish
-  Brown sugar: 
+  - name: brown sugar
     amount: 2 tbsp.
     notes: light
     group: Main Dish
-  sesame oil: 
+  - name: sesame oil
     amount: 1 tbsp
     notes: toasted
     group: Main Dish
-  chili sauce: 
+  - name: chili sauce
     amount: 1 tbsp
     notes: such as samba oelek
     group: Main Dish
-  cornstarch: 
+  - name: cornstarch
     amount: 1 tbsp
     notes: 
     group: Main Dish
-  vegetable oil: 
+  - name: vegetable oil 
     amount: 1 tbsp
     notes: 
     group: Main Dish
-  red bell pepper: 
+  - name: red bell pepper
     amount: 1
     notes: thinly sliced
     group: Main Dish
-  asparagus: 
+  - name: asparagus
     amount: 1/2 pound
     notes: trimmed and cut
     group: Main Dish
-  snow peas: 
+  - name: snow peas
     amount: 1 cup
     notes: 
     group: Main Dish
-  Shrimp: 
+  - name: shrimp
     amount: 2 pounds
     notes: peeled and deveined
     group: Main Dish

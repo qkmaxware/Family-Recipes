@@ -6,47 +6,47 @@ categories:
 links:
 
 ingredients:
-  flour: 
+  - name: flour
     amount: 2 1/4 cup
     notes: 
     group: Main Dish
-  ginger: 
+  - name: ginger 
     amount: 2 tsp
     notes: ground
     group: Main Dish
-  baking soda: 
+  - name: baking soda 
     amount: 1 tsp
     notes: 
     group: Main Dish
-  cinnamon: 
+  - name: cinnamon
     amount: 3/4 tsp
     notes: ground
     group: Main Dish
-  cloves: 
+  - name: cloves
     amount: 1/2 tsp
     notes: ground
     group: Main Dish
-  salt: 
+  - name: salt
     amount: 1/4 tsp
     notes: 
     group: Main Dish
-  margarine: 
+  - name: margarine
     amount: 3/4 cup
     notes: softened
     group: Main Dish
-  white sugar: 
+  - name: white sugar
     amount: 1 cup + 2 tbsp
     notes: 
     group: Main Dish
-  egg: 
+  - name: egg
     amount: 1
     notes: large
     group: Main Dish
-  molasses: 
+  - name: molasses
     amount: 1/4 cup
     notes: 
     group: Main Dish
-  water: 
+  - name: water
     amount: 1 tbsp
     notes: 
     group: Main Dish

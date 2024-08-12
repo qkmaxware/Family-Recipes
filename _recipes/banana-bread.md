@@ -4,29 +4,29 @@ categories:
 - loafs
 - breads
 ingredients:
-  butter: 
+  - name: butter
     amount: 2 tbsp
     group: Main Dish
-  sugar: 
+  - name: sugar
     amount: 1 cup
     group: Main Dish
-  eggs: 
+  - name: eggs
     amount: 2
     group: Main Dish
-  nuts: 
+  - name: nuts
     amount: 1/2 cup
     notes: optional
     group: Main Dish
-  baking soda: 
+  - name: baking soda
     amount: 1 tsp
     group: Main Dish
-  water: 
+  - name: water
     amount: 1 tbsp
     group: Main Dish
-  flour: 
+  - name: flour
     amount: 1 1/2 cup
     group: Main Dish
-  bananas: 
+  - name: bananas 
     amount: 2-3 ripe
     notes: mashed
     group: Main Dish

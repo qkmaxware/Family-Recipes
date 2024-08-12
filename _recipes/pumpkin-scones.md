@@ -4,91 +4,91 @@ categories:
 - loafs
 - breads
 ingredients:
-  flour:
+  - name: flour
     amount: 2 1/4 cups
     notes: all purpose
     group: Main Dish
-  baking powder:
+  - name: baking powder
     amount: 2 tsp.
     notes: 
     group: Main Dish
-  baking soda:
+  - name: baking soda
     amount: 1/4 tsp.
     notes: 
     group: Main Dish
-  salt:
+  - name: salt
     amount: 1/2 tsp.
     notes: 
     group: Main Dish
-  cinnamon:
+  - name: cinnamon
     amount: 1 tsp. ground
     notes: 
     group: Main Dish
-  nutmeg:
+  - name: nutmeg
     amount: 1/2 tsp. ground
     notes: 
     group: Main Dish
-  cloves:
+  - name: cloves
     amount: 1/8 tsp.
     notes: ground
     group: Main Dish
-  brown sugar:
+  - name: brown sugar
     amount: 1/4 cup packed light brown
     notes: 
     group: Main Dish
-  sugar:
+  - name: sugar
     amount: 3 tbsp.
     notes: 
     group: Main Dish
-  butter:
+  - name: butter
     amount: 1/2 cup unsalted – cold and diced into 1/2 inch pieces
     notes: 
     group: Main Dish
-  pumpkin:
+  - name: pumpkin
     amount: 1/2 cup + 1 tbsp.
     notes: canned puree, chilled (don’t chill in can)
     group: Main Dish
-  buttermilk:
+  - name: buttermilk
     amount: 3 1/2 tbsp.
     notes: 
     group: Main Dish
-  egg:
+  - name: egg
     amount: 1 large
     notes: 
     group: Main Dish
-  vanilla extract:
+  - name: vanilla extract
     amount: 1 tsp.
     notes: 
     group: Main Dish
-  honey:
+  - name: honey
     amount: 1 tbsp.
     notes: 
     group: Main Dish
-  half and half cream:
+  - name: half and half cream
     amount: 4 tbsp.
     notes: 
     group: Main Dish
-  icing sugar:
+  - name: icing sugar
     amount: 1 cup
     notes: 
     group: Main Dish
-  icing sugar:
+  - name: icing sugar
     amount: 3/4 cup 
     notes: 
     group: Main Dish
-  pumpkin:
+  - name: pumpkin
     amount: 1 tbsp. puree
     notes: 
     group: Main Dish
-  cinnamon:
+  - name: cinnamon
     amount: 1/4 tsp.
     notes: 
     group: Main Dish
-  nutmeg:
+  - name: nutmeg
     amount: 1/8 tsp.
     notes: 
     group: Main Dish
-  ginger:
+  - name: ginger
     amount: 1/8 tsp.
     notes: ground
     group: Main Dish

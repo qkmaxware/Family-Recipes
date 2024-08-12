@@ -4,35 +4,35 @@ categories:
 - main 
 
 ingredients:
-  shrimp:
+  - name: shrimp
     amount: 1 lb.
     notes: 
     group: Main Dish
-  oil:
+  - name: oil
     amount: 1 tsp.
     notes: 
     group: Main Dish
-  garlic:
+  - name: garlic
     amount: 1 tbsp. minced
     notes: 
     group: Main Dish
-  lime juice:
+  - name: lime juice
     amount: 2 tbsp. 
     notes: 
     group: Main Dish
-  salt:
+  - name: salt
     amount: to taste
     notes: 
     group: Main Dish
-  pepper:
+  - name: pepper
     amount: to taste
     notes: 
     group: Main Dish
-  cilantro:
+  - name: cilantro
     amount: 2 tbsp. chopped
     notes: 
     group: Main Dish
-  cumin:
+  - name: cumin
     amount: 1 tsp.
     notes: 
     group: Main Dish

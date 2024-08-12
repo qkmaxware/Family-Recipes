@@ -3,54 +3,54 @@ title: Thai Chicken Peanut Skillet
 categories:
 - main
 ingredients:
-  olive oil: 
+  - name: olive oil 
     amount: 2 tbsp. 
     notes: extra virgin
     group: Main Dish
-  chicken breast: 
+  - name: chicken breast 
     amount: 4 
     notes: boneless and skinless 
     group: Main Dish
-  salt: 
+  - name: salt 
     amount: a sprinkle of
     group: Main Dish
-  black pepper: 
+  - name: black pepper 
     amount: a sprinkle of
     group: Main Dish
-  bell peppers: 
+  - name: bell peppers 
     amount: 2 
     notes: thinly sliced 
     group: Main Dish
-  carrots: 
+  - name: carrots 
     amount: 2 
     notes: large and chopped
     group: Main Dish
-  ginger: 
+  - name: ginger 
     amount: 1 tbsp. 
     notes: minced
     group: Main Dish 
-  garlic: 
+  - name: garlic 
     amount: 2 cloves
     notes: minced
     group: Main Dish 
-  peanut butter: 
+  - name: peanut butter 
     amount: 1/2 cup
     group: Main Dish 
-  soy sauce: 
+  - name: soy sauce 
     amount: 1/4 cup 
     notes: low-sodium 
     group: Main Dish
-  lime juice: 
+  - name: lime juice 
     amount: 1 lime equivalent
     group: Main Dish
-  chicken broth: 
+  - name: chicken broth 
     amount: 1 cup 
     group: Main Dish
-  peanuts: 
+  - name: peanuts 
     amount: 1/3 cup 
     notes: chopped roasted peanuts 
     group: Main Dish
-  cilantro: 
+  - name: cilantro 
     amount: any
     notes: freshly chopped, for garnish
     group: Main Dish

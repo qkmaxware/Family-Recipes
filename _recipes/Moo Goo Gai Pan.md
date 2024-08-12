@@ -6,75 +6,75 @@ categories:
 links:
 
 ingredients:
-  olive oil: 
+  - name: olive oil 
     amount: 2 tbsp
     notes: 
     group: Main Dish
-  chicken: 
+  - name: chicken 
     amount: 1 pound
     notes: cubed
     group: Main Dish
-  salt: 
+  - name: salt 
     amount: 
     notes: to taste
     group: Main Dish
-  pepper: 
+  - name: pepper 
     amount: 
     notes: to taste
     group: Main Dish
-  carrots: 
+  - name: carrots 
     amount: 3
     notes: large
     group: Main Dish
-  mushrooms: 
+  - name: mushrooms 
     amount: 8 ounces
     notes: sliced
     group: Main Dish
-  water chestnuts: 
+  - name: water chestnuts 
     amount: 8 ounces
     notes: 
     group: Main Dish
-  snow peas: 
+  - name: snow peas 
     amount: 1 cup
     notes: 
     group: Main Dish
-  chicken broth: 
+  - name: chicken broth 
     amount: 1/4 cup
     notes: 
     group: Main Dish
-  soy sauce: 
+  - name: soy sauce 
     amount: 2 tbsp
     notes: 
     group: Main Dish
-  Brown sugar: 
+  - name: brown sugar 
     amount: 1 tbsp
     notes: 
     group: Main Dish
-  garlic: 
+  - name: garlic 
     amount: 2 cloves
     notes: minced
     group: Main Dish
-  hoisin sauce: 
+  - name: hoisin sauce 
     amount: 1 tbsp
     notes: 
     group: Main Dish
-  sesame oil: 
+  - name: sesame oil 
     amount: 1 tsp
     notes: 
     group: Main Dish
-  cornstarch: 
+  - name: cornstarch 
     amount: 1 tsp
     notes: 
     group: Main Dish
-  water: 
+  - name: water 
     amount: 1 tbsp
     notes: 
     group: Main Dish
-  green onion: 
+  - name: green onion 
     amount: 1
     notes: chopped
     group: Main Dish
-  sesame seeds: 
+  - name: sesame seeds 
     amount: 3 tbsp
     notes: 
     group: Main Dish

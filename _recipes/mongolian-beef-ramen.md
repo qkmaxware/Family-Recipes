@@ -3,63 +3,63 @@ title: Mongolian Beef Ramen
 categories:
 - main
 ingredients:
-  instant ramen:
+  - name: instant ramen
     amount: 3 packages
     notes: 
     group: Main Dish
-  vegetable oil:
+  - name: vegetable oil
     amount: 2 tbsp.
     notes: 
     group: Main Dish
-  sirloin steak:
+  - name: sirloin steak
     amount: 1 lb.
     notes: sliced against the grain
     group: Main Dish
-  cornstarch:
+  - name: cornstarch
     amount: 2 tbsp.
     notes: 
     group: Main Dish
-  sesame oil:
+  - name: sesame oil
     amount: 1 tbsp.
     notes: 
     group: Main Dish
-  garlic:
+  - name: garlic
     amount: 3 cloves
     notes: minced
     group: Main Dish
-  ginger:
+  - name: ginger
     amount: 1 tsp.
     notes: minced
     group: Main Dish
-  soy sauce:
+  - name: soy sauce
     amount: 1/2 cup
     notes: 
     group: Main Dish
-  brown sugar:
+  - name: brown sugar
     amount: 1/4 cup lightly packed
     notes: 
     group: Main Dish
-  beef broth:
+  - name: beef broth
     amount: 1 cup (or chicken broth)
     notes: 
     group: Main Dish
-  red pepper flakes:
+  - name: red pepper flakes
     amount: a pinch
     notes: 
     group: Main Dish
-  broccoli:
+  - name: broccoli
     amount: 1 large head
     notes: cut into florets
     group: Main Dish
-  carrot:
+  - name: carrot
     amount: 1 peeled and cut into matchsticks
     notes: 
     group: Main Dish
-  green onions:
+  - name: green onions
     amount: 3
     notes: thinly sliced
     group: Main Dish
-  sesame seeds:
+  - name: sesame seeds
     amount: toasted
     notes: for garnish
     group: Main Dish

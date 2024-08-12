@@ -6,19 +6,19 @@ categories:
 links:
 
 ingredients:
-  heavy whipping cream: 
+  - name: heavy whipping cream
     amount: 1.5 cups
     notes: 
     group: Main Dish
-  cocoa powder: 
+  - name: cocoa powder 
     amount: 1/4 cup
     notes: (dutch preferred), sifted; use 1/3 cup for dark chocolate flavour
     group: Main Dish
-  icing sugar: 
+  - name: icing sugar
     amount: 1/2 cup
     notes: use 1/4 cup for dark chocolate flour
     group: Main Dish
-  almond extract: 
+  - name: almond extract 
     amount: 1/4 tsp
     notes: 
     group: Main Dish

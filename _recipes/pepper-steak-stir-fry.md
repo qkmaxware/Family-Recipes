@@ -3,47 +3,47 @@ title: Pepper Steak Stir Fry
 categories:
 - main
 ingredients:
-  vegetable oil:
+  - name: vegetable oil
     amount: 1 tbsp. 
     notes: divided use
     group: Main Dish
-  red bell pepper:
+  - name: red bell pepper
     amount: cored
     notes: seeded and cut into strips
     group: Main Dish
-  green bell pepper:
+  - name: green bell pepper
     amount: cored
     notes: seeded and cut into strips
     group: Main Dish
-  flank steak:
+  - name: flank steak
     amount: 1/4 lbs 
     notes: thinly sliced
     group: Main Dish
-  garlic:
+  - name: garlic
     amount: 2 tsp.
     notes: minced
     group: Main Dish
-  ginger:
+  - name: ginger
     amount: 1 tsp.
     notes: minced
     group: Main Dish
-  salt:
+  - name: salt
     amount: to taste
     notes: 
     group: Main Dish
-  pepper:
+  - name: pepper
     amount: to taste
     notes: 
     group: Main Dish
-  soy sauce:
+  - name: soy sauce
     amount: 1/2 cup
     notes: 
     group: Main Dish
-  sugar:
+  - name: sugar
     amount: 3 tbsp.
     notes: 
     group: Main Dish
-  cornstarch:
+  - name: cornstarch
     amount: 3 tbsp.
     notes: 
     group: Main Dish

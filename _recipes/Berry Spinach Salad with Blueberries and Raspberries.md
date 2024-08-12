@@ -6,35 +6,35 @@ categories:
 links:
 
 ingredients:
-  baby spinach: 
+  - name: baby spinach
     amount: 6 ounces
     notes: 
     group: Main Dish
-  blueberries: 
+  - name: blueberries
     amount: 2 cups
     notes: 
     group: Main Dish
-  raspberries: 
+  - name: raspberries
     amount: 1 cup
     notes: 
     group: Main Dish
-  mandarin oranges: 
+  - name: mandarin oranges
     amount: 1/2 cup
     notes: 
     group: Main Dish
-  feta cheese: 
+  - name: feta cheese
     amount: 1/3 cup
     notes: 
     group: Main Dish
-  pecans: 
+  - name: pecans
     amount: 1 cup
     notes: toasted
     group: Main Dish
-  balsamic vinegar: 
+  - name: balsamic vinegar
     amount: 1 cup
     notes: 
     group: Dressing
-  honey: 
+  - name: honey
     amount: 1/4 cup
     notes: 
     group: Dressing

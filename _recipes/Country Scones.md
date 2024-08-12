@@ -6,51 +6,51 @@ categories:
 links:
 
 ingredients:
-  currants: 
+  - name: currants
     amount: 1/2 cup
     notes: dried
     group: Main Dish
-  sugar: 
+  - name: sugar
     amount: 3 tbsp
     notes: 
     group: Main Dish
-  Salt: 
+  - name: salt 
     amount: 3/4 tsp
     notes: 
     group: Main Dish
-  margarine: 
+  - name: margarine
     amount: 5 tbsp
     notes: 
     group: Main Dish
-  egg yolks: 
+  - name: egg yolks
     amount: 1
     notes: 
     group: Main Dish
-  Flour: 
+  - name: flour 
     amount: 2 cups
     notes: 
     group: Main Dish
-  baking powder: 
+  - name: baking powder
     amount: 2 tsp
     notes: 
     group: Main Dish
-  baking soda: 
+  - name: baking soda
     amount: 1/2 tsp
     notes: 
     group: Main Dish
-  sour cream: 
+  - name: sour cream
     amount: 250 grams
     notes: 
     group: Main Dish
-  egg whites: 
+  - name: egg whites
     amount: 1
     notes: slightly beaten
     group: Main Dish
-  sugar: 
+  - name: white sugar
     amount: 1 tsp
     notes: topping
     group: Main Dish
-  cinnamon: 
+  - name: cinnamon
     amount: 1/8 tsp
     notes: ground, for use on topping
     group: Main Dish

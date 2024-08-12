@@ -6,51 +6,51 @@ categories:
 links:
 
 ingredients:
-  chickpeas: 
+  - name: chickpeas 
     amount: 2 cans
     notes: rinsed and drained
     group: Main Dish
-  cucumber: 
+  - name: cucumber 
     amount: 1 medium
     notes: chopped
     group: Main Dish
-  Bell pepper: 
+  - name: bell pepper 
     amount: 1 
     notes: chopped
     group: Main Dish
-  Red onion: 
+  - name: red onion 
     amount: 1/2
     notes: thinly sliced
     group: Main Dish
-  Olives: 
+  - name: olives 
     amount: 1/2 cup
     notes: kalamata
     group: Main Dish
-  feta cheese:
+  - name: feta cheese
     amount: 1/2 cup
     notes: crumbled
     group: Main Dish
-  olive oil: 
+  - name: olive oil 
     amount: 1/2 cup
     notes: virgin
     group: Dressing
-  white wine vinegar: 
+  - name: white wine vinegar 
     amount: 1/4 cup
     notes: 
     group: Dressing
-  Lemon juice: 
+  - name: lemon juice 
     amount: 1 tbsp
     notes: 
     group: Dressing
-  red pepper flakes: 
+  - name: red pepper flakes 
     amount: 1 tbsp
     notes: 
     group: Dressing
-  salt: 
+  - name: salt 
     amount: 
     notes: to taste
     group: Dressing
-  pepper: 
+  - name: pepper 
     amount: 
     notes: to taste
     group: Dressing

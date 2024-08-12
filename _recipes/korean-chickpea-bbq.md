@@ -5,79 +5,79 @@ categories:
 - bowl
 
 ingredients:
-  soy sauce:
+  - name: soy sauce
     amount: 9 tablespoons
     notes: 
     group: Main Dish
-  tomato sauce:
+  - name: tomato sauce
     amount: 6 tablespoons
     notes: 
     group: Main Dish
-  honey:
+  - name: honey
     amount: 6 teaspoons
     notes: 
     group: Main Dish
-  ginger:
+  - name: ginger
     amount: 3/4 teaspoon
     notes: 
     group: Main Dish
-  pepper:
+  - name: pepper
     amount: 3/4 teaspoon
     notes: 
     group: Main Dish
-  garlic:
+  - name: garlic
     amount: 3 teaspoon minced
     notes: 
     group: Main Dish
-  sesame oil:
+  - name: sesame oil
     amount: 3 tablespoon
     notes: 
     group: Main Dish
-  green onion:
+  - name: green onion
     amount: 2-3 tablespoons
     notes: 
     group: Main Dish
-  chickpeas:
+  - name: chickpeas
     amount: 1 can cooked
     notes: 
     group: Main Dish
-  edamame:
+  - name: edamame
     amount: 1/2 cup unshelled
     notes: 
     group: Main Dish
-  rice:
+  - name: rice
     amount: 2 cups
     notes: 
     group: Main Dish
-  cabbage:
+  - name: cabbage
     amount: 1 cup shredded
     notes: 
     group: Main Dish
-  zucchini:
+  - name: zucchini
     amount: 1
     notes: 
     group: Main Dish
-  carrot:
+  - name: carrot
     amount: 1
     notes: 
     group: Main Dish
-  lime juice:
+  - name: lime juice
     amount: 1/2
     notes: juiced
     group: Main Dish
-  sesame seeds:
+  - name: sesame seeds
     amount: 1-2 tablespoons
     notes: 
     group: Main Dish
-  red pepper flakes:
+  - name: red pepper flakes
     amount: 1/2 tablespoon
     notes: 
     group: Main Dish
-  cilantro:
+  - name: cilantro
     amount: chopped
     notes: 
     group: Main Dish
-  water:
+  - name: water
     amount: 6 tbsp
     notes:
     group: Main Dish

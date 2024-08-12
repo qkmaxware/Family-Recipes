@@ -6,71 +6,71 @@ categories:
 links:
 
 ingredients:
-  green cabbage: 
+  - name: green cabbage
     amount: 1.2 cup
     notes: shredded
     group: salad
-  red cabbage: 
+  - name: red cabbage 
     amount: 1/2 cup
     notes: shredded
     group: salad
-  Green onion: 
+  - name: green onion 
     amount: 2
     notes: chopped
     group: salad
-  mushrooms: 
+  - name: mushrooms
     amount: 1-2 cups
     notes: sliced
     group: salad
-  red bell pepper: 
+  - name: red bell pepper 
     amount: 1
     notes: chopped
     group: salad
-  carrots: 
+  - name: carrots 
     amount: 2
     notes: chopped
     group: salad
-  Broccoli: 
+  - name: broccoli 
     amount: 1 cup
     notes: chopped
     group: salad
-  cucumber: 
+  - name: cucumber
     amount: 1 large English
     notes: chopped
     group: salad
-  ichiban noodles: 
+  - name: ichiban noodles 
     amount: 1 - 100 gr. pkg
     notes: crushed
     group: salad
-  almonds: 
+  - name: almonds
     amount: 1/2 cup
     notes: toasted
     group: salad
-  Sesame seeds: 
+  - name: sesame seeds
     amount: 1/2 cup
     notes: toasted
     group: salad
-  sugar: 
+  - name: sugar
     amount: 1 tbsp
     notes: 
     group: dressing
-  vegetable oil: 
+  - name: vegetable oil
     amount: 1/3 cup
     notes: 
     group: dressing
-  pepper: 
+  - name: pepper
     amount: 1/2 tsp
     notes: 
     group: dressing
-  white vinegar: 
+  - name: white vinegar
     amount: 3 tbsp
     notes: 
     group: dressing
-  Ichiban seasoning: 
+  - name: ichiban seasoning 
     amount: 1 pkg
     notes: 
     group: dressing
-  Soya sauce: 
+  - name: soya sauce
     amount: 1 tsp
     notes: 
     group: dressing

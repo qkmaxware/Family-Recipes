@@ -4,59 +4,59 @@ categories:
 - main
 
 ingredients:
-  Eggs:
+  - name: eggs
     amount: 2
     notes: 
     group: Main Dish
-  Salt:
+  - name: salt
     amount: 1/4 tsp
     notes: 
     group: Main Dish
-  Flour:
+  - name: flour
     amount: 3/4 cup
     notes: 
     group: Main Dish
-  Milk:
+  - name: milk
     amount: 1 cup
     notes: 
     group: Main Dish
-  Butter:
+  - name: butter
     amount: 2 tbsp.
     notes: melted, I also just use pam
     group: Main Dish
-  Ham:
+  - name: ham
     amount: 100 grams
     notes: thinly sliced
     group: Main Dish
-  Broccoli:
+  - name: broccoli
     amount: head
     notes: small pieces, can be substituted with asparagus
     group: Main Dish
-  Margarine:
+  - name: margarine
     amount: 1/4 cup
     notes: For sauce
     group: Main Dish
-  Flour:
+  - name: flour
     amount: 1/4 cup
     notes: For sauce
     group: Main Dish
-  Salt:
+  - name: salt
     amount: 1/2 tsp.
     notes: For sauce
     group: Main Dish
-  Pepper:
+  - name: pepper
     amount: 1/4 tsp.
     notes: For sauce
     group: Main Dish
-  Milk:
+  - name: milk
     amount: 2 cups
     notes: For sauce
     group: Main Dish
-  Lemon juice:
+  - name: lemon juice
     amount: 1 tsp.
     notes: For sauce
     group: Main Dish
-  Green onion:
+  - name: green onion
     amount: 1
     notes: For sauce
     group: Main Dish

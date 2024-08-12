@@ -6,55 +6,55 @@ categories:
 links:
 
 ingredients:
-  soy sauce: 
+  - name: soy sauce 
     amount: 3/4 cup
     notes: low sodium
     group: Main Dish
-  water : 
+  - name: water  
     amount: 1/4 cup
     notes: 
     group: Main Dish
-  garlic: 
+  - name: garlic 
     amount: 3 cloves
     notes: minced
     group: Main Dish
-  ginger: 
+  - name: ginger 
     amount: 1 tbsp
     notes: fresh, grated
     group: Main Dish
-  lemon jice: 
+  - name: lemon jice 
     amount: 1 tbsp
     notes: 
     group: Main Dish
-  sesame oil: 
+  - name: sesame oil 
     amount: 1 tsp
     notes: 
     group: Main Dish
-  Black Pepper: 
+  - name: black pepper 
     amount: 1/4 tsp
     notes: 
     group: Main Dish
-  sirloin steak: 
+  - name: sirloin steak 
     amount: 2 steaks 
     notes: or whatever you have
     group: Main Dish
-  garlic: 
+  - name: garlic 
     amount: 2 cloves
     notes: minced
     group: Aioli
-  salt: 
+  - name: salt 
     amount: 1/2 tsp
     notes: 
     group: Aioli
-  Mayonnaise: 
+  - name: mayonnaise 
     amount: 1/2 cup
     notes: 
     group: Aioli
-  Olive oil: 
+  - name: olive oil 
     amount: 2 tbsp
     notes: 
     group: Aioli
-  Lemon juice: 
+  - name: lemon juice 
     amount: 1 tbsp
     notes: 
     group: Aioli

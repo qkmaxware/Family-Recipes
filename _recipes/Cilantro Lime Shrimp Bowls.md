@@ -6,35 +6,35 @@ categories:
 links:
 
 ingredients:
-  shrimp: 
+  - name: shrimp
     amount: 1 pound
     notes: 
     group: Main Dish
-  oil: 
+  - name: oil
     amount: 
     notes: 
     group: Main Dish
-  Garlic: 
+  - name: garlic
     amount: 1 tbsp
     notes: minced
     group: Main Dish
-  Lime juice: 
+  - name: lime juice
     amount: 2 tbsp
     notes: 
     group: Main Dish
-  salt: 
+  - name: salt
     amount: 
     notes: to taste
     group: Main Dish
-  Black Pepper: 
+  - name: black pepper
     amount: 
     notes: to taste
     group: Main Dish
-  Cilantro: 
+  - name: cilantro
     amount: 2 tbsp
     notes: chopped
     group: Main Dish
-  Cumin: 
+  - name: cumin
     amount: 1 tsp
     notes: 
     group: Main Dish

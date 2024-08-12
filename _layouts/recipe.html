@@ -1,15 +1,14 @@
 ---
 layout: page
 ---
-{% assign ingredient_groups = page.ingredients | group_by_exp: "item", "item[1].group" %}
+{% assign ingredient_groups = page.ingredients | group_by_exp: "item", "item.group" %}
 <h1>Ingredients</h1>
 {% for group in ingredient_groups %}
 <section>
     <h2>{{ group.name }}</h2>
     <ul>
-        {% for ingredient_hash in group.items %}
-            {% assign ingredient = ingredient_hash | last %}
-            <li>{{ ingredient.amount }} <strong>{{ ingredient_hash | first }}</strong> {% if ingredient.notes %}, {{ ingredient.notes }} {% endif %}</li>
+        {% for ingredient in group.items %}
+            <li>{{ ingredient.amount }} <strong>{{ ingredient.name }}</strong> {% if ingredient.notes %}, {{ ingredient.notes }} {% endif %}</li>
         {% endfor %}
     </ul>
 </section>

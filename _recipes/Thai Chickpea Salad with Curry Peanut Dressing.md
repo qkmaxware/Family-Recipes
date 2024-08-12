@@ -6,75 +6,75 @@ categories:
 links:
 
 ingredients:
-  red bell pepper: 
+  - name: red bell pepper 
     amount: 1 
     notes: diced
     group: Salad
-  carrots: 
+  - name: carrots 
     amount: 1 cup
     notes: shredded
     group: Salad
-  red cabbage: 
+  - name: red cabbage 
     amount: 1/2 head
     notes: small, chopped
     group: Salad
-  chickpeas: 
+  - name: chickpeas 
     amount: 1 (15 ounce) can
     notes: rinsed and drained
     group: Salad
-  cilantro: 
+  - name: cilantro 
     amount: 1/2 cup
     notes: chopped
     group: Salad
-  Green onion: 
+  - name: green onion 
     amount: 1/4 cup
     notes: chopped
     group: Salad
-  jalapeno: 
+  - name: jalapeno 
     amount: 1
     notes: seeded and diced
     group: Salad
-  peanut butter: 
+  - name: peanut butter 
     amount: 1/4 cup
     notes: 
     group: Dressing
-  ginger: 
+  - name: ginger 
     amount: 1 tbsp
     notes: fresh, grated
     group: Dressing
-  garlic: 
+  - name: garlic 
     amount: 1 clove
     notes: minced
     group: Dressing
-  lime juice: 
+  - name: lime juice 
     amount: 1 tbsp
     notes: can also use rice vinegar
     group: Dressing
-  soy sauce: 
+  - name: soy sauce 
     amount: 2 tbsp
     notes: low sodium
     group: Dressing
-  yellow curry powder: 
+  - name: yellow curry powder 
     amount: 1-2 tsp
     notes: 
     group: Dressing
-  cayenne pepper: 
+  - name: cayenne pepper 
     amount: 1/4 tsp
     notes: 
     group: Dressing
-  turmeric: 
+  - name: turmeric 
     amount: 1/4 tsp
     notes: ground
     group: Dressing
-  warm water: 
+  - name: warm water 
     amount: 3-4 tbsp
     notes: to thin dressing
     group: Dressing
-  salt: 
+  - name: salt 
     amount: 
     notes: to taste
     group: Dressing
-  pepper: 
+  - name: pepper 
     amount: 
     notes: to taste
     group: Dressing

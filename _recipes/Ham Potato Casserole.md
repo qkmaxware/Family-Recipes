@@ -4,59 +4,59 @@ categories:
 - main
 
 ingredients:
-  ham:
+  - name: ham
     amount: 2 cups
     notes: cubed and fully cooked
     group: Main Dish
-  potatoes:
+  - name: potatoes
     amount: 2 cups
     notes: peeled and cubed
     group: Main Dish
-  celery:
+  - name: celery
     amount: 2 stalks
     notes: chopped
     group: Main Dish
-  water:
+  - name: water
     amount: 3 cups
     notes: 
     group: Main Dish
-  margarine:
+  - name: margarine
     amount: 1/4 cup and 3 tablespoons
     notes: used in different steps
     group: Main Dish
-  onion:
+  - name: onion
     amount: 2 teaspoons
     notes: chopped
     group: Main Dish
-  green pepper:
+  - name: green pepper
     amount: 1
     notes: diced
     group: Main Dish
-  flour:
+  - name: flour
     amount: 3 tablespoons
     notes: 
     group: Main Dish
-  milk:
+  - name: milk
     amount: 1 cup
     notes: 
     group: Main Dish
-  salt:
+  - name: salt
     amount: 1/8 teaspoon
     notes: 
     group: Main Dish
-  black pepper:
+  - name: black pepper
     amount: 1/8 teaspoon
     notes: 
     group: Main Dish
-  cheddar cheese:
+  - name: cheddar cheese
     amount: 1 cup
     notes: shredded
     group: Main Dish
-  bread crumbs:
+  - name: bread crumbs
     amount: 1/2 cup
     notes: dry
     group: Main Dish
-  carrot:
+  - name: carrot
     amount: 1 large
     notes: sliced
     group: Main Dish
