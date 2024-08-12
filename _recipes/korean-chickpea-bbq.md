@@ -3,6 +3,7 @@ title: Korean BBQ Chickpea Bento Bowl
 categories:
 - main
 - bowl
+
 ingredients:
   soy sauce:
     amount: 9 tablespoons
@@ -62,7 +63,7 @@ ingredients:
     group: Main Dish
   lime juice:
     amount: 1/2
-    notes: 
+    notes: juiced
     group: Main Dish
   sesame seeds:
     amount: 1-2 tablespoons
@@ -75,6 +76,10 @@ ingredients:
   cilantro:
     amount: chopped
     notes: 
+    group: Main Dish
+  water:
+    amount: 6 tbsp
+    notes:
     group: Main Dish
 ---
 ## Wet Ingredients

@@ -68,7 +68,7 @@ ingredients:
     group: Salad
   almonds: 
     amount: 1/2 cup
-    notes: slivered (can also use peanuts
+    notes: slivered (can also use peanuts)
     group: Salad
   green cabbage: 
     amount: 3 cups

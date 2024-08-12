@@ -26,6 +26,10 @@ ingredients:
     amount: 1/2 cup
     notes: kalamata
     group: Main Dish
+  feta cheese:
+    amount: 1/2 cup
+    notes: crumbled
+    group: Main Dish
   olive oil: 
     amount: 1/2 cup
     notes: virgin

@@ -22,7 +22,7 @@ ingredients:
     amount: 1 
     notes: cored and diced
     group: Main Dish
-  raisins: 
+  craisins: 
     amount: 1/4 cup
     notes: 
     group: Main Dish

@@ -6,7 +6,7 @@ categories:
 links:
 
 ingredients:
-  Olive oil: 
+  olive oil: 
     amount: 3 tbsp
     notes: divided
     group: Main Dish
@@ -32,7 +32,7 @@ ingredients:
     group: Main Dish
   agrumato lemon oil: 
     amount: 1 tbsp
-    notes: (or love oil & 1 tbsp lemon zest)
+    notes: (or olive oil & 1 tbsp lemon zest)
     group: Main Dish
   salt: 
     amount: 1/4 tsp

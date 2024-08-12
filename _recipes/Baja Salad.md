@@ -54,6 +54,10 @@ ingredients:
     amount: 1
     notes: large
     group: Main Dish
+  olive oil:
+    amount: 2 tbsp
+    notes:
+    group: Main Dish
 
 ---
 ## Instructions

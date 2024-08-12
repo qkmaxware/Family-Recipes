@@ -28,8 +28,8 @@ ingredients:
     notes: 
     group: Main Dish
   soy sauce:
-    amount: 1/2 low sodium
-    notes: 
+    amount: 1/2 cup
+    notes: low sodium
     group: Main Dish
   water:
     amount: 1/3 cup
