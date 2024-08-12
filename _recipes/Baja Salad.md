@@ -1,7 +1,7 @@
 ---
 title: Baja Salad
 categories:
-- Main
+- salad
 
 links:
 

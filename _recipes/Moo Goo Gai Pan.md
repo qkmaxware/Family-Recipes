@@ -1,7 +1,7 @@
 ---
 title: Moo Goo Gai Pan
 categories:
-- Main
+- main
 
 links:
 

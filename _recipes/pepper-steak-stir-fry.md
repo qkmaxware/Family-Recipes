@@ -16,9 +16,9 @@ ingredients:
     notes: seeded and cut into strips
     group: Main Dish
   flank steak:
-    amount: 1 
-    notes: 
-    group: Main Dish¼ lbs., thinly sliced
+    amount: 1/4 lbs 
+    notes: thinly sliced
+    group: Main Dish
   garlic:
     amount: 2 tsp.
     notes: minced

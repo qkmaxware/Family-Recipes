@@ -6,17 +6,13 @@ categories:
 links:
 
 ingredients:
-  white sugar: 
-    amount: 2 tbsp
-    notes: 
-    group: Main Dish
   flour: 
     amount: 2 1/4 cup
     notes: 
     group: Main Dish
   ginger: 
     amount: 2 tsp
-    notes: gound
+    notes: ground
     group: Main Dish
   baking soda: 
     amount: 1 tsp
@@ -39,7 +35,7 @@ ingredients:
     notes: softened
     group: Main Dish
   white sugar: 
-    amount: 1 cup
+    amount: 1 cup + 2 tbsp
     notes: 
     group: Main Dish
   egg: 

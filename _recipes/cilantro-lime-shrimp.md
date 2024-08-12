@@ -1,7 +1,8 @@
 ---
 title: Cilantro Lime Shrimp 
 categories:
-- seafood
+- main 
+
 ingredients:
   shrimp:
     amount: 1 lb.

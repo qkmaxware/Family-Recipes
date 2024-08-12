@@ -46,6 +46,10 @@ ingredients:
     amount: 1/4 tsp
     notes: 
     group: Dressing
+  white sugar: 
+    amount: 2.5 tbsp
+    notes: 
+    group: Dressing
   cilantro: 
     amount: 2 tbsp
     notes: chopped

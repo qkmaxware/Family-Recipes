@@ -9,7 +9,7 @@ layout: page
     <ul>
         {% for ingredient_hash in group.items %}
             {% assign ingredient = ingredient_hash | last %}
-            <li>{{ ingredient.amount }} {% if ingredient.notes %}, {{ ingredient.notes }} {% endif %}<strong>{{ ingredient_hash | first }}</strong></li>
+            <li>{{ ingredient.amount }} <strong>{{ ingredient_hash | first }}</strong> {% if ingredient.notes %}, {{ ingredient.notes }} {% endif %}</li>
         {% endfor %}
     </ul>
 </section>

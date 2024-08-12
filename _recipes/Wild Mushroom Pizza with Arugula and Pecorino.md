@@ -1,7 +1,7 @@
 ---
 title: Wild Mushroom Pizza with Arugula and Pecorino
 categories:
-- Main
+- main
 
 links:
 

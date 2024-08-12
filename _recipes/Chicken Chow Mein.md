@@ -1,7 +1,7 @@
 ---
 title: Chicken Chow Mein
 categories:
-- Main
+- main
 
 links:
 

@@ -1,7 +1,7 @@
 ---
 title: Grilled Shrimp Skewers with Green Tahini Sauce
 categories:
-- Main
+- main
 
 links:
 

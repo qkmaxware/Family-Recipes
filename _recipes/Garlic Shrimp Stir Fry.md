@@ -1,7 +1,7 @@
 ---
 title: Garlic Shrimp Stir Fry
 categories:
-- Main
+- main
 
 links:
 

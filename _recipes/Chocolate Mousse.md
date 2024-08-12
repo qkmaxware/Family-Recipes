@@ -7,7 +7,7 @@ links:
 
 ingredients:
   heavy whipping cream: 
-    amount: 1/1/2 cups
+    amount: 1.5 cups
     notes: 
     group: Main Dish
   cocoa powder: 
@@ -16,7 +16,7 @@ ingredients:
     group: Main Dish
   icing sugar: 
     amount: 1/2 cup
-    notes: use 1/4 cup for dark chocolate flaour
+    notes: use 1/4 cup for dark chocolate flour
     group: Main Dish
   almond extract: 
     amount: 1/4 tsp

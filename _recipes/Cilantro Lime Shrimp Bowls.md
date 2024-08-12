@@ -1,7 +1,7 @@
 ---
 title: Cilantro Lime Shrimp Bowls
 categories:
-- Bowl
+- bowl
 
 links:
 

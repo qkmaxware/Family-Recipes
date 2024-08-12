@@ -41,23 +41,23 @@ ingredients:
   garlic: 
     amount: 2 cloves
     notes: minced
-    group: Sauce
+    group: Aioli
   salt: 
     amount: 1/2 tsp
     notes: 
-    group: Sauce
+    group: Aioli
   Mayonnaise: 
     amount: 1/2 cup
     notes: 
-    group: Sauce
+    group: Aioli
   Olive oil: 
     amount: 2 tbsp
     notes: 
-    group: Sauce
+    group: Aioli
   Lemon juice: 
     amount: 1 tbsp
     notes: 
-    group: Sauce
+    group: Aioli
 
 ---
 ## Instructions
