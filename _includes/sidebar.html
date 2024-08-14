@@ -1,0 +1,28 @@
+{% assign categories = nil %}
+{% for recipe in site.recipes %}
+{% if categories %}
+    {% assign categories = categories | concat: recipe.categories %}
+{% else %}
+    {% assign categories = recipe.categories %}
+{% endif %}
+{% endfor %}
+{% if categories %}
+{% assign categories = categories | uniq %}
+{% endif %}
+
+<nav class="w3-sidebar w3-bar-block w3-collapse w3-top" style="z-index: 3; width: 320px; display: none; background-color: rgb(236, 228, 216);" id="sidebar">
+  <div class="w3-large w3-text-grey" style="font-weight:bold; padding-bottom: 64px;">
+    <span href="#" class="w3-bar-item w3-button">Browse</span>
+    <div class="w3-bar-block w3-padding-large w3-medium">
+      {% for category in categories %}
+      <a href="{{site.baseurl}}/browse-category#category-{{ category }}" class="w3-bar-item w3-button">{{ category | capitalize }}</a>
+      {% endfor %}
+    </div>
+  </div>
+  <div class="w3-large w3-text-grey" style="font-weight:bold;">
+      <span href="#" class="w3-bar-item w3-button">Utilities</span>
+  </div>
+  <div class="w3-bar-block w3-padding-large w3-medium">
+      <a href="{{site.baseurl}}/template" class="w3-bar-item w3-button w3-padding">Recipe Wizard</a> 
+  </div>
+</nav>

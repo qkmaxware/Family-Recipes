@@ -1,0 +1,28 @@
+{% assign categories = nil %}
+{% for recipe in site.recipes %}
+{% if categories %}
+    {% assign categories = categories | concat: recipe.categories %}
+{% else %}
+    {% assign categories = recipe.categories %}
+{% endif %}
+{% endfor %}
+{% if categories %}
+{% assign categories = categories | uniq %}
+{% endif %}
+
+<nav id="sidebar">
+  <h1>QUICK ACCESS</h1>
+  <a href="{{site.baseurl}}/" class="w3-bar-item w3-button">HOME</a>
+  <a href="{{site.baseurl}}/search" class="w3-bar-item w3-button">SEARCH</a>
+  <a href="{{site.baseurl}}/browse-category" class="w3-bar-item w3-button">BROWSE</a>
+  <div>
+    {% for category in categories %}
+    <a href="{{site.baseurl}}/browse-category#category-{{ category }}" class="w3-bar-item w3-button">{{ category | capitalize }}</a>
+    {% endfor %}
+  </div>
+  <span href="#" class="w3-bar-item w3-button">UTILITIES</span>
+  <div>
+    <a href="{{site.baseurl}}/random">Random Recipe</a>
+    <a href="{{site.baseurl}}/template" class="w3-bar-item w3-button w3-padding">Recipe Wizard</a> 
+  </div>
+</nav>

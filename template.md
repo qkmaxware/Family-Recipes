@@ -1,6 +1,6 @@
 ---
 title: Recipe Template
-layout: page
+layout: page_with_sidebar
 ---
 {% assign categories = nil %}
 {% for recipe in site.recipes %}

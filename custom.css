@@ -61,6 +61,27 @@ input[type="checkbox"] {
     box-sizing: unset !important;
 }
 
+.font-tan {
+    color: #ece4d8; 
+}
+
+.merlot {
+    background-color: #7c334f; 
+    color: #ece4d8; 
+}
+
+.header-ribbon {
+    width: calc(100% - 64px);
+}
+@media (max-width:993px) {
+    .header-ribbon {
+        width: 100%;
+    }
+    #sidebar {
+        animation: animateleft 0.4s;
+    }
+}
+
 button {
     background-color: #7c334f; 
     color: #ece4d8; 
@@ -75,4 +96,53 @@ button.small {
     padding: 2px 4px;
     margin-left: 1em;
     margin-right: 1em;
+}
+
+#sidebar {
+    margin: 0;
+    padding: 0;
+    z-index: 3; 
+    width: 320px; 
+    background-color: rgb(236, 228, 216);
+    position: fixed;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding-bottom: 128px;
+}
+
+@media (max-width:1200px) {
+    #sidebar {
+        display: none !important;
+    }
+}
+
+#sidebar a {
+    display: block;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+    color: rgb(84, 73, 67);
+}
+#sidebar a:hover {
+    background-color: rgb(220, 206, 185);
+}
+
+#sidebar h1 {
+    padding: 16px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.0em;
+}
+
+#sidebar span {
+    display: block;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#sidebar div a {
+    padding: 8px 16px 8px 48px;
 }

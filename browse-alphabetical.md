@@ -1,6 +1,6 @@
 ---
 title: 'Browse Alphabetically'
-layout: page
+layout: page_with_sidebar
 ---
 {% assign categories = '' | split: ',' %}
 {% for recipe in site.recipes %}
@@ -17,6 +17,7 @@ To browse by category click <a href="{{site.baseurl}}/browse-category">here</a>.
 
 {% if categories %}
 {% for category in categories %}
+<a id="category-{{ category }}">
 <h1>{{ category | capitalize }}</h1>
 <ul>
     {% for recipe in site.recipes %}

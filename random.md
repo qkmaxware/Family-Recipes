@@ -1,6 +1,6 @@
 ---
 title: Random Recipe
-layout: page
+layout: page_with_sidebar
 ---
 <p>Behold... your randomly picked recipe. Use the "Get Another" button to pick another recipe randomly.</p>
 <h2 style="text-align: center; border-bottom: none;"><a id="link" href=""></a></h2>
