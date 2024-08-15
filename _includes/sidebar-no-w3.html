@@ -10,8 +10,14 @@
 {% assign categories = categories | uniq %}
 {% endif %}
 
-<nav id="sidebar">
-  <h1>QUICK ACCESS</h1>
+<button id="hamburger" class="hide-large" onclick="show_sidebar()">
+  |||
+</button>
+
+<div id="modal" onclick="hide_sidebar()"></div>
+
+<nav id="sidebar" class="collapsed">
+  <h1>QUICK ACCESS <span class="hide-large" style="float: right; cursor: pointer;" title="Close Sidebar" onclick="hide_sidebar()">&times;</span></h1> 
   <a href="{{site.baseurl}}/" class="w3-bar-item w3-button">HOME</a>
   <a href="{{site.baseurl}}/search" class="w3-bar-item w3-button">SEARCH</a>
   <a href="{{site.baseurl}}/browse-category" class="w3-bar-item w3-button">BROWSE</a>

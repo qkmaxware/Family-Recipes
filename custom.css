@@ -2,6 +2,10 @@ html {
     scroll-behavior: smooth;
 }
 
+button {
+    cursor: pointer;
+}
+
 .bannerlink {
     color: white;
 }
@@ -98,6 +102,28 @@ button.small {
     margin-right: 1em;
 }
 
+#hamburger {
+    position: fixed;
+    left: 0;
+    top: 32px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+#modal {
+    background-color: rgba(0, 0, 0, 0.5);
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 100dvw;
+    height: 100dvh;
+    z-index: 3;
+    cursor: pointer;
+    display: none;
+}
+
 #sidebar {
     margin: 0;
     padding: 0;
@@ -113,6 +139,18 @@ button.small {
 
 @media (max-width:1200px) {
     #sidebar {
+        width: 80%;
+    }
+    #sidebar.collapsed {
+        display: none !important;
+    }
+    #modal.visible {
+        display: block;
+    }
+}
+
+@media (min-width:1200px) {
+    .hide-large {
         display: none !important;
     }
 }

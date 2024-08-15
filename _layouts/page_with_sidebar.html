@@ -84,5 +84,20 @@
 
     </div>
     </main>
+    <script>
+function hide_sidebar() {
+  var sidebar = document.getElementById("sidebar");
+  var modal = document.getElementById("modal");
+  sidebar.classList.add("collapsed");
+  modal.classList.remove("visible");
+}
+
+function show_sidebar() {
+  var sidebar = document.getElementById("sidebar");
+  var modal = document.getElementById("modal");
+  sidebar.classList.remove("collapsed");
+  modal.classList.add("visible");
+}
+    </script>
   </body>
 </html>
