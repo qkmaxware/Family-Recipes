@@ -1,7 +1,8 @@
 ---
 title: Oatmeal Cookies
 categories:
-- dessert
+- cookies
+  
 ingredients:
   - name: flour
     amount: 1.25 cup

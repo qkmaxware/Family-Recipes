@@ -43,5 +43,5 @@ ingredients:
 ## Instructions
 1. Heat oven to 350 degrees. Grease 22 x 33 cm (9 x 13 inch) rectangular baking pan.
 2. Combine dry ingredients for crust. Add margarine and vanilla. Mix until crumbly. 
-3. Reserve 1.5 cups of the mixture for a topic. Spread the remainder evenly in the pan, pressing to flatten it. Bake for 10 minutes.
+3. Reserve 1.5 cups of the mixture for a topping. Spread the remainder evenly in the pan, pressing to flatten it. Bake for 10 minutes.
 4. Spread pie filling evenly over crust. Sprinkle reserved topping evenly across the top. Bake 18-20 minutes or until topping is golden brown.

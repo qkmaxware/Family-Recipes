@@ -34,7 +34,7 @@ ingredients:
     amount: 1/4 cup
     notes: (all purpose)
     group: Filling
-  - name: icing sugar
+  - name: baking powder
     amount: 1 tsp
     notes: 
     group: Filling
@@ -42,6 +42,10 @@ ingredients:
     amount: 4
     notes: 
     group: Filling
+  - name: icing sugar
+    amount: to-taste
+    notes: 
+    group: Topping
 
 ---
 ## Instructions

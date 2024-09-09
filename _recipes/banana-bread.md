@@ -34,5 +34,6 @@ ingredients:
 ## Instructions:
 1.	Cream butter, sugar and eggs together
 2.	Dissolve baking soda in water. Add to the mixture.
-3.	Add flours, bananas and nuts
-4.	Bake 50-60 minutes in a greased loaf pan at 350 degrees 
+3.  Mash bananas with fork in a bowl.
+4.	Add flours, bananas and nuts
+5.	Bake 50-60 minutes in a greased loaf pan at 350 degrees 

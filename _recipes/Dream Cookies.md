@@ -44,3 +44,4 @@ ingredients:
 1. Mix together sugar, cocoa, and milk together in a large pot. Bring to a rolling boil.
 2. Take off the stove and add the rest of the ingredients.
 3. Drop by the teaspoon onto waxed paper.
+4. Let cool until hardened

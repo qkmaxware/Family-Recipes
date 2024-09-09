@@ -1,7 +1,8 @@
 ---
 title: Camp Cookies
 categories:
-- dessert
+- cookies
+
 ingredients:
   - name: margarine
     amount: 1 1/2 cups
