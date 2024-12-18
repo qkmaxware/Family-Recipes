@@ -133,7 +133,6 @@ function addIngredientToIncludes () {
     if (input === null || input === "") {
         return;
     }
-    input = input.toLowerCase();
 
     var li = document.createElement("li");
 
@@ -161,7 +160,6 @@ function addIngredientToExcluded() {
     if (input === null || input === "") {
         return;
     }
-    input = input.toLowerCase();
 
     var li = document.createElement("li");
 
@@ -189,24 +187,24 @@ function search() {
     $.map(form, function(n, i){
         data[n['name']] = n['value'];
     });
-    var search = {
+    var search_data = {
         title: data["title"],
         categories: Object.keys(data).filter(key => key.startsWith("category")).map(key => data[key]),
         ingredients: {
-            desired: Object.keys(data).filter(key => key.startsWith("ingredient")).map(key => data[key]),
-            notowned: Object.keys(data).filter(key => key.startsWith("notowned")).map(key => data[key])
+            desired: Object.keys(data).filter(key => key.startsWith("ingredient")).map(key => data[key].toLowerCase()),
+            notowned: Object.keys(data).filter(key => key.startsWith("notowned")).map(key => data[key].toLowerCase())
         }
         
     };
-    window.lastSearch = search;
-    search.results = query(search.title, search.categories, search.ingredients);
+    window.lastSearch = search_data;
+    search_data.results = query(search_data.title, search_data.categories, search_data.ingredients);
 
     var results = document.getElementById('searchResults');
     results.innerHTML = '';
-    for (var i = 0 ; i < search.results.length; i++) {
+    for (var i = 0 ; i < search_data.results.length; i++) {
         var link = document.createElement('a');
-        link.href = search.results[i].url;
-        link.innerText = search.results[i].title;
+        link.href = search_data.results[i].url;
+        link.innerText = search_data.results[i].title;
         var container = document.createElement('li');
         container.appendChild(link);
         results.appendChild(container);
@@ -247,7 +245,7 @@ function query(title, categories, ingredients) {
             
         var matches_title = item.title.toLowerCase().includes(lower_title);
         var in_category = item.categories.some(r => categories.includes(r));
-        var recipe_ingredients = (!item.ingredients ? [] : Object.keys(item.ingredients));
+        var recipe_ingredients = (!item.ingredients ? [] : (item.ingredients.map((x) => x.name)));
         var uses_all_ingredients = arrayContainsAnotherArray(recipe_ingredients, ingredients.desired);
         var doesnt_have_any_excludes = arrayDoesntContainAny(recipe_ingredients, ingredients.notowned);
         //var have_all_ingredients = arrayContainsAnotherArray(ingredients.owned, recipe_ingredients);
