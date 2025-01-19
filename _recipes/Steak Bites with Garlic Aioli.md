@@ -22,7 +22,7 @@ ingredients:
     amount: 1 tbsp
     notes: fresh, grated
     group: Main Dish
-  - name: lemon jice 
+  - name: lemon juice
     amount: 1 tbsp
     notes: 
     group: Main Dish

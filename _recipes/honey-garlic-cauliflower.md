@@ -35,7 +35,7 @@ ingredients:
     amount: 1/4 cup
     notes: 
     group: Main Dish
-  - name: corn starch
+  - name: cornstarch
     amount: 2 tsp.
     notes: 
     group: Main Dish
