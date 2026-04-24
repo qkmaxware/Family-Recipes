@@ -8,19 +8,19 @@ links:
 ingredients:
   - name: sugar
     amount: 2 cups
-    notes: white
-    group: Main Dish
-  - name: cocoa powder
-    amount: 4 tbsp
-    notes: 
-    group: Main Dish
-  - name: milk
-    amount: 1/2 cup
     notes: 
     group: Main Dish
   - name: butter
-    amount: 1/2 cup 
-    notes: (or margarine)
+    amount: 1/2 cup
+    notes: margarine can be substituted
+    group: Main Dish
+  - name: vanilla extract
+    amount: 1 tsp
+    notes: 
+    group: Main Dish
+  - name: cocoa powder
+    amount: 1/2 cup
+    notes: 
     group: Main Dish
   - name: rolled oats
     amount: 2 cups
@@ -28,20 +28,17 @@ ingredients:
     group: Main Dish
   - name: coconut
     amount: 2 cups
-    notes: 
-    group: Main Dish
-  - name: vanilla extract
-    amount: 1 tsp
-    notes: 
+    notes: flaked
     group: Main Dish
   - name: salt
-    amount: 1/8 tsp
+    amount: 1 dash
     notes: 
     group: Main Dish
 
 ---
 ## Instructions
-1. Mix together sugar, cocoa, and milk together in a large pot. Bring to a rolling boil.
-2. Take off the stove and add the rest of the ingredients.
-3. Drop by the teaspoon onto waxed paper.
-4. Let cool until hardened
+1. In a large saucepan, combine sugar, butter, cocoa, and salt. 
+2. Heat to boiling, stirring frequently.
+3. When it has reached a rolling boil, cook for 5 minutes, stirring constantly.
+4. Remove from stove and add vanilla, oats and coconut.
+5. Drop by the tablespoon onto parchment paper.
