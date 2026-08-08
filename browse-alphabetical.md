@@ -12,7 +12,7 @@ layout: page_with_sidebar
 {% endif %}
 
 <aside>
-To browse by category click <a href="{{site.baseurl}}/browse-category">here</a>.
+{% include browse_tabs.html tab="alpha" %}
 </aside>
 
 {% if categories %}

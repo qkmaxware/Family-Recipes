@@ -15,7 +15,7 @@ layout: page_with_sidebar
 {% endif %}
 
 <aside>
-To browse alphabetically click <a href="{{site.baseurl}}/browse-alphabetical">here</a>.
+{% include browse_tabs.html tab="category" %}
 </aside>
 
 {% if categories %}

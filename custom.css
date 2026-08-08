@@ -186,3 +186,29 @@ button.small {
 #sidebar div a {
     padding: 8px 16px 8px 48px;
 }
+
+.tab-group {
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 6px;
+    margin-left: -18px;
+    padding-left: 18px;
+    margin-right: -18px;
+    padding-right: 18px;
+}
+
+.tab {
+    padding: 12px 6px;
+    border-top: 1px solid lightgray;
+    border-left: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+    border-top-left-radius: 6px; 
+    border-top-right-radius: 6px;
+    background-color: #dad3c9;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.tab.active {
+    padding: 12px 6px;
+    background-color: #F1EADF; 
+}
